@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 95,
+    "start_index": 427,
+    "scores": {
+      "periodic": 1.9571270521913462,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Haptics_Haptics_TRAIN_idx95_L96_start427",
+      "192": "Haptics_Haptics_TRAIN_idx95_L192_start427",
+      "288": "Haptics_Haptics_TRAIN_idx95_L288_start427",
+      "384": "Haptics_Haptics_TRAIN_idx95_L384_start427",
+      "512": "Haptics_Haptics_TRAIN_idx95_L512_start427"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 92,
+    "start_index": 580,
+    "scores": {
+      "periodic": 0.6994513935787803,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Haptics_Haptics_TRAIN_idx92_L96_start580",
+      "192": "Haptics_Haptics_TRAIN_idx92_L192_start580",
+      "288": "Haptics_Haptics_TRAIN_idx92_L288_start580",
+      "384": "Haptics_Haptics_TRAIN_idx92_L384_start580",
+      "512": "Haptics_Haptics_TRAIN_idx92_L512_start580"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 92,
+    "start_index": 244,
+    "scores": {
+      "periodic": 0.8352725787392389,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Haptics_Haptics_TRAIN_idx92_L96_start244",
+      "192": "Haptics_Haptics_TRAIN_idx92_L192_start244",
+      "288": "Haptics_Haptics_TRAIN_idx92_L288_start244",
+      "384": "Haptics_Haptics_TRAIN_idx92_L384_start244",
+      "512": "Haptics_Haptics_TRAIN_idx92_L512_start244"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 92,
+    "start_index": 183,
+    "scores": {
+      "periodic": 0.8816979626548023,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Haptics_Haptics_TRAIN_idx92_L96_start183",
+      "192": "Haptics_Haptics_TRAIN_idx92_L192_start183",
+      "288": "Haptics_Haptics_TRAIN_idx92_L288_start183",
+      "384": "Haptics_Haptics_TRAIN_idx92_L384_start183",
+      "512": "Haptics_Haptics_TRAIN_idx92_L512_start183"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 92,
+    "start_index": 549,
+    "scores": {
+      "periodic": 0.9162655097388951,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Haptics_Haptics_TRAIN_idx92_L96_start549",
+      "192": "Haptics_Haptics_TRAIN_idx92_L192_start549",
+      "288": "Haptics_Haptics_TRAIN_idx92_L288_start549",
+      "384": "Haptics_Haptics_TRAIN_idx92_L384_start549",
+      "512": "Haptics_Haptics_TRAIN_idx92_L512_start549"
+    }
+  }
+]

@@ -1,0 +1,4 @@
+model,n_caption_preds,n_total_preds,acc_meta_only,acc_caption,acc_wrong_caption,delta_vs_meta_only
+cnn,0,400,0.2525,0.365,0.34,0.11249999999999999
+mlp,0,400,0.2575,0.3525,0.34,0.09499999999999997
+patchtst,0,400,0.2575,0.3425,0.3425,0.08500000000000002

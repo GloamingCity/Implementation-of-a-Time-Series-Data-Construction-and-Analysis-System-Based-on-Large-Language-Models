@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 42,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.7390958385733915,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "PEMS-SF_PEMS-SF_TRAIN_idx42_L24_start0",
+      "54": "PEMS-SF_PEMS-SF_TRAIN_idx42_L54_start0",
+      "84": "PEMS-SF_PEMS-SF_TRAIN_idx42_L84_start0",
+      "114": "PEMS-SF_PEMS-SF_TRAIN_idx42_L114_start0",
+      "144": "PEMS-SF_PEMS-SF_TRAIN_idx42_L144_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 264,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.4415944785831122,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "PEMS-SF_PEMS-SF_TRAIN_idx264_L24_start0",
+      "54": "PEMS-SF_PEMS-SF_TRAIN_idx264_L54_start0",
+      "84": "PEMS-SF_PEMS-SF_TRAIN_idx264_L84_start0",
+      "114": "PEMS-SF_PEMS-SF_TRAIN_idx264_L114_start0",
+      "144": "PEMS-SF_PEMS-SF_TRAIN_idx264_L144_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 101,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.20974565816395585,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "PEMS-SF_PEMS-SF_TRAIN_idx101_L24_start0",
+      "54": "PEMS-SF_PEMS-SF_TRAIN_idx101_L54_start0",
+      "84": "PEMS-SF_PEMS-SF_TRAIN_idx101_L84_start0",
+      "114": "PEMS-SF_PEMS-SF_TRAIN_idx101_L114_start0",
+      "144": "PEMS-SF_PEMS-SF_TRAIN_idx101_L144_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 159,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.2025939783593274,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "PEMS-SF_PEMS-SF_TRAIN_idx159_L24_start0",
+      "54": "PEMS-SF_PEMS-SF_TRAIN_idx159_L54_start0",
+      "84": "PEMS-SF_PEMS-SF_TRAIN_idx159_L84_start0",
+      "114": "PEMS-SF_PEMS-SF_TRAIN_idx159_L114_start0",
+      "144": "PEMS-SF_PEMS-SF_TRAIN_idx159_L144_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 212,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.21768087692429894,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "24": "PEMS-SF_PEMS-SF_TRAIN_idx212_L24_start0",
+      "54": "PEMS-SF_PEMS-SF_TRAIN_idx212_L54_start0",
+      "84": "PEMS-SF_PEMS-SF_TRAIN_idx212_L84_start0",
+      "114": "PEMS-SF_PEMS-SF_TRAIN_idx212_L114_start0",
+      "144": "PEMS-SF_PEMS-SF_TRAIN_idx212_L144_start0"
+    }
+  }
+]

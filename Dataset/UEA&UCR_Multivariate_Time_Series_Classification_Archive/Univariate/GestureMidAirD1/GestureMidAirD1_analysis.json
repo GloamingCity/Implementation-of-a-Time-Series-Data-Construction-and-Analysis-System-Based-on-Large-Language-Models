@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "GestureMidAirD1",
+    "lengths": [
+      60,
+      135,
+      210,
+      285,
+      360
+    ],
+    "mean_scores": [
+      83.0,
+      81.0,
+      78.4,
+      78.0,
+      67.0
+    ],
+    "rho_len_score": -1.0,
+    "relation": "negative",
+    "overall_score": 77.48
+  }
+]

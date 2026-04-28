@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "CricketX",
+    "lengths": [
+      50,
+      112,
+      175,
+      238,
+      300
+    ],
+    "mean_scores": [
+      83.0,
+      80.0,
+      77.6,
+      79.0,
+      81.4
+    ],
+    "rho_len_score": -0.3,
+    "relation": "negative",
+    "overall_score": 80.2
+  }
+]

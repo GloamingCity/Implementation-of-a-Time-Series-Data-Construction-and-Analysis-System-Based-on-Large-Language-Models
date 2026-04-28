@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 45,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.9197361266833934,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "60": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx45_L60_start0",
+      "135": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx45_L135_start0",
+      "210": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx45_L210_start0",
+      "285": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx45_L285_start0",
+      "360": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx45_L360_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 83,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8405305356216568,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "60": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx83_L60_start0",
+      "135": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx83_L135_start0",
+      "210": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx83_L210_start0",
+      "285": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx83_L285_start0",
+      "360": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx83_L360_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 113,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.5622088432194794,
+      "volatile_event": 0.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "60": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx113_L60_start0",
+      "135": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx113_L135_start0",
+      "210": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx113_L210_start0",
+      "285": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx113_L285_start0",
+      "360": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx113_L360_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 93,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8391671958351656,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "60": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx93_L60_start0",
+      "135": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx93_L135_start0",
+      "210": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx93_L210_start0",
+      "285": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx93_L285_start0",
+      "360": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx93_L360_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 72,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8052932089092328,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "60": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx72_L60_start0",
+      "135": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx72_L135_start0",
+      "210": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx72_L210_start0",
+      "285": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx72_L285_start0",
+      "360": "GestureMidAirD2_GestureMidAirD2_TRAIN_idx72_L360_start0"
+    }
+  }
+]

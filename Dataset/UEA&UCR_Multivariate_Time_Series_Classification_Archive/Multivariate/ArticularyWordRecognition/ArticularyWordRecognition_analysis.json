@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "ArticularyWordRecognition",
+    "lengths": [
+      24,
+      54,
+      84,
+      114,
+      144
+    ],
+    "mean_scores": [
+      81.8,
+      83.6,
+      78.0,
+      80.0,
+      81.0
+    ],
+    "rho_len_score": -0.5,
+    "relation": "negative",
+    "overall_score": 80.88
+  }
+]

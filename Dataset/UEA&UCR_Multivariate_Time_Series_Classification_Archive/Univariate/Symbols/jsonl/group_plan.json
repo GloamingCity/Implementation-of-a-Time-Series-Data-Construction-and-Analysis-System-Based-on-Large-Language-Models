@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 5,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.9182075570106312,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "66": "Symbols_Symbols_TRAIN_idx5_L66_start0",
+      "149": "Symbols_Symbols_TRAIN_idx5_L149_start0",
+      "232": "Symbols_Symbols_TRAIN_idx5_L232_start0",
+      "315": "Symbols_Symbols_TRAIN_idx5_L315_start0",
+      "398": "Symbols_Symbols_TRAIN_idx5_L398_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 1,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.12387377841533743,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "66": "Symbols_Symbols_TRAIN_idx1_L66_start0",
+      "149": "Symbols_Symbols_TRAIN_idx1_L149_start0",
+      "232": "Symbols_Symbols_TRAIN_idx1_L232_start0",
+      "315": "Symbols_Symbols_TRAIN_idx1_L315_start0",
+      "398": "Symbols_Symbols_TRAIN_idx1_L398_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 7,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.9157489463427089,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "66": "Symbols_Symbols_TRAIN_idx7_L66_start0",
+      "149": "Symbols_Symbols_TRAIN_idx7_L149_start0",
+      "232": "Symbols_Symbols_TRAIN_idx7_L232_start0",
+      "315": "Symbols_Symbols_TRAIN_idx7_L315_start0",
+      "398": "Symbols_Symbols_TRAIN_idx7_L398_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 18,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.27241897321793346,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "66": "Symbols_Symbols_TRAIN_idx18_L66_start0",
+      "149": "Symbols_Symbols_TRAIN_idx18_L149_start0",
+      "232": "Symbols_Symbols_TRAIN_idx18_L232_start0",
+      "315": "Symbols_Symbols_TRAIN_idx18_L315_start0",
+      "398": "Symbols_Symbols_TRAIN_idx18_L398_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 15,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6798508218181265,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "66": "Symbols_Symbols_TRAIN_idx15_L66_start0",
+      "149": "Symbols_Symbols_TRAIN_idx15_L149_start0",
+      "232": "Symbols_Symbols_TRAIN_idx15_L232_start0",
+      "315": "Symbols_Symbols_TRAIN_idx15_L315_start0",
+      "398": "Symbols_Symbols_TRAIN_idx15_L398_start0"
+    }
+  }
+]

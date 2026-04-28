@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "WordSynonyms",
+    "lengths": [
+      45,
+      101,
+      158,
+      214,
+      270
+    ],
+    "mean_scores": [
+      78.0,
+      78.4,
+      77.6,
+      75.8,
+      78.0
+    ],
+    "rho_len_score": -0.4104,
+    "relation": "negative",
+    "overall_score": 77.56
+  }
+]

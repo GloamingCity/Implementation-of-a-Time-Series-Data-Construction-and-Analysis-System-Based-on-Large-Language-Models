@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "SelfRegulationSCP1",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      80.0,
+      73.6,
+      74.0,
+      78.6,
+      78.6
+    ],
+    "rho_len_score": -0.0513,
+    "relation": "flat",
+    "overall_score": 76.96
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "CricketZ",
+    "lengths": [
+      50,
+      112,
+      175,
+      238,
+      300
+    ],
+    "mean_scores": [
+      80.0,
+      82.2,
+      79.2,
+      73.6,
+      84.4
+    ],
+    "rho_len_score": 0.1,
+    "relation": "flat",
+    "overall_score": 79.88
+  }
+]

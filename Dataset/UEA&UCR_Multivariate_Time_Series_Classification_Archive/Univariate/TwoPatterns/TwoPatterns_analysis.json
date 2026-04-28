@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "TwoPatterns",
+    "lengths": [
+      24,
+      50,
+      76,
+      102,
+      128
+    ],
+    "mean_scores": [
+      81.4,
+      80.8,
+      83.4,
+      78.0,
+      78.8
+    ],
+    "rho_len_score": -0.6,
+    "relation": "negative",
+    "overall_score": 80.48
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 1,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.5557272120348886,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "BirdChicken_BirdChicken_TRAIN_idx1_L96_start0",
+      "192": "BirdChicken_BirdChicken_TRAIN_idx1_L192_start0",
+      "288": "BirdChicken_BirdChicken_TRAIN_idx1_L288_start0",
+      "384": "BirdChicken_BirdChicken_TRAIN_idx1_L384_start0",
+      "512": "BirdChicken_BirdChicken_TRAIN_idx1_L512_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 13,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.38380227143136497,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "BirdChicken_BirdChicken_TRAIN_idx13_L96_start0",
+      "192": "BirdChicken_BirdChicken_TRAIN_idx13_L192_start0",
+      "288": "BirdChicken_BirdChicken_TRAIN_idx13_L288_start0",
+      "384": "BirdChicken_BirdChicken_TRAIN_idx13_L384_start0",
+      "512": "BirdChicken_BirdChicken_TRAIN_idx13_L512_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 7,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.2283169761025042,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "BirdChicken_BirdChicken_TRAIN_idx7_L96_start0",
+      "192": "BirdChicken_BirdChicken_TRAIN_idx7_L192_start0",
+      "288": "BirdChicken_BirdChicken_TRAIN_idx7_L288_start0",
+      "384": "BirdChicken_BirdChicken_TRAIN_idx7_L384_start0",
+      "512": "BirdChicken_BirdChicken_TRAIN_idx7_L512_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 10,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.2052454535588686,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "BirdChicken_BirdChicken_TRAIN_idx10_L96_start0",
+      "192": "BirdChicken_BirdChicken_TRAIN_idx10_L192_start0",
+      "288": "BirdChicken_BirdChicken_TRAIN_idx10_L288_start0",
+      "384": "BirdChicken_BirdChicken_TRAIN_idx10_L384_start0",
+      "512": "BirdChicken_BirdChicken_TRAIN_idx10_L512_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 11,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.19319301449731996,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "BirdChicken_BirdChicken_TRAIN_idx11_L96_start0",
+      "192": "BirdChicken_BirdChicken_TRAIN_idx11_L192_start0",
+      "288": "BirdChicken_BirdChicken_TRAIN_idx11_L288_start0",
+      "384": "BirdChicken_BirdChicken_TRAIN_idx11_L384_start0",
+      "512": "BirdChicken_BirdChicken_TRAIN_idx11_L512_start0"
+    }
+  }
+]

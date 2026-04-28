@@ -1,0 +1,29 @@
+[
+  {
+    "model": "cnn",
+    "n_caption_preds": 0,
+    "n_total_preds": 400,
+    "acc_meta_only": 0.27,
+    "acc_caption": 0.3725,
+    "acc_wrong_caption": 0.3425,
+    "delta_vs_meta_only": 0.10249999999999998
+  },
+  {
+    "model": "mlp",
+    "n_caption_preds": 0,
+    "n_total_preds": 400,
+    "acc_meta_only": 0.2625,
+    "acc_caption": 0.3525,
+    "acc_wrong_caption": 0.34,
+    "delta_vs_meta_only": 0.08999999999999997
+  },
+  {
+    "model": "patchtst",
+    "n_caption_preds": 0,
+    "n_total_preds": 400,
+    "acc_meta_only": 0.2675,
+    "acc_caption": 0.35,
+    "acc_wrong_caption": 0.3475,
+    "delta_vs_meta_only": 0.08249999999999996
+  }
+]

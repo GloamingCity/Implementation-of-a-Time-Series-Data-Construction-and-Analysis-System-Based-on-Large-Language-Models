@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 492,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6868081244082331,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "25": "Wafer_Wafer_TRAIN_idx492_L25_start0",
+      "57": "Wafer_Wafer_TRAIN_idx492_L57_start0",
+      "88": "Wafer_Wafer_TRAIN_idx492_L88_start0",
+      "120": "Wafer_Wafer_TRAIN_idx492_L120_start0",
+      "152": "Wafer_Wafer_TRAIN_idx492_L152_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 661,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.17097111440874263,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "25": "Wafer_Wafer_TRAIN_idx661_L25_start0",
+      "57": "Wafer_Wafer_TRAIN_idx661_L57_start0",
+      "88": "Wafer_Wafer_TRAIN_idx661_L88_start0",
+      "120": "Wafer_Wafer_TRAIN_idx661_L120_start0",
+      "152": "Wafer_Wafer_TRAIN_idx661_L152_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 174,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.28050308779986965,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "25": "Wafer_Wafer_TRAIN_idx174_L25_start0",
+      "57": "Wafer_Wafer_TRAIN_idx174_L57_start0",
+      "88": "Wafer_Wafer_TRAIN_idx174_L88_start0",
+      "120": "Wafer_Wafer_TRAIN_idx174_L120_start0",
+      "152": "Wafer_Wafer_TRAIN_idx174_L152_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 775,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.592860555253292,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "25": "Wafer_Wafer_TRAIN_idx775_L25_start0",
+      "57": "Wafer_Wafer_TRAIN_idx775_L57_start0",
+      "88": "Wafer_Wafer_TRAIN_idx775_L88_start0",
+      "120": "Wafer_Wafer_TRAIN_idx775_L120_start0",
+      "152": "Wafer_Wafer_TRAIN_idx775_L152_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 135,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.27082300660283426,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "25": "Wafer_Wafer_TRAIN_idx135_L25_start0",
+      "57": "Wafer_Wafer_TRAIN_idx135_L57_start0",
+      "88": "Wafer_Wafer_TRAIN_idx135_L88_start0",
+      "120": "Wafer_Wafer_TRAIN_idx135_L120_start0",
+      "152": "Wafer_Wafer_TRAIN_idx135_L152_start0"
+    }
+  }
+]

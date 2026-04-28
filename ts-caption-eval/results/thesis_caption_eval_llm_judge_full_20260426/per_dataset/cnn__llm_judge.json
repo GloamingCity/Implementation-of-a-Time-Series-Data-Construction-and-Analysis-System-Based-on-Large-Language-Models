@@ -1,0 +1,18 @@
+{
+  "ett": {
+    "faithfulness": 3.33,
+    "completeness": 4.2
+  },
+  "fred": {
+    "faithfulness": 3.15,
+    "completeness": 4.06
+  },
+  "nab": {
+    "faithfulness": 2.4,
+    "completeness": 3.8
+  },
+  "ucr": {
+    "faithfulness": 3.11,
+    "completeness": 4.25
+  }
+}

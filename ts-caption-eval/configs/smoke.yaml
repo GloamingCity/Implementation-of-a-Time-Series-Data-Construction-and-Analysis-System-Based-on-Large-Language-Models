@@ -1,0 +1,42 @@
+# Smoke test configuration: reference_based only, tiny subset.
+# Produces a main table in ~5 seconds with no network calls (given a
+# pre-built reference file). Used by tests/test_end_to_end.py.
+
+experiment_name: smoke
+
+n_per_dataset: 5
+
+datasets:
+  - name: fred
+    path: data/captions/fred.jsonl
+  - name: ett
+    path: data/captions/ett.jsonl
+
+reference:
+  path: references/gt_captions.jsonl
+
+models:
+  - name: student_qwen3_4b_tsenc
+    predictions_path: predictions/student_qwen3_4b_tsenc.jsonl
+    parser: default
+  - name: chatts_14b
+    predictions_path: predictions/chatts_14b.jsonl
+    parser: chatts
+  - name: pure_qwen3_4b_prompt
+    predictions_path: predictions/pure_qwen3_4b_prompt.jsonl
+    parser: default
+
+evaluators:
+  reference_based:
+    enabled: true
+    metrics: [bleu4, rouge_l]  # skip bertscore to avoid torch download in smoke
+
+  llm_judge:
+    enabled: false
+
+  downstream_qa:
+    enabled: false
+
+output:
+  dir: results/smoke
+  format: [md, csv, json]

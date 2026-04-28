@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Wafer",
+    "lengths": [
+      25,
+      57,
+      88,
+      120,
+      152
+    ],
+    "mean_scores": [
+      79.8,
+      80.2,
+      77.0,
+      76.2,
+      82.6
+    ],
+    "rho_len_score": 0.1,
+    "relation": "flat",
+    "overall_score": 79.16
+  }
+]

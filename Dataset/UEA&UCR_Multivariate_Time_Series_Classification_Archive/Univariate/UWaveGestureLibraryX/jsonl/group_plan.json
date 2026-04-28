@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 437,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.948319926408361,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "52": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx437_L52_start0",
+      "118": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx437_L118_start0",
+      "184": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx437_L184_start0",
+      "249": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx437_L249_start0",
+      "315": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx437_L315_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 219,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.17624767331587726,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "52": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx219_L52_start0",
+      "118": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx219_L118_start0",
+      "184": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx219_L184_start0",
+      "249": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx219_L249_start0",
+      "315": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx219_L315_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 847,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.939330518753871,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "52": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx847_L52_start0",
+      "118": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx847_L118_start0",
+      "184": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx847_L184_start0",
+      "249": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx847_L249_start0",
+      "315": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx847_L315_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 338,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.1746169367622997,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "52": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx338_L52_start0",
+      "118": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx338_L118_start0",
+      "184": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx338_L184_start0",
+      "249": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx338_L249_start0",
+      "315": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx338_L315_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 818,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8062468903356952,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "52": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx818_L52_start0",
+      "118": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx818_L118_start0",
+      "184": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx818_L184_start0",
+      "249": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx818_L249_start0",
+      "315": "UWaveGestureLibraryX_UWaveGestureLibraryX_TRAIN_idx818_L315_start0"
+    }
+  }
+]

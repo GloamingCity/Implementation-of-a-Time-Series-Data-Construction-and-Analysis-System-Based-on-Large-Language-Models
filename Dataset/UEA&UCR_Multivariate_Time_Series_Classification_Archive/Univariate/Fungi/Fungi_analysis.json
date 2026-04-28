@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Fungi",
+    "lengths": [
+      33,
+      75,
+      117,
+      159,
+      201
+    ],
+    "mean_scores": [
+      80.8,
+      85.2,
+      84.8,
+      76.0,
+      79.0
+    ],
+    "rho_len_score": -0.6,
+    "relation": "negative",
+    "overall_score": 81.16
+  }
+]

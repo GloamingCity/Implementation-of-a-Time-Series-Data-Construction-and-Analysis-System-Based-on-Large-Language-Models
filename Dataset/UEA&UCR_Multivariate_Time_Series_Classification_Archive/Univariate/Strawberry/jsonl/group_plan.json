@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 211,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6977735953313342,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "39": "Strawberry_Strawberry_TRAIN_idx211_L39_start0",
+      "88": "Strawberry_Strawberry_TRAIN_idx211_L88_start0",
+      "137": "Strawberry_Strawberry_TRAIN_idx211_L137_start0",
+      "186": "Strawberry_Strawberry_TRAIN_idx211_L186_start0",
+      "235": "Strawberry_Strawberry_TRAIN_idx211_L235_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 461,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.16560728776572436,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "39": "Strawberry_Strawberry_TRAIN_idx461_L39_start0",
+      "88": "Strawberry_Strawberry_TRAIN_idx461_L88_start0",
+      "137": "Strawberry_Strawberry_TRAIN_idx461_L137_start0",
+      "186": "Strawberry_Strawberry_TRAIN_idx461_L186_start0",
+      "235": "Strawberry_Strawberry_TRAIN_idx461_L235_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 589,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6892408860122792,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "39": "Strawberry_Strawberry_TRAIN_idx589_L39_start0",
+      "88": "Strawberry_Strawberry_TRAIN_idx589_L88_start0",
+      "137": "Strawberry_Strawberry_TRAIN_idx589_L137_start0",
+      "186": "Strawberry_Strawberry_TRAIN_idx589_L186_start0",
+      "235": "Strawberry_Strawberry_TRAIN_idx589_L235_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 234,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.18723785346342053,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "39": "Strawberry_Strawberry_TRAIN_idx234_L39_start0",
+      "88": "Strawberry_Strawberry_TRAIN_idx234_L88_start0",
+      "137": "Strawberry_Strawberry_TRAIN_idx234_L137_start0",
+      "186": "Strawberry_Strawberry_TRAIN_idx234_L186_start0",
+      "235": "Strawberry_Strawberry_TRAIN_idx234_L235_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 150,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.1797015853042282,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "39": "Strawberry_Strawberry_TRAIN_idx150_L39_start0",
+      "88": "Strawberry_Strawberry_TRAIN_idx150_L88_start0",
+      "137": "Strawberry_Strawberry_TRAIN_idx150_L137_start0",
+      "186": "Strawberry_Strawberry_TRAIN_idx150_L186_start0",
+      "235": "Strawberry_Strawberry_TRAIN_idx150_L235_start0"
+    }
+  }
+]

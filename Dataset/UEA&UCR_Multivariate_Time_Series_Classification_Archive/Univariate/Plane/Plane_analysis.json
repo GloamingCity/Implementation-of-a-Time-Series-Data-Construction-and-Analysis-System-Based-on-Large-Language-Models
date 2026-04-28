@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Plane",
+    "lengths": [
+      24,
+      54,
+      84,
+      114,
+      144
+    ],
+    "mean_scores": [
+      78.6,
+      78.2,
+      76.2,
+      81.8,
+      85.0
+    ],
+    "rho_len_score": 0.6,
+    "relation": "positive",
+    "overall_score": 79.96
+  }
+]

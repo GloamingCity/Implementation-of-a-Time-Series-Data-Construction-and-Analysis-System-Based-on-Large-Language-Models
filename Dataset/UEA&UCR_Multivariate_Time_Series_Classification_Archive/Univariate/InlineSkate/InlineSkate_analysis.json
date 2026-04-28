@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "InlineSkate",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      84.6,
+      79.8,
+      79.0,
+      76.0,
+      75.0
+    ],
+    "rho_len_score": -1.0,
+    "relation": "negative",
+    "overall_score": 78.88
+  }
+]

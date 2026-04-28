@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Herring",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      78.6,
+      76.0,
+      78.2,
+      76.2,
+      76.2
+    ],
+    "rho_len_score": -0.3591,
+    "relation": "negative",
+    "overall_score": 77.04
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "WormsTwoClass",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      81.0,
+      83.6,
+      83.6,
+      79.6,
+      82.0
+    ],
+    "rho_len_score": -0.1539,
+    "relation": "flat",
+    "overall_score": 81.96
+  }
+]

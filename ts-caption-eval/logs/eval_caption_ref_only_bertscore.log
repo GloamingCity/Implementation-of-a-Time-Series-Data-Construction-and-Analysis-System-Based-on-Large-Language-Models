@@ -1,0 +1,119 @@
+'[Errno 101] Network is unreachable' thrown while requesting HEAD https://huggingface.co/roberta-large/resolve/main/config.json
+WARNING:huggingface_hub.utils._http:'[Errno 101] Network is unreachable' thrown while requesting HEAD https://huggingface.co/roberta-large/resolve/main/config.json
+Retrying in 1s [Retry 1/5].
+WARNING:huggingface_hub.utils._http:Retrying in 1s [Retry 1/5].
+'[Errno 101] Network is unreachable' thrown while requesting HEAD https://huggingface.co/roberta-large/resolve/main/config.json
+WARNING:huggingface_hub.utils._http:'[Errno 101] Network is unreachable' thrown while requesting HEAD https://huggingface.co/roberta-large/resolve/main/config.json
+Retrying in 1s [Retry 1/5].
+WARNING:huggingface_hub.utils._http:Retrying in 1s [Retry 1/5].
+Traceback (most recent call last):
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/transformers/configuration_utils.py", line 725, in _get_config_dict
+    resolved_config_file = cached_file(
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/transformers/utils/hub.py", line 278, in cached_file
+    file = cached_files(path_or_repo_id=path_or_repo_id, filenames=[filename], **kwargs)
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/transformers/utils/hub.py", line 512, in cached_files
+    raise e
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/transformers/utils/hub.py", line 422, in cached_files
+    hf_hub_download(
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 88, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 997, in hf_hub_download
+    return _hf_hub_download_to_cache_dir(
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 1130, in _hf_hub_download_to_cache_dir
+    _get_metadata_or_catch_error(
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 1669, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 88, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 1591, in get_hf_file_metadata
+    response = _httpx_follow_relative_redirects_with_backoff(
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/huggingface_hub/utils/_http.py", line 685, in _httpx_follow_relative_redirects_with_backoff
+    response = http_backoff(
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/huggingface_hub/utils/_http.py", line 559, in http_backoff
+    return next(
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/huggingface_hub/utils/_http.py", line 467, in _http_backoff_base
+    response = client.request(method=method, url=url, **kwargs)
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/httpx/_client.py", line 901, in send
+    raise RuntimeError("Cannot send a request, as the client has been closed.")
+RuntimeError: Cannot send a request, as the client has been closed.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/transformers/models/auto/tokenization_auto.py", line 684, in from_pretrained
+    config = AutoConfig.from_pretrained(
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/transformers/models/auto/configuration_auto.py", line 1483, in from_pretrained
+    config_dict, unused_kwargs = PreTrainedConfig.get_config_dict(pretrained_model_name_or_path, **kwargs)
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/transformers/configuration_utils.py", line 670, in get_config_dict
+    config_dict, kwargs = cls._get_config_dict(pretrained_model_name_or_path, **kwargs)
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/transformers/configuration_utils.py", line 747, in _get_config_dict
+    raise OSError(
+OSError: Can't load the configuration of 'roberta-large'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'roberta-large' is the correct path to a directory containing a config.json file
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/transformers/configuration_utils.py", line 725, in _get_config_dict
+    resolved_config_file = cached_file(
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/transformers/utils/hub.py", line 278, in cached_file
+    file = cached_files(path_or_repo_id=path_or_repo_id, filenames=[filename], **kwargs)
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/transformers/utils/hub.py", line 512, in cached_files
+    raise e
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/transformers/utils/hub.py", line 422, in cached_files
+    hf_hub_download(
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 88, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 997, in hf_hub_download
+    return _hf_hub_download_to_cache_dir(
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 1130, in _hf_hub_download_to_cache_dir
+    _get_metadata_or_catch_error(
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 1669, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 88, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/huggingface_hub/file_download.py", line 1591, in get_hf_file_metadata
+    response = _httpx_follow_relative_redirects_with_backoff(
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/huggingface_hub/utils/_http.py", line 685, in _httpx_follow_relative_redirects_with_backoff
+    response = http_backoff(
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/huggingface_hub/utils/_http.py", line 559, in http_backoff
+    return next(
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/huggingface_hub/utils/_http.py", line 467, in _http_backoff_base
+    response = client.request(method=method, url=url, **kwargs)
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/httpx/_client.py", line 901, in send
+    raise RuntimeError("Cannot send a request, as the client has been closed.")
+RuntimeError: Cannot send a request, as the client has been closed.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/cluster/home/chenyudong/workspace/TS_LLM_Project/ts-caption-eval/tscapeval/__main__.py", line 4, in <module>
+    main()
+  File "/cluster/home/chenyudong/workspace/TS_LLM_Project/ts-caption-eval/tscapeval/runner.py", line 230, in main
+    rows = run(config)
+  File "/cluster/home/chenyudong/workspace/TS_LLM_Project/ts-caption-eval/tscapeval/runner.py", line 163, in run
+    r = ev.evaluate(caption_preds, references=references)
+  File "/cluster/home/chenyudong/workspace/TS_LLM_Project/ts-caption-eval/tscapeval/metrics/reference_based.py", line 61, in evaluate
+    bs_vals = self._bertscore([p for _, p, _ in pairs], [r for _, _, r in pairs])
+  File "/cluster/home/chenyudong/workspace/TS_LLM_Project/ts-caption-eval/tscapeval/metrics/reference_based.py", line 98, in _bertscore
+    _P, _R, F1 = bs_score(
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/bert_score/score.py", line 97, in score
+    tokenizer = get_tokenizer(model_type, use_fast_tokenizer)
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/bert_score/utils.py", line 329, in get_tokenizer
+    tokenizer = AutoTokenizer.from_pretrained(model_type, use_fast=use_fast)
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/transformers/models/auto/tokenization_auto.py", line 688, in from_pretrained
+    config = PreTrainedConfig.from_pretrained(pretrained_model_name_or_path, **kwargs)
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/transformers/configuration_utils.py", line 629, in from_pretrained
+    config_dict, kwargs = cls.get_config_dict(pretrained_model_name_or_path, **kwargs)
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/transformers/configuration_utils.py", line 670, in get_config_dict
+    config_dict, kwargs = cls._get_config_dict(pretrained_model_name_or_path, **kwargs)
+  File "/cluster/home/chenyudong/miniconda3/envs/ts_llm/lib/python3.10/site-packages/transformers/configuration_utils.py", line 747, in _get_config_dict
+    raise OSError(
+OSError: Can't load the configuration of 'roberta-large'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'roberta-large' is the correct path to a directory containing a config.json file

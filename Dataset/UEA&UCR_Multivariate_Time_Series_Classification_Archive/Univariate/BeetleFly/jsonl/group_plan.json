@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 6,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.46087002099509694,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "BeetleFly_BeetleFly_TRAIN_idx6_L96_start0",
+      "192": "BeetleFly_BeetleFly_TRAIN_idx6_L192_start0",
+      "288": "BeetleFly_BeetleFly_TRAIN_idx6_L288_start0",
+      "384": "BeetleFly_BeetleFly_TRAIN_idx6_L384_start0",
+      "512": "BeetleFly_BeetleFly_TRAIN_idx6_L512_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 10,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.29956566202040535,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "BeetleFly_BeetleFly_TRAIN_idx10_L96_start0",
+      "192": "BeetleFly_BeetleFly_TRAIN_idx10_L192_start0",
+      "288": "BeetleFly_BeetleFly_TRAIN_idx10_L288_start0",
+      "384": "BeetleFly_BeetleFly_TRAIN_idx10_L384_start0",
+      "512": "BeetleFly_BeetleFly_TRAIN_idx10_L512_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 11,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.28664915283533643,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "BeetleFly_BeetleFly_TRAIN_idx11_L96_start0",
+      "192": "BeetleFly_BeetleFly_TRAIN_idx11_L192_start0",
+      "288": "BeetleFly_BeetleFly_TRAIN_idx11_L288_start0",
+      "384": "BeetleFly_BeetleFly_TRAIN_idx11_L384_start0",
+      "512": "BeetleFly_BeetleFly_TRAIN_idx11_L512_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 14,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.4045800500389748,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "BeetleFly_BeetleFly_TRAIN_idx14_L96_start0",
+      "192": "BeetleFly_BeetleFly_TRAIN_idx14_L192_start0",
+      "288": "BeetleFly_BeetleFly_TRAIN_idx14_L288_start0",
+      "384": "BeetleFly_BeetleFly_TRAIN_idx14_L384_start0",
+      "512": "BeetleFly_BeetleFly_TRAIN_idx14_L512_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 4,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.19132526062996197,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "BeetleFly_BeetleFly_TRAIN_idx4_L96_start0",
+      "192": "BeetleFly_BeetleFly_TRAIN_idx4_L192_start0",
+      "288": "BeetleFly_BeetleFly_TRAIN_idx4_L288_start0",
+      "384": "BeetleFly_BeetleFly_TRAIN_idx4_L384_start0",
+      "512": "BeetleFly_BeetleFly_TRAIN_idx4_L512_start0"
+    }
+  }
+]

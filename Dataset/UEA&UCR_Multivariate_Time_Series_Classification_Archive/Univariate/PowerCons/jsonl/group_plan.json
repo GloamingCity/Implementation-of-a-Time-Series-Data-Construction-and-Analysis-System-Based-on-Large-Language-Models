@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 20,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.5914703721134824,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "24": "PowerCons_PowerCons_TRAIN_idx20_L24_start0",
+      "54": "PowerCons_PowerCons_TRAIN_idx20_L54_start0",
+      "84": "PowerCons_PowerCons_TRAIN_idx20_L84_start0",
+      "114": "PowerCons_PowerCons_TRAIN_idx20_L114_start0",
+      "144": "PowerCons_PowerCons_TRAIN_idx20_L144_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 72,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.46793179851642563,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "24": "PowerCons_PowerCons_TRAIN_idx72_L24_start0",
+      "54": "PowerCons_PowerCons_TRAIN_idx72_L54_start0",
+      "84": "PowerCons_PowerCons_TRAIN_idx72_L84_start0",
+      "114": "PowerCons_PowerCons_TRAIN_idx72_L114_start0",
+      "144": "PowerCons_PowerCons_TRAIN_idx72_L144_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 143,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.6202224395067756,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "24": "PowerCons_PowerCons_TRAIN_idx143_L24_start0",
+      "54": "PowerCons_PowerCons_TRAIN_idx143_L54_start0",
+      "84": "PowerCons_PowerCons_TRAIN_idx143_L84_start0",
+      "114": "PowerCons_PowerCons_TRAIN_idx143_L114_start0",
+      "144": "PowerCons_PowerCons_TRAIN_idx143_L144_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 104,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.2336739952866521,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "PowerCons_PowerCons_TRAIN_idx104_L24_start0",
+      "54": "PowerCons_PowerCons_TRAIN_idx104_L54_start0",
+      "84": "PowerCons_PowerCons_TRAIN_idx104_L84_start0",
+      "114": "PowerCons_PowerCons_TRAIN_idx104_L114_start0",
+      "144": "PowerCons_PowerCons_TRAIN_idx104_L144_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 12,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.11669033483797904,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "PowerCons_PowerCons_TRAIN_idx12_L24_start0",
+      "54": "PowerCons_PowerCons_TRAIN_idx12_L54_start0",
+      "84": "PowerCons_PowerCons_TRAIN_idx12_L84_start0",
+      "114": "PowerCons_PowerCons_TRAIN_idx12_L114_start0",
+      "144": "PowerCons_PowerCons_TRAIN_idx12_L144_start0"
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 48,
+    "start_index": 32,
+    "scores": {
+      "periodic": 1.7942036222454565,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Lightning2_Lightning2_TRAIN_idx48_L96_start32",
+      "192": "Lightning2_Lightning2_TRAIN_idx48_L192_start32",
+      "288": "Lightning2_Lightning2_TRAIN_idx48_L288_start32",
+      "384": "Lightning2_Lightning2_TRAIN_idx48_L384_start32",
+      "512": "Lightning2_Lightning2_TRAIN_idx48_L512_start32"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 32,
+    "start_index": 65,
+    "scores": {
+      "periodic": 0.2669681240033647,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "Lightning2_Lightning2_TRAIN_idx32_L96_start65",
+      "192": "Lightning2_Lightning2_TRAIN_idx32_L192_start65",
+      "288": "Lightning2_Lightning2_TRAIN_idx32_L288_start65",
+      "384": "Lightning2_Lightning2_TRAIN_idx32_L384_start65",
+      "512": "Lightning2_Lightning2_TRAIN_idx32_L512_start65"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 39,
+    "start_index": 52,
+    "scores": {
+      "periodic": 0.3120196090106695,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Lightning2_Lightning2_TRAIN_idx39_L96_start52",
+      "192": "Lightning2_Lightning2_TRAIN_idx39_L192_start52",
+      "288": "Lightning2_Lightning2_TRAIN_idx39_L288_start52",
+      "384": "Lightning2_Lightning2_TRAIN_idx39_L384_start52",
+      "512": "Lightning2_Lightning2_TRAIN_idx39_L512_start52"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 32,
+    "start_index": 19,
+    "scores": {
+      "periodic": 0.16880841522140136,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Lightning2_Lightning2_TRAIN_idx32_L96_start19",
+      "192": "Lightning2_Lightning2_TRAIN_idx32_L192_start19",
+      "288": "Lightning2_Lightning2_TRAIN_idx32_L288_start19",
+      "384": "Lightning2_Lightning2_TRAIN_idx32_L384_start19",
+      "512": "Lightning2_Lightning2_TRAIN_idx32_L512_start19"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 1,
+    "start_index": 118,
+    "scores": {
+      "periodic": 0.6800760480862235,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Lightning2_Lightning2_TRAIN_idx1_L96_start118",
+      "192": "Lightning2_Lightning2_TRAIN_idx1_L192_start118",
+      "288": "Lightning2_Lightning2_TRAIN_idx1_L288_start118",
+      "384": "Lightning2_Lightning2_TRAIN_idx1_L384_start118",
+      "512": "Lightning2_Lightning2_TRAIN_idx1_L512_start118"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "FiftyWords",
+    "lengths": [
+      45,
+      101,
+      158,
+      214,
+      270
+    ],
+    "mean_scores": [
+      77.6,
+      80.2,
+      78.0,
+      82.2,
+      80.8
+    ],
+    "rho_len_score": 0.8,
+    "relation": "positive",
+    "overall_score": 79.76
+  }
+]

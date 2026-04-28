@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 29,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6051917083687408,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "24": "CBF_CBF_TRAIN_idx29_L24_start0",
+      "50": "CBF_CBF_TRAIN_idx29_L50_start0",
+      "76": "CBF_CBF_TRAIN_idx29_L76_start0",
+      "102": "CBF_CBF_TRAIN_idx29_L102_start0",
+      "128": "CBF_CBF_TRAIN_idx29_L128_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 7,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.3469519933640088,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "CBF_CBF_TRAIN_idx7_L24_start0",
+      "50": "CBF_CBF_TRAIN_idx7_L50_start0",
+      "76": "CBF_CBF_TRAIN_idx7_L76_start0",
+      "102": "CBF_CBF_TRAIN_idx7_L102_start0",
+      "128": "CBF_CBF_TRAIN_idx7_L128_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 18,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.49757348871183493,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "CBF_CBF_TRAIN_idx18_L24_start0",
+      "50": "CBF_CBF_TRAIN_idx18_L50_start0",
+      "76": "CBF_CBF_TRAIN_idx18_L76_start0",
+      "102": "CBF_CBF_TRAIN_idx18_L102_start0",
+      "128": "CBF_CBF_TRAIN_idx18_L128_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 17,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.30426043886316945,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "CBF_CBF_TRAIN_idx17_L24_start0",
+      "50": "CBF_CBF_TRAIN_idx17_L50_start0",
+      "76": "CBF_CBF_TRAIN_idx17_L76_start0",
+      "102": "CBF_CBF_TRAIN_idx17_L102_start0",
+      "128": "CBF_CBF_TRAIN_idx17_L128_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 27,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.2587245010845977,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "CBF_CBF_TRAIN_idx27_L24_start0",
+      "50": "CBF_CBF_TRAIN_idx27_L50_start0",
+      "76": "CBF_CBF_TRAIN_idx27_L76_start0",
+      "102": "CBF_CBF_TRAIN_idx27_L102_start0",
+      "128": "CBF_CBF_TRAIN_idx27_L128_start0"
+    }
+  }
+]

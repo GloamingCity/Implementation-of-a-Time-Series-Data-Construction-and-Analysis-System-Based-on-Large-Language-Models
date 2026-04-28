@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 23,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.755591704019212,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "25": "UMD_UMD_TRAIN_idx23_L25_start0",
+      "56": "UMD_UMD_TRAIN_idx23_L56_start0",
+      "88": "UMD_UMD_TRAIN_idx23_L88_start0",
+      "119": "UMD_UMD_TRAIN_idx23_L119_start0",
+      "150": "UMD_UMD_TRAIN_idx23_L150_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 34,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.6848501838634393,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "25": "UMD_UMD_TRAIN_idx34_L25_start0",
+      "56": "UMD_UMD_TRAIN_idx34_L56_start0",
+      "88": "UMD_UMD_TRAIN_idx34_L88_start0",
+      "119": "UMD_UMD_TRAIN_idx34_L119_start0",
+      "150": "UMD_UMD_TRAIN_idx34_L150_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 31,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.6924548604099593,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "25": "UMD_UMD_TRAIN_idx31_L25_start0",
+      "56": "UMD_UMD_TRAIN_idx31_L56_start0",
+      "88": "UMD_UMD_TRAIN_idx31_L88_start0",
+      "119": "UMD_UMD_TRAIN_idx31_L119_start0",
+      "150": "UMD_UMD_TRAIN_idx31_L150_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 22,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.7532949381485758,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "25": "UMD_UMD_TRAIN_idx22_L25_start0",
+      "56": "UMD_UMD_TRAIN_idx22_L56_start0",
+      "88": "UMD_UMD_TRAIN_idx22_L88_start0",
+      "119": "UMD_UMD_TRAIN_idx22_L119_start0",
+      "150": "UMD_UMD_TRAIN_idx22_L150_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 5,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.7130394862420545,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "25": "UMD_UMD_TRAIN_idx5_L25_start0",
+      "56": "UMD_UMD_TRAIN_idx5_L56_start0",
+      "88": "UMD_UMD_TRAIN_idx5_L88_start0",
+      "119": "UMD_UMD_TRAIN_idx5_L119_start0",
+      "150": "UMD_UMD_TRAIN_idx5_L150_start0"
+    }
+  }
+]

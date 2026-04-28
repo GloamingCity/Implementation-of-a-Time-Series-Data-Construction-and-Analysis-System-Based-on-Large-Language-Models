@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 66,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.7499404662819553,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "42": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx66_L42_start0",
+      "96": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx66_L96_start0",
+      "149": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx66_L149_start0",
+      "202": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx66_L202_start0",
+      "256": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx66_L256_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 256,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6585942095181765,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "42": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx256_L42_start0",
+      "96": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx256_L96_start0",
+      "149": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx256_L149_start0",
+      "202": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx256_L202_start0",
+      "256": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx256_L256_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 29,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.5713905143215939,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "42": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx29_L42_start0",
+      "96": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx29_L96_start0",
+      "149": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx29_L149_start0",
+      "202": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx29_L202_start0",
+      "256": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx29_L256_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 313,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.0,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "42": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx313_L42_start0",
+      "96": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx313_L96_start0",
+      "149": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx313_L149_start0",
+      "202": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx313_L202_start0",
+      "256": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx313_L256_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 502,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.5772712881752201,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "42": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx502_L42_start0",
+      "96": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx502_L96_start0",
+      "149": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx502_L149_start0",
+      "202": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx502_L202_start0",
+      "256": "ElectricDeviceDetection_ElectricDeviceDetection_TRAIN_idx502_L256_start0"
+    }
+  }
+]

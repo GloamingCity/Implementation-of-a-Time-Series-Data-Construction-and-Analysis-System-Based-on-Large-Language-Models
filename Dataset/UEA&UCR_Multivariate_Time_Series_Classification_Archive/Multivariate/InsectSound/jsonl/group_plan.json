@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 40886,
+    "start_index": 64,
+    "scores": {
+      "periodic": 1.969211952683999,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "InsectSound_InsectSound_idx40886_L96_start64",
+      "192": "InsectSound_InsectSound_idx40886_L192_start64",
+      "288": "InsectSound_InsectSound_idx40886_L288_start64",
+      "384": "InsectSound_InsectSound_idx40886_L384_start64",
+      "512": "InsectSound_InsectSound_idx40886_L512_start64"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 32002,
+    "start_index": 46,
+    "scores": {
+      "periodic": 1.878503393356746,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "InsectSound_InsectSound_idx32002_L96_start46",
+      "192": "InsectSound_InsectSound_idx32002_L192_start46",
+      "288": "InsectSound_InsectSound_idx32002_L288_start46",
+      "384": "InsectSound_InsectSound_idx32002_L384_start46",
+      "512": "InsectSound_InsectSound_idx32002_L512_start46"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 9280,
+    "start_index": 27,
+    "scores": {
+      "periodic": 0.7771438261070376,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "InsectSound_InsectSound_idx9280_L96_start27",
+      "192": "InsectSound_InsectSound_idx9280_L192_start27",
+      "288": "InsectSound_InsectSound_idx9280_L288_start27",
+      "384": "InsectSound_InsectSound_idx9280_L384_start27",
+      "512": "InsectSound_InsectSound_idx9280_L512_start27"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 27758,
+    "start_index": 13,
+    "scores": {
+      "periodic": 0.429193761440791,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "InsectSound_InsectSound_idx27758_L96_start13",
+      "192": "InsectSound_InsectSound_idx27758_L192_start13",
+      "288": "InsectSound_InsectSound_idx27758_L288_start13",
+      "384": "InsectSound_InsectSound_idx27758_L384_start13",
+      "512": "InsectSound_InsectSound_idx27758_L512_start13"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 27758,
+    "start_index": 78,
+    "scores": {
+      "periodic": 0.744332612345827,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "InsectSound_InsectSound_idx27758_L96_start78",
+      "192": "InsectSound_InsectSound_idx27758_L192_start78",
+      "288": "InsectSound_InsectSound_idx27758_L288_start78",
+      "384": "InsectSound_InsectSound_idx27758_L384_start78",
+      "512": "InsectSound_InsectSound_idx27758_L512_start78"
+    }
+  }
+]

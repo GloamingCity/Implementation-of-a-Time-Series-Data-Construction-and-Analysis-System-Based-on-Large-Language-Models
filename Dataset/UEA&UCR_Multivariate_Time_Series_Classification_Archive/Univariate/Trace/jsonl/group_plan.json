@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 92,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.921527858926853,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "45": "Trace_Trace_TRAIN_idx92_L45_start0",
+      "102": "Trace_Trace_TRAIN_idx92_L102_start0",
+      "160": "Trace_Trace_TRAIN_idx92_L160_start0",
+      "218": "Trace_Trace_TRAIN_idx92_L218_start0",
+      "275": "Trace_Trace_TRAIN_idx92_L275_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 0,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.6324211294290022,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "45": "Trace_Trace_TRAIN_idx0_L45_start0",
+      "102": "Trace_Trace_TRAIN_idx0_L102_start0",
+      "160": "Trace_Trace_TRAIN_idx0_L160_start0",
+      "218": "Trace_Trace_TRAIN_idx0_L218_start0",
+      "275": "Trace_Trace_TRAIN_idx0_L275_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 37,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.867230147883253,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "45": "Trace_Trace_TRAIN_idx37_L45_start0",
+      "102": "Trace_Trace_TRAIN_idx37_L102_start0",
+      "160": "Trace_Trace_TRAIN_idx37_L160_start0",
+      "218": "Trace_Trace_TRAIN_idx37_L218_start0",
+      "275": "Trace_Trace_TRAIN_idx37_L275_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 81,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.88812879868362,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "45": "Trace_Trace_TRAIN_idx81_L45_start0",
+      "102": "Trace_Trace_TRAIN_idx81_L102_start0",
+      "160": "Trace_Trace_TRAIN_idx81_L160_start0",
+      "218": "Trace_Trace_TRAIN_idx81_L218_start0",
+      "275": "Trace_Trace_TRAIN_idx81_L275_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 88,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.866609107501069,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "45": "Trace_Trace_TRAIN_idx88_L45_start0",
+      "102": "Trace_Trace_TRAIN_idx88_L102_start0",
+      "160": "Trace_Trace_TRAIN_idx88_L160_start0",
+      "218": "Trace_Trace_TRAIN_idx88_L218_start0",
+      "275": "Trace_Trace_TRAIN_idx88_L275_start0"
+    }
+  }
+]

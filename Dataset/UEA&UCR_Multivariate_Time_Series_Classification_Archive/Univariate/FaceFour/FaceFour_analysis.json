@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "FaceFour",
+    "lengths": [
+      58,
+      131,
+      204,
+      277,
+      350
+    ],
+    "mean_scores": [
+      79.8,
+      82.2,
+      81.6,
+      80.0,
+      82.6
+    ],
+    "rho_len_score": 0.6,
+    "relation": "positive",
+    "overall_score": 81.24
+  }
+]

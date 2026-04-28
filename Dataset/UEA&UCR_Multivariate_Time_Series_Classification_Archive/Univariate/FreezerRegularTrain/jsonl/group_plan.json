@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 1800,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8148863117594107,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "50": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx1800_L50_start0",
+      "113": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx1800_L113_start0",
+      "176": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx1800_L176_start0",
+      "238": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx1800_L238_start0",
+      "301": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx1800_L301_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 2752,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.7790020275139191,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "50": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx2752_L50_start0",
+      "113": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx2752_L113_start0",
+      "176": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx2752_L176_start0",
+      "238": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx2752_L238_start0",
+      "301": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx2752_L301_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 325,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8012577074107283,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "50": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx325_L50_start0",
+      "113": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx325_L113_start0",
+      "176": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx325_L176_start0",
+      "238": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx325_L238_start0",
+      "301": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx325_L301_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 2385,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.7455474781484468,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "50": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx2385_L50_start0",
+      "113": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx2385_L113_start0",
+      "176": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx2385_L176_start0",
+      "238": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx2385_L238_start0",
+      "301": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx2385_L301_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 672,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8082459788736065,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "50": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx672_L50_start0",
+      "113": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx672_L113_start0",
+      "176": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx672_L176_start0",
+      "238": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx672_L238_start0",
+      "301": "FreezerRegularTrain_FreezerRegularTrain_TEST_idx672_L301_start0"
+    }
+  }
+]

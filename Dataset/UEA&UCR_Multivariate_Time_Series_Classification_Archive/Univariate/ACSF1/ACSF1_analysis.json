@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "ACSF1",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      85.4,
+      82.0,
+      82.8,
+      82.6,
+      72.8
+    ],
+    "rho_len_score": -0.7,
+    "relation": "negative",
+    "overall_score": 81.12
+  }
+]

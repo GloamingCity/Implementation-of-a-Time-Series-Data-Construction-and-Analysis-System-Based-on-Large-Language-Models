@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 95,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.883689985256321,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "71": "Yoga_Yoga_TRAIN_idx95_L71_start0",
+      "160": "Yoga_Yoga_TRAIN_idx95_L160_start0",
+      "248": "Yoga_Yoga_TRAIN_idx95_L248_start0",
+      "337": "Yoga_Yoga_TRAIN_idx95_L337_start0",
+      "426": "Yoga_Yoga_TRAIN_idx95_L426_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 222,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.28845383925950785,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "71": "Yoga_Yoga_TRAIN_idx222_L71_start0",
+      "160": "Yoga_Yoga_TRAIN_idx222_L160_start0",
+      "248": "Yoga_Yoga_TRAIN_idx222_L248_start0",
+      "337": "Yoga_Yoga_TRAIN_idx222_L337_start0",
+      "426": "Yoga_Yoga_TRAIN_idx222_L426_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 276,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.26174219484885686,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "71": "Yoga_Yoga_TRAIN_idx276_L71_start0",
+      "160": "Yoga_Yoga_TRAIN_idx276_L160_start0",
+      "248": "Yoga_Yoga_TRAIN_idx276_L248_start0",
+      "337": "Yoga_Yoga_TRAIN_idx276_L337_start0",
+      "426": "Yoga_Yoga_TRAIN_idx276_L426_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 136,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.12721997085135012,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "71": "Yoga_Yoga_TRAIN_idx136_L71_start0",
+      "160": "Yoga_Yoga_TRAIN_idx136_L160_start0",
+      "248": "Yoga_Yoga_TRAIN_idx136_L248_start0",
+      "337": "Yoga_Yoga_TRAIN_idx136_L337_start0",
+      "426": "Yoga_Yoga_TRAIN_idx136_L426_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 127,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.20440301274670683,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "71": "Yoga_Yoga_TRAIN_idx127_L71_start0",
+      "160": "Yoga_Yoga_TRAIN_idx127_L160_start0",
+      "248": "Yoga_Yoga_TRAIN_idx127_L248_start0",
+      "337": "Yoga_Yoga_TRAIN_idx127_L337_start0",
+      "426": "Yoga_Yoga_TRAIN_idx127_L426_start0"
+    }
+  }
+]

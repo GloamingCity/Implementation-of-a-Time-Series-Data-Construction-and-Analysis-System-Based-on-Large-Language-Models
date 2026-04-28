@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 351,
+    "start_index": 233,
+    "scores": {
+      "periodic": 1.922444442690904,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx351_L96_start233",
+      "192": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx351_L192_start233",
+      "288": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx351_L288_start233",
+      "384": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx351_L384_start233",
+      "512": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx351_L512_start233"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 312,
+    "start_index": 38,
+    "scores": {
+      "periodic": 1.8265827534381387,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx312_L96_start38",
+      "192": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx312_L192_start38",
+      "288": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx312_L288_start38",
+      "384": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx312_L384_start38",
+      "512": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx312_L512_start38"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 312,
+    "start_index": 77,
+    "scores": {
+      "periodic": 0.8369848119230014,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx312_L96_start77",
+      "192": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx312_L192_start77",
+      "288": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx312_L288_start77",
+      "384": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx312_L384_start77",
+      "512": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx312_L512_start77"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 49,
+    "start_index": 427,
+    "scores": {
+      "periodic": 1.5170947289100147,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx49_L96_start427",
+      "192": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx49_L192_start427",
+      "288": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx49_L288_start427",
+      "384": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx49_L384_start427",
+      "512": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx49_L512_start427"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 312,
+    "start_index": 155,
+    "scores": {
+      "periodic": 1.8866095604296016,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx312_L96_start155",
+      "192": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx312_L192_start155",
+      "288": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx312_L288_start155",
+      "384": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx312_L384_start155",
+      "512": "EOGVerticalSignal_EOGVerticalSignal_TRAIN_idx312_L512_start155"
+    }
+  }
+]

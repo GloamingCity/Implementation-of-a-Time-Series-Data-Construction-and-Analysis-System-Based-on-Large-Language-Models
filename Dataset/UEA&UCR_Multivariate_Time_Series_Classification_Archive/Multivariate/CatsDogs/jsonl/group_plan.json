@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 249,
+    "start_index": 7505,
+    "scores": {
+      "periodic": 1.9669069993584998,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "CatsDogs_CatsDogs_idx249_L96_start7505",
+      "192": "CatsDogs_CatsDogs_idx249_L192_start7505",
+      "288": "CatsDogs_CatsDogs_idx249_L288_start7505",
+      "384": "CatsDogs_CatsDogs_idx249_L384_start7505",
+      "512": "CatsDogs_CatsDogs_idx249_L512_start7505"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 192,
+    "start_index": 750,
+    "scores": {
+      "periodic": 0.5053904283626474,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "CatsDogs_CatsDogs_idx192_L96_start750",
+      "192": "CatsDogs_CatsDogs_idx192_L192_start750",
+      "288": "CatsDogs_CatsDogs_idx192_L288_start750",
+      "384": "CatsDogs_CatsDogs_idx192_L384_start750",
+      "512": "CatsDogs_CatsDogs_idx192_L512_start750"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 52,
+    "start_index": 7505,
+    "scores": {
+      "periodic": 0.922681705023787,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "CatsDogs_CatsDogs_idx52_L96_start7505",
+      "192": "CatsDogs_CatsDogs_idx52_L192_start7505",
+      "288": "CatsDogs_CatsDogs_idx52_L288_start7505",
+      "384": "CatsDogs_CatsDogs_idx52_L384_start7505",
+      "512": "CatsDogs_CatsDogs_idx52_L512_start7505"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 192,
+    "start_index": 10508,
+    "scores": {
+      "periodic": 0.1572674892752299,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "CatsDogs_CatsDogs_idx192_L96_start10508",
+      "192": "CatsDogs_CatsDogs_idx192_L192_start10508",
+      "288": "CatsDogs_CatsDogs_idx192_L288_start10508",
+      "384": "CatsDogs_CatsDogs_idx192_L384_start10508",
+      "512": "CatsDogs_CatsDogs_idx192_L512_start10508"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 192,
+    "start_index": 12009,
+    "scores": {
+      "periodic": 0.20937836401639182,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "CatsDogs_CatsDogs_idx192_L96_start12009",
+      "192": "CatsDogs_CatsDogs_idx192_L192_start12009",
+      "288": "CatsDogs_CatsDogs_idx192_L288_start12009",
+      "384": "CatsDogs_CatsDogs_idx192_L384_start12009",
+      "512": "CatsDogs_CatsDogs_idx192_L512_start12009"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "AtrialFibrillation",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      78.2,
+      83.4,
+      81.8,
+      80.0,
+      77.4
+    ],
+    "rho_len_score": -0.4,
+    "relation": "negative",
+    "overall_score": 80.16
+  }
+]

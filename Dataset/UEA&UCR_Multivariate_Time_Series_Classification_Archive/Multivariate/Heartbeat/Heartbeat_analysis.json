@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Heartbeat",
+    "lengths": [
+      67,
+      152,
+      236,
+      320,
+      405
+    ],
+    "mean_scores": [
+      80.6,
+      82.0,
+      77.8,
+      82.4,
+      84.8
+    ],
+    "rho_len_score": 0.7,
+    "relation": "positive",
+    "overall_score": 81.52
+  }
+]

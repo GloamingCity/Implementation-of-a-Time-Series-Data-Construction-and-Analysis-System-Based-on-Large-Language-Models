@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "EthanolLevel",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      79.0,
+      80.4,
+      78.4,
+      83.0,
+      78.0
+    ],
+    "rho_len_score": -0.3,
+    "relation": "negative",
+    "overall_score": 79.76
+  }
+]

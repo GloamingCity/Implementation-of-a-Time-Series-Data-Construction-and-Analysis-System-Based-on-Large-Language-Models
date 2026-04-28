@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "HandMovementDirection",
+    "lengths": [
+      66,
+      150,
+      233,
+      316,
+      400
+    ],
+    "mean_scores": [
+      75.6,
+      75.2,
+      81.2,
+      75.6,
+      81.4
+    ],
+    "rho_len_score": 0.6669,
+    "relation": "positive",
+    "overall_score": 77.8
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "DodgerLoopGame",
+    "lengths": [
+      48,
+      108,
+      168,
+      228,
+      288
+    ],
+    "mean_scores": [
+      81.4,
+      84.2,
+      78.8,
+      78.8,
+      79.0
+    ],
+    "rho_len_score": -0.5643,
+    "relation": "negative",
+    "overall_score": 80.44
+  }
+]

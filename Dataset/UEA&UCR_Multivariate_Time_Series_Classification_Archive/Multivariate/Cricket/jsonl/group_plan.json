@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 145,
+    "start_index": 504,
+    "scores": {
+      "periodic": 1.9429148837201469,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "Cricket_Cricket_idx145_L96_start504",
+      "192": "Cricket_Cricket_idx145_L192_start504",
+      "288": "Cricket_Cricket_idx145_L288_start504",
+      "384": "Cricket_Cricket_idx145_L384_start504",
+      "512": "Cricket_Cricket_idx145_L512_start504"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 42,
+    "start_index": 396,
+    "scores": {
+      "periodic": 0.7151363590566717,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Cricket_Cricket_idx42_L96_start396",
+      "192": "Cricket_Cricket_idx42_L192_start396",
+      "288": "Cricket_Cricket_idx42_L288_start396",
+      "384": "Cricket_Cricket_idx42_L384_start396",
+      "512": "Cricket_Cricket_idx42_L512_start396"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 42,
+    "start_index": 324,
+    "scores": {
+      "periodic": 0.1679593633671892,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Cricket_Cricket_idx42_L96_start324",
+      "192": "Cricket_Cricket_idx42_L192_start324",
+      "288": "Cricket_Cricket_idx42_L288_start324",
+      "384": "Cricket_Cricket_idx42_L384_start324",
+      "512": "Cricket_Cricket_idx42_L512_start324"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 42,
+    "start_index": 36,
+    "scores": {
+      "periodic": 0.6255571728669166,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Cricket_Cricket_idx42_L96_start36",
+      "192": "Cricket_Cricket_idx42_L192_start36",
+      "288": "Cricket_Cricket_idx42_L288_start36",
+      "384": "Cricket_Cricket_idx42_L384_start36",
+      "512": "Cricket_Cricket_idx42_L512_start36"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 42,
+    "start_index": 252,
+    "scores": {
+      "periodic": 0.14803084481828863,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Cricket_Cricket_idx42_L96_start252",
+      "192": "Cricket_Cricket_idx42_L192_start252",
+      "288": "Cricket_Cricket_idx42_L288_start252",
+      "384": "Cricket_Cricket_idx42_L384_start252",
+      "512": "Cricket_Cricket_idx42_L512_start252"
+    }
+  }
+]

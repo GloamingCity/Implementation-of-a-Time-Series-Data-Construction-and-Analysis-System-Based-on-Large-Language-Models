@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 12,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.7075425653808418,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "50": "CricketY_CricketY_TRAIN_idx12_L50_start0",
+      "112": "CricketY_CricketY_TRAIN_idx12_L112_start0",
+      "175": "CricketY_CricketY_TRAIN_idx12_L175_start0",
+      "238": "CricketY_CricketY_TRAIN_idx12_L238_start0",
+      "300": "CricketY_CricketY_TRAIN_idx12_L300_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 89,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.3330608429169882,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "50": "CricketY_CricketY_TRAIN_idx89_L50_start0",
+      "112": "CricketY_CricketY_TRAIN_idx89_L112_start0",
+      "175": "CricketY_CricketY_TRAIN_idx89_L175_start0",
+      "238": "CricketY_CricketY_TRAIN_idx89_L238_start0",
+      "300": "CricketY_CricketY_TRAIN_idx89_L300_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 172,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.39619222048403835,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "50": "CricketY_CricketY_TRAIN_idx172_L50_start0",
+      "112": "CricketY_CricketY_TRAIN_idx172_L112_start0",
+      "175": "CricketY_CricketY_TRAIN_idx172_L175_start0",
+      "238": "CricketY_CricketY_TRAIN_idx172_L238_start0",
+      "300": "CricketY_CricketY_TRAIN_idx172_L300_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 304,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.2656971286647775,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "50": "CricketY_CricketY_TRAIN_idx304_L50_start0",
+      "112": "CricketY_CricketY_TRAIN_idx304_L112_start0",
+      "175": "CricketY_CricketY_TRAIN_idx304_L175_start0",
+      "238": "CricketY_CricketY_TRAIN_idx304_L238_start0",
+      "300": "CricketY_CricketY_TRAIN_idx304_L300_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 48,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.11743153272565429,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "50": "CricketY_CricketY_TRAIN_idx48_L50_start0",
+      "112": "CricketY_CricketY_TRAIN_idx48_L112_start0",
+      "175": "CricketY_CricketY_TRAIN_idx48_L175_start0",
+      "238": "CricketY_CricketY_TRAIN_idx48_L238_start0",
+      "300": "CricketY_CricketY_TRAIN_idx48_L300_start0"
+    }
+  }
+]

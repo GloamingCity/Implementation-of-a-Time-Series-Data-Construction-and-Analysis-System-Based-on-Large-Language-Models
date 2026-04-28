@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Strawberry",
+    "lengths": [
+      39,
+      88,
+      137,
+      186,
+      235
+    ],
+    "mean_scores": [
+      85.2,
+      84.2,
+      84.6,
+      80.6,
+      76.2
+    ],
+    "rho_len_score": -0.9,
+    "relation": "negative",
+    "overall_score": 82.16
+  }
+]

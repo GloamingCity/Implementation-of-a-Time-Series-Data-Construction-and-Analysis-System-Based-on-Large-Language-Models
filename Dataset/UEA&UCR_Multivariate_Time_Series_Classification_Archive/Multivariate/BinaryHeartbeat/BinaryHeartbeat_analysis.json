@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "BinaryHeartbeat",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      75.8,
+      79.2,
+      81.8,
+      85.2,
+      81.4
+    ],
+    "rho_len_score": 0.7,
+    "relation": "positive",
+    "overall_score": 80.68
+  }
+]

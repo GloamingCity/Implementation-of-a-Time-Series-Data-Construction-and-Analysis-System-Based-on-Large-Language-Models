@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 113,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.6794857107861361,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "30": "Colposcopy_Colposcopy_idx113_L30_start0",
+      "68": "Colposcopy_Colposcopy_idx113_L68_start0",
+      "105": "Colposcopy_Colposcopy_idx113_L105_start0",
+      "142": "Colposcopy_Colposcopy_idx113_L142_start0",
+      "180": "Colposcopy_Colposcopy_idx113_L180_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 181,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.1369682101989,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "30": "Colposcopy_Colposcopy_idx181_L30_start0",
+      "68": "Colposcopy_Colposcopy_idx181_L68_start0",
+      "105": "Colposcopy_Colposcopy_idx181_L105_start0",
+      "142": "Colposcopy_Colposcopy_idx181_L142_start0",
+      "180": "Colposcopy_Colposcopy_idx181_L180_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 80,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.5964367665095671,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "30": "Colposcopy_Colposcopy_idx80_L30_start0",
+      "68": "Colposcopy_Colposcopy_idx80_L68_start0",
+      "105": "Colposcopy_Colposcopy_idx80_L105_start0",
+      "142": "Colposcopy_Colposcopy_idx80_L142_start0",
+      "180": "Colposcopy_Colposcopy_idx80_L180_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 10,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.11347524329990273,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "30": "Colposcopy_Colposcopy_idx10_L30_start0",
+      "68": "Colposcopy_Colposcopy_idx10_L68_start0",
+      "105": "Colposcopy_Colposcopy_idx10_L105_start0",
+      "142": "Colposcopy_Colposcopy_idx10_L142_start0",
+      "180": "Colposcopy_Colposcopy_idx10_L180_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 63,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.34090793679698866,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "30": "Colposcopy_Colposcopy_idx63_L30_start0",
+      "68": "Colposcopy_Colposcopy_idx63_L68_start0",
+      "105": "Colposcopy_Colposcopy_idx63_L105_start0",
+      "142": "Colposcopy_Colposcopy_idx63_L142_start0",
+      "180": "Colposcopy_Colposcopy_idx63_L180_start0"
+    }
+  }
+]

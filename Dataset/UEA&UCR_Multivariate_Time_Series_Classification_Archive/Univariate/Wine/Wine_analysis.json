@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Wine",
+    "lengths": [
+      39,
+      88,
+      136,
+      185,
+      234
+    ],
+    "mean_scores": [
+      85.6,
+      78.0,
+      79.0,
+      84.0,
+      84.2
+    ],
+    "rho_len_score": 0.0,
+    "relation": "flat",
+    "overall_score": 82.16
+  }
+]

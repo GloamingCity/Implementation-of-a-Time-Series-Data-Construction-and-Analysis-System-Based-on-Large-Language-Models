@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Handwriting",
+    "lengths": [
+      25,
+      57,
+      88,
+      120,
+      152
+    ],
+    "mean_scores": [
+      83.8,
+      85.4,
+      81.2,
+      81.2,
+      85.8
+    ],
+    "rho_len_score": 0.1539,
+    "relation": "flat",
+    "overall_score": 83.48
+  }
+]

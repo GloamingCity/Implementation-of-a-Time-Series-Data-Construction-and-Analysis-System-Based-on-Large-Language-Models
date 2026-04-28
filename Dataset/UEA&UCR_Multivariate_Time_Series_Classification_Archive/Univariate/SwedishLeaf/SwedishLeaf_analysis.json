@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "SwedishLeaf",
+    "lengths": [
+      24,
+      50,
+      76,
+      102,
+      128
+    ],
+    "mean_scores": [
+      82.2,
+      80.6,
+      84.6,
+      84.2,
+      79.0
+    ],
+    "rho_len_score": -0.2,
+    "relation": "flat",
+    "overall_score": 82.12
+  }
+]

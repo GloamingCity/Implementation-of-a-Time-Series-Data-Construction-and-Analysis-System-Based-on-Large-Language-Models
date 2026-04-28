@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "InsectEPGSmallTrain",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      78.6,
+      80.6,
+      71.6,
+      75.0,
+      79.8
+    ],
+    "rho_len_score": -0.1,
+    "relation": "flat",
+    "overall_score": 77.12
+  }
+]

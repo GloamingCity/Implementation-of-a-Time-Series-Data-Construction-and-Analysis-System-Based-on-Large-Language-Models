@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 319,
+    "start_index": 310,
+    "scores": {
+      "periodic": 1.933750652747229,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx319_L96_start310",
+      "192": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx319_L192_start310",
+      "288": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx319_L288_start310",
+      "384": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx319_L384_start310",
+      "512": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx319_L512_start310"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 212,
+    "start_index": 388,
+    "scores": {
+      "periodic": 1.6485553508479112,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L96_start388",
+      "192": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L192_start388",
+      "288": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L288_start388",
+      "384": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L384_start388",
+      "512": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L512_start388"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 212,
+    "start_index": 116,
+    "scores": {
+      "periodic": 1.8401804279872889,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L96_start116",
+      "192": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L192_start116",
+      "288": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L288_start116",
+      "384": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L384_start116",
+      "512": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L512_start116"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 212,
+    "start_index": 738,
+    "scores": {
+      "periodic": 0.681354276088449,
+      "volatile_event": 0.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L96_start738",
+      "192": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L192_start738",
+      "288": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L288_start738",
+      "384": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L384_start738",
+      "512": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L512_start738"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 212,
+    "start_index": 77,
+    "scores": {
+      "periodic": 1.8468598754027523,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L96_start77",
+      "192": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L192_start77",
+      "288": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L288_start77",
+      "384": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L384_start77",
+      "512": "EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L512_start77"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "OliveOil",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      79.0,
+      82.2,
+      85.2,
+      80.0,
+      81.0
+    ],
+    "rho_len_score": 0.2,
+    "relation": "flat",
+    "overall_score": 81.48
+  }
+]

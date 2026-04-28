@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "ToeSegmentation2",
+    "lengths": [
+      57,
+      128,
+      200,
+      272,
+      343
+    ],
+    "mean_scores": [
+      81.6,
+      78.8,
+      81.6,
+      81.0,
+      81.0
+    ],
+    "rho_len_score": -0.2635,
+    "relation": "negative",
+    "overall_score": 80.8
+  }
+]

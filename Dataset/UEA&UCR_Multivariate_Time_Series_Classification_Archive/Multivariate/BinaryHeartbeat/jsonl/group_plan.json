@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 218,
+    "start_index": 17069,
+    "scores": {
+      "periodic": 1.6241119730518931,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "BinaryHeartbeat_BinaryHeartbeatEq_idx218_L96_start17069",
+      "192": "BinaryHeartbeat_BinaryHeartbeatEq_idx218_L192_start17069",
+      "288": "BinaryHeartbeat_BinaryHeartbeatEq_idx218_L288_start17069",
+      "384": "BinaryHeartbeat_BinaryHeartbeatEq_idx218_L384_start17069",
+      "512": "BinaryHeartbeat_BinaryHeartbeatEq_idx218_L512_start17069"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 375,
+    "start_index": 7586,
+    "scores": {
+      "periodic": 0.21698516816975824,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "BinaryHeartbeat_BinaryHeartbeatEq_idx375_L96_start7586",
+      "192": "BinaryHeartbeat_BinaryHeartbeatEq_idx375_L192_start7586",
+      "288": "BinaryHeartbeat_BinaryHeartbeatEq_idx375_L288_start7586",
+      "384": "BinaryHeartbeat_BinaryHeartbeatEq_idx375_L384_start7586",
+      "512": "BinaryHeartbeat_BinaryHeartbeatEq_idx375_L512_start7586"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 375,
+    "start_index": 15173,
+    "scores": {
+      "periodic": 0.1509533641234644,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "BinaryHeartbeat_BinaryHeartbeatEq_idx375_L96_start15173",
+      "192": "BinaryHeartbeat_BinaryHeartbeatEq_idx375_L192_start15173",
+      "288": "BinaryHeartbeat_BinaryHeartbeatEq_idx375_L288_start15173",
+      "384": "BinaryHeartbeat_BinaryHeartbeatEq_idx375_L384_start15173",
+      "512": "BinaryHeartbeat_BinaryHeartbeatEq_idx375_L512_start15173"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 307,
+    "start_index": 12328,
+    "scores": {
+      "periodic": 0.18319927000749628,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "BinaryHeartbeat_BinaryHeartbeatEq_idx307_L96_start12328",
+      "192": "BinaryHeartbeat_BinaryHeartbeatEq_idx307_L192_start12328",
+      "288": "BinaryHeartbeat_BinaryHeartbeatEq_idx307_L288_start12328",
+      "384": "BinaryHeartbeat_BinaryHeartbeatEq_idx307_L384_start12328",
+      "512": "BinaryHeartbeat_BinaryHeartbeatEq_idx307_L512_start12328"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 375,
+    "start_index": 12328,
+    "scores": {
+      "periodic": 0.23123301416674696,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "BinaryHeartbeat_BinaryHeartbeatEq_idx375_L96_start12328",
+      "192": "BinaryHeartbeat_BinaryHeartbeatEq_idx375_L192_start12328",
+      "288": "BinaryHeartbeat_BinaryHeartbeatEq_idx375_L288_start12328",
+      "384": "BinaryHeartbeat_BinaryHeartbeatEq_idx375_L384_start12328",
+      "512": "BinaryHeartbeat_BinaryHeartbeatEq_idx375_L512_start12328"
+    }
+  }
+]

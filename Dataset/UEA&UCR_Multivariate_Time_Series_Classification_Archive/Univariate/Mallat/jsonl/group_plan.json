@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 40,
+    "start_index": 512,
+    "scores": {
+      "periodic": 1.8592114014087446,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Mallat_Mallat_TRAIN_idx40_L96_start512",
+      "192": "Mallat_Mallat_TRAIN_idx40_L192_start512",
+      "288": "Mallat_Mallat_TRAIN_idx40_L288_start512",
+      "384": "Mallat_Mallat_TRAIN_idx40_L384_start512",
+      "512": "Mallat_Mallat_TRAIN_idx40_L512_start512"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 8,
+    "start_index": 242,
+    "scores": {
+      "periodic": 0.32820751964838907,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Mallat_Mallat_TRAIN_idx8_L96_start242",
+      "192": "Mallat_Mallat_TRAIN_idx8_L192_start242",
+      "288": "Mallat_Mallat_TRAIN_idx8_L288_start242",
+      "384": "Mallat_Mallat_TRAIN_idx8_L384_start242",
+      "512": "Mallat_Mallat_TRAIN_idx8_L512_start242"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 8,
+    "start_index": 53,
+    "scores": {
+      "periodic": 1.6863256304346812,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Mallat_Mallat_TRAIN_idx8_L96_start53",
+      "192": "Mallat_Mallat_TRAIN_idx8_L192_start53",
+      "288": "Mallat_Mallat_TRAIN_idx8_L288_start53",
+      "384": "Mallat_Mallat_TRAIN_idx8_L384_start53",
+      "512": "Mallat_Mallat_TRAIN_idx8_L512_start53"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 8,
+    "start_index": 404,
+    "scores": {
+      "periodic": 0.10687184276463196,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Mallat_Mallat_TRAIN_idx8_L96_start404",
+      "192": "Mallat_Mallat_TRAIN_idx8_L192_start404",
+      "288": "Mallat_Mallat_TRAIN_idx8_L288_start404",
+      "384": "Mallat_Mallat_TRAIN_idx8_L384_start404",
+      "512": "Mallat_Mallat_TRAIN_idx8_L512_start404"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 8,
+    "start_index": 26,
+    "scores": {
+      "periodic": 1.7423292212895598,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Mallat_Mallat_TRAIN_idx8_L96_start26",
+      "192": "Mallat_Mallat_TRAIN_idx8_L192_start26",
+      "288": "Mallat_Mallat_TRAIN_idx8_L288_start26",
+      "384": "Mallat_Mallat_TRAIN_idx8_L384_start26",
+      "512": "Mallat_Mallat_TRAIN_idx8_L512_start26"
+    }
+  }
+]

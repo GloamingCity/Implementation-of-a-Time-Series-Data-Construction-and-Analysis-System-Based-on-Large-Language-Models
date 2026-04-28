@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-04-10 13:33:52",
+  "picked_sample": {
+    "sample_id": "S13",
+    "dataset": "BasicMotions",
+    "relation": "negative",
+    "image_name": "group03_L062_BasicMotions_BasicMotions_TRAIN_idx7_L62_start0.png",
+    "human_avg": 54.0
+  },
+  "runs_requested": 5,
+  "runs_collected": 5,
+  "attempts": 5,
+  "raw": {
+    "scores": [
+      75,
+      70,
+      75,
+      75,
+      65
+    ],
+    "mean": 72.0,
+    "median": 75,
+    "std": 4.0,
+    "min": 65,
+    "max": 75,
+    "range": 10
+  },
+  "calibrated": {
+    "scores": [
+      61,
+      52,
+      61,
+      61,
+      43
+    ],
+    "mean": 55.6,
+    "median": 61,
+    "std": 7.2,
+    "min": 43,
+    "max": 61,
+    "range": 18
+  },
+  "compare_to_human": {
+    "human_avg": 54.0,
+    "raw_mean_delta": 18.0,
+    "cal_mean_delta": 1.6,
+    "raw_mean_abs_delta": 18.0,
+    "cal_mean_abs_delta": 1.6
+  }
+}

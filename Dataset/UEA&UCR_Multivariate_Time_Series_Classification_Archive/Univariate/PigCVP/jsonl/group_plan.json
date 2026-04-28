@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 65,
+    "start_index": 234,
+    "scores": {
+      "periodic": 1.800341946422212,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "PigCVP_PigCVP_TRAIN_idx65_L96_start234",
+      "192": "PigCVP_PigCVP_TRAIN_idx65_L192_start234",
+      "288": "PigCVP_PigCVP_TRAIN_idx65_L288_start234",
+      "384": "PigCVP_PigCVP_TRAIN_idx65_L384_start234",
+      "512": "PigCVP_PigCVP_TRAIN_idx65_L512_start234"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 26,
+    "start_index": 1174,
+    "scores": {
+      "periodic": 0.60930212861308,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "PigCVP_PigCVP_TRAIN_idx26_L96_start1174",
+      "192": "PigCVP_PigCVP_TRAIN_idx26_L192_start1174",
+      "288": "PigCVP_PigCVP_TRAIN_idx26_L288_start1174",
+      "384": "PigCVP_PigCVP_TRAIN_idx26_L384_start1174",
+      "512": "PigCVP_PigCVP_TRAIN_idx26_L512_start1174"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 93,
+    "start_index": 1174,
+    "scores": {
+      "periodic": 0.6407284066849606,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "PigCVP_PigCVP_TRAIN_idx93_L96_start1174",
+      "192": "PigCVP_PigCVP_TRAIN_idx93_L192_start1174",
+      "288": "PigCVP_PigCVP_TRAIN_idx93_L288_start1174",
+      "384": "PigCVP_PigCVP_TRAIN_idx93_L384_start1174",
+      "512": "PigCVP_PigCVP_TRAIN_idx93_L512_start1174"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 26,
+    "start_index": 939,
+    "scores": {
+      "periodic": 0.6534450438253087,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "PigCVP_PigCVP_TRAIN_idx26_L96_start939",
+      "192": "PigCVP_PigCVP_TRAIN_idx26_L192_start939",
+      "288": "PigCVP_PigCVP_TRAIN_idx26_L288_start939",
+      "384": "PigCVP_PigCVP_TRAIN_idx26_L384_start939",
+      "512": "PigCVP_PigCVP_TRAIN_idx26_L512_start939"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 26,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.46305719959563596,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "PigCVP_PigCVP_TRAIN_idx26_L96_start0",
+      "192": "PigCVP_PigCVP_TRAIN_idx26_L192_start0",
+      "288": "PigCVP_PigCVP_TRAIN_idx26_L288_start0",
+      "384": "PigCVP_PigCVP_TRAIN_idx26_L384_start0",
+      "512": "PigCVP_PigCVP_TRAIN_idx26_L512_start0"
+    }
+  }
+]

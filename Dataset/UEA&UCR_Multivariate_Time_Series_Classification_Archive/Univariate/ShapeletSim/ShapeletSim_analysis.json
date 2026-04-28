@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "ShapeletSim",
+    "lengths": [
+      83,
+      187,
+      292,
+      396,
+      500
+    ],
+    "mean_scores": [
+      75.2,
+      75.6,
+      73.4,
+      82.6,
+      78.0
+    ],
+    "rho_len_score": 0.6,
+    "relation": "positive",
+    "overall_score": 76.96
+  }
+]

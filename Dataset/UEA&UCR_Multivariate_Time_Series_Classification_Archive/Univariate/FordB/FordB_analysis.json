@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "FordB",
+    "lengths": [
+      83,
+      187,
+      292,
+      396,
+      500
+    ],
+    "mean_scores": [
+      79.6,
+      78.0,
+      77.4,
+      78.4,
+      81.2
+    ],
+    "rho_len_score": 0.3,
+    "relation": "positive",
+    "overall_score": 78.92
+  }
+]

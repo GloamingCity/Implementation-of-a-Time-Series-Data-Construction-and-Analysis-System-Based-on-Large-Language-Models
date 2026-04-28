@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 6,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.5063337250271347,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "25": "Handwriting_Handwriting_TRAIN_idx6_L25_start0",
+      "57": "Handwriting_Handwriting_TRAIN_idx6_L57_start0",
+      "88": "Handwriting_Handwriting_TRAIN_idx6_L88_start0",
+      "120": "Handwriting_Handwriting_TRAIN_idx6_L120_start0",
+      "152": "Handwriting_Handwriting_TRAIN_idx6_L152_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 91,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.2590367416060633,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "25": "Handwriting_Handwriting_TRAIN_idx91_L25_start0",
+      "57": "Handwriting_Handwriting_TRAIN_idx91_L57_start0",
+      "88": "Handwriting_Handwriting_TRAIN_idx91_L88_start0",
+      "120": "Handwriting_Handwriting_TRAIN_idx91_L120_start0",
+      "152": "Handwriting_Handwriting_TRAIN_idx91_L152_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 128,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.1445674611074389,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "25": "Handwriting_Handwriting_TRAIN_idx128_L25_start0",
+      "57": "Handwriting_Handwriting_TRAIN_idx128_L57_start0",
+      "88": "Handwriting_Handwriting_TRAIN_idx128_L88_start0",
+      "120": "Handwriting_Handwriting_TRAIN_idx128_L120_start0",
+      "152": "Handwriting_Handwriting_TRAIN_idx128_L152_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 84,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.0,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "25": "Handwriting_Handwriting_TRAIN_idx84_L25_start0",
+      "57": "Handwriting_Handwriting_TRAIN_idx84_L57_start0",
+      "88": "Handwriting_Handwriting_TRAIN_idx84_L88_start0",
+      "120": "Handwriting_Handwriting_TRAIN_idx84_L120_start0",
+      "152": "Handwriting_Handwriting_TRAIN_idx84_L152_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 56,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.5855671500582375,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "25": "Handwriting_Handwriting_TRAIN_idx56_L25_start0",
+      "57": "Handwriting_Handwriting_TRAIN_idx56_L57_start0",
+      "88": "Handwriting_Handwriting_TRAIN_idx56_L88_start0",
+      "120": "Handwriting_Handwriting_TRAIN_idx56_L120_start0",
+      "152": "Handwriting_Handwriting_TRAIN_idx56_L152_start0"
+    }
+  }
+]

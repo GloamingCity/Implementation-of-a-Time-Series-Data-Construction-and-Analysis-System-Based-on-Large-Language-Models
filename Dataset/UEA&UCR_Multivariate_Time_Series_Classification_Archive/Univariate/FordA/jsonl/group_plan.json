@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 1160,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8908232569952963,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "83": "FordA_FordA_TRAIN_idx1160_L83_start0",
+      "187": "FordA_FordA_TRAIN_idx1160_L187_start0",
+      "292": "FordA_FordA_TRAIN_idx1160_L292_start0",
+      "396": "FordA_FordA_TRAIN_idx1160_L396_start0",
+      "500": "FordA_FordA_TRAIN_idx1160_L500_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 270,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.33612404645074423,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "83": "FordA_FordA_TRAIN_idx270_L83_start0",
+      "187": "FordA_FordA_TRAIN_idx270_L187_start0",
+      "292": "FordA_FordA_TRAIN_idx270_L292_start0",
+      "396": "FordA_FordA_TRAIN_idx270_L396_start0",
+      "500": "FordA_FordA_TRAIN_idx270_L500_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 2021,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.4653161081283433,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "83": "FordA_FordA_TRAIN_idx2021_L83_start0",
+      "187": "FordA_FordA_TRAIN_idx2021_L187_start0",
+      "292": "FordA_FordA_TRAIN_idx2021_L292_start0",
+      "396": "FordA_FordA_TRAIN_idx2021_L396_start0",
+      "500": "FordA_FordA_TRAIN_idx2021_L500_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 2164,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8075617211013264,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "83": "FordA_FordA_TRAIN_idx2164_L83_start0",
+      "187": "FordA_FordA_TRAIN_idx2164_L187_start0",
+      "292": "FordA_FordA_TRAIN_idx2164_L292_start0",
+      "396": "FordA_FordA_TRAIN_idx2164_L396_start0",
+      "500": "FordA_FordA_TRAIN_idx2164_L500_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 2722,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.17603176052607886,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "83": "FordA_FordA_TRAIN_idx2722_L83_start0",
+      "187": "FordA_FordA_TRAIN_idx2722_L187_start0",
+      "292": "FordA_FordA_TRAIN_idx2722_L292_start0",
+      "396": "FordA_FordA_TRAIN_idx2722_L396_start0",
+      "500": "FordA_FordA_TRAIN_idx2722_L500_start0"
+    }
+  }
+]

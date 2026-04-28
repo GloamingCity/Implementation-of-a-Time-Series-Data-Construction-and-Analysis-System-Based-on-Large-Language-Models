@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 16,
+    "start_index": 1331,
+    "scores": {
+      "periodic": 1.8764501270380867,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "HouseTwenty_HouseTwenty_TRAIN_idx16_L96_start1331",
+      "192": "HouseTwenty_HouseTwenty_TRAIN_idx16_L192_start1331",
+      "288": "HouseTwenty_HouseTwenty_TRAIN_idx16_L288_start1331",
+      "384": "HouseTwenty_HouseTwenty_TRAIN_idx16_L384_start1331",
+      "512": "HouseTwenty_HouseTwenty_TRAIN_idx16_L512_start1331"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 26,
+    "start_index": 626,
+    "scores": {
+      "periodic": 0.38434703056810676,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "HouseTwenty_HouseTwenty_TRAIN_idx26_L96_start626",
+      "192": "HouseTwenty_HouseTwenty_TRAIN_idx26_L192_start626",
+      "288": "HouseTwenty_HouseTwenty_TRAIN_idx26_L288_start626",
+      "384": "HouseTwenty_HouseTwenty_TRAIN_idx26_L384_start626",
+      "512": "HouseTwenty_HouseTwenty_TRAIN_idx26_L512_start626"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 7,
+    "start_index": 1174,
+    "scores": {
+      "periodic": 1.5609150699965997,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "HouseTwenty_HouseTwenty_TRAIN_idx7_L96_start1174",
+      "192": "HouseTwenty_HouseTwenty_TRAIN_idx7_L192_start1174",
+      "288": "HouseTwenty_HouseTwenty_TRAIN_idx7_L288_start1174",
+      "384": "HouseTwenty_HouseTwenty_TRAIN_idx7_L384_start1174",
+      "512": "HouseTwenty_HouseTwenty_TRAIN_idx7_L512_start1174"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 26,
+    "start_index": 1488,
+    "scores": {
+      "periodic": 0.11533573585937923,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "HouseTwenty_HouseTwenty_TRAIN_idx26_L96_start1488",
+      "192": "HouseTwenty_HouseTwenty_TRAIN_idx26_L192_start1488",
+      "288": "HouseTwenty_HouseTwenty_TRAIN_idx26_L288_start1488",
+      "384": "HouseTwenty_HouseTwenty_TRAIN_idx26_L384_start1488",
+      "512": "HouseTwenty_HouseTwenty_TRAIN_idx26_L512_start1488"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 26,
+    "start_index": 861,
+    "scores": {
+      "periodic": 0.46800582680520203,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "HouseTwenty_HouseTwenty_TRAIN_idx26_L96_start861",
+      "192": "HouseTwenty_HouseTwenty_TRAIN_idx26_L192_start861",
+      "288": "HouseTwenty_HouseTwenty_TRAIN_idx26_L288_start861",
+      "384": "HouseTwenty_HouseTwenty_TRAIN_idx26_L384_start861",
+      "512": "HouseTwenty_HouseTwenty_TRAIN_idx26_L512_start861"
+    }
+  }
+]

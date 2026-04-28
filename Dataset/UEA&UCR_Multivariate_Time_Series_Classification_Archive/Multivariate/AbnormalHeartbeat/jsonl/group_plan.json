@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 182,
+    "start_index": 2844,
+    "scores": {
+      "periodic": 1.6276855351314734,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "AbnormalHeartbeat_AbnormalHeartbeat_idx182_L96_start2844",
+      "192": "AbnormalHeartbeat_AbnormalHeartbeat_idx182_L192_start2844",
+      "288": "AbnormalHeartbeat_AbnormalHeartbeat_idx182_L288_start2844",
+      "384": "AbnormalHeartbeat_AbnormalHeartbeat_idx182_L384_start2844",
+      "512": "AbnormalHeartbeat_AbnormalHeartbeat_idx182_L512_start2844"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 190,
+    "start_index": 1896,
+    "scores": {
+      "periodic": 0.11075005088904331,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "AbnormalHeartbeat_AbnormalHeartbeat_idx190_L96_start1896",
+      "192": "AbnormalHeartbeat_AbnormalHeartbeat_idx190_L192_start1896",
+      "288": "AbnormalHeartbeat_AbnormalHeartbeat_idx190_L288_start1896",
+      "384": "AbnormalHeartbeat_AbnormalHeartbeat_idx190_L384_start1896",
+      "512": "AbnormalHeartbeat_AbnormalHeartbeat_idx190_L512_start1896"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 331,
+    "start_index": 12328,
+    "scores": {
+      "periodic": 0.24511026658370116,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "AbnormalHeartbeat_AbnormalHeartbeat_idx331_L96_start12328",
+      "192": "AbnormalHeartbeat_AbnormalHeartbeat_idx331_L192_start12328",
+      "288": "AbnormalHeartbeat_AbnormalHeartbeat_idx331_L288_start12328",
+      "384": "AbnormalHeartbeat_AbnormalHeartbeat_idx331_L384_start12328",
+      "512": "AbnormalHeartbeat_AbnormalHeartbeat_idx331_L512_start12328"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 190,
+    "start_index": 15173,
+    "scores": {
+      "periodic": 0.29933535753873086,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "AbnormalHeartbeat_AbnormalHeartbeat_idx190_L96_start15173",
+      "192": "AbnormalHeartbeat_AbnormalHeartbeat_idx190_L192_start15173",
+      "288": "AbnormalHeartbeat_AbnormalHeartbeat_idx190_L288_start15173",
+      "384": "AbnormalHeartbeat_AbnormalHeartbeat_idx190_L384_start15173",
+      "512": "AbnormalHeartbeat_AbnormalHeartbeat_idx190_L512_start15173"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 245,
+    "start_index": 2844,
+    "scores": {
+      "periodic": 0.24509504323650785,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "AbnormalHeartbeat_AbnormalHeartbeat_idx245_L96_start2844",
+      "192": "AbnormalHeartbeat_AbnormalHeartbeat_idx245_L192_start2844",
+      "288": "AbnormalHeartbeat_AbnormalHeartbeat_idx245_L288_start2844",
+      "384": "AbnormalHeartbeat_AbnormalHeartbeat_idx245_L384_start2844",
+      "512": "AbnormalHeartbeat_AbnormalHeartbeat_idx245_L512_start2844"
+    }
+  }
+]

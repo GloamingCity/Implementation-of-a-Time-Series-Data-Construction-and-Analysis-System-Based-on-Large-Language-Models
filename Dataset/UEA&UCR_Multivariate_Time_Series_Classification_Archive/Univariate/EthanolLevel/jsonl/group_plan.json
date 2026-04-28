@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 320,
+    "start_index": 978,
+    "scores": {
+      "periodic": 1.9303811640369553,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EthanolLevel_EthanolLevel_TRAIN_idx320_L96_start978",
+      "192": "EthanolLevel_EthanolLevel_TRAIN_idx320_L192_start978",
+      "288": "EthanolLevel_EthanolLevel_TRAIN_idx320_L288_start978",
+      "384": "EthanolLevel_EthanolLevel_TRAIN_idx320_L384_start978",
+      "512": "EthanolLevel_EthanolLevel_TRAIN_idx320_L512_start978"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 257,
+    "start_index": 847,
+    "scores": {
+      "periodic": 1.7538380438466752,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EthanolLevel_EthanolLevel_TRAIN_idx257_L96_start847",
+      "192": "EthanolLevel_EthanolLevel_TRAIN_idx257_L192_start847",
+      "288": "EthanolLevel_EthanolLevel_TRAIN_idx257_L288_start847",
+      "384": "EthanolLevel_EthanolLevel_TRAIN_idx257_L384_start847",
+      "512": "EthanolLevel_EthanolLevel_TRAIN_idx257_L512_start847"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 451,
+    "start_index": 782,
+    "scores": {
+      "periodic": 0.16703414213115234,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EthanolLevel_EthanolLevel_TRAIN_idx451_L96_start782",
+      "192": "EthanolLevel_EthanolLevel_TRAIN_idx451_L192_start782",
+      "288": "EthanolLevel_EthanolLevel_TRAIN_idx451_L288_start782",
+      "384": "EthanolLevel_EthanolLevel_TRAIN_idx451_L384_start782",
+      "512": "EthanolLevel_EthanolLevel_TRAIN_idx451_L512_start782"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 257,
+    "start_index": 717,
+    "scores": {
+      "periodic": 0.2806735626990672,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EthanolLevel_EthanolLevel_TRAIN_idx257_L96_start717",
+      "192": "EthanolLevel_EthanolLevel_TRAIN_idx257_L192_start717",
+      "288": "EthanolLevel_EthanolLevel_TRAIN_idx257_L288_start717",
+      "384": "EthanolLevel_EthanolLevel_TRAIN_idx257_L384_start717",
+      "512": "EthanolLevel_EthanolLevel_TRAIN_idx257_L512_start717"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 257,
+    "start_index": 912,
+    "scores": {
+      "periodic": 1.8102521326441898,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EthanolLevel_EthanolLevel_TRAIN_idx257_L96_start912",
+      "192": "EthanolLevel_EthanolLevel_TRAIN_idx257_L192_start912",
+      "288": "EthanolLevel_EthanolLevel_TRAIN_idx257_L288_start912",
+      "384": "EthanolLevel_EthanolLevel_TRAIN_idx257_L384_start912",
+      "512": "EthanolLevel_EthanolLevel_TRAIN_idx257_L512_start912"
+    }
+  }
+]

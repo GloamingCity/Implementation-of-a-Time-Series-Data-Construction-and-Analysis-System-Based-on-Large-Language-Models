@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 16,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.5435200953159472,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "OliveOil_OliveOil_TRAIN_idx16_L96_start0",
+      "192": "OliveOil_OliveOil_TRAIN_idx16_L192_start0",
+      "288": "OliveOil_OliveOil_TRAIN_idx16_L288_start0",
+      "384": "OliveOil_OliveOil_TRAIN_idx16_L384_start0",
+      "512": "OliveOil_OliveOil_TRAIN_idx16_L512_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 11,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.535618295915517,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "OliveOil_OliveOil_TRAIN_idx11_L96_start0",
+      "192": "OliveOil_OliveOil_TRAIN_idx11_L192_start0",
+      "288": "OliveOil_OliveOil_TRAIN_idx11_L288_start0",
+      "384": "OliveOil_OliveOil_TRAIN_idx11_L384_start0",
+      "512": "OliveOil_OliveOil_TRAIN_idx11_L512_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 11,
+    "start_index": 18,
+    "scores": {
+      "periodic": 0.5137818360815773,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "OliveOil_OliveOil_TRAIN_idx11_L96_start18",
+      "192": "OliveOil_OliveOil_TRAIN_idx11_L192_start18",
+      "288": "OliveOil_OliveOil_TRAIN_idx11_L288_start18",
+      "384": "OliveOil_OliveOil_TRAIN_idx11_L384_start18",
+      "512": "OliveOil_OliveOil_TRAIN_idx11_L512_start18"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 11,
+    "start_index": 51,
+    "scores": {
+      "periodic": 0.47922983200832114,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "OliveOil_OliveOil_TRAIN_idx11_L96_start51",
+      "192": "OliveOil_OliveOil_TRAIN_idx11_L192_start51",
+      "288": "OliveOil_OliveOil_TRAIN_idx11_L288_start51",
+      "384": "OliveOil_OliveOil_TRAIN_idx11_L384_start51",
+      "512": "OliveOil_OliveOil_TRAIN_idx11_L512_start51"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 14,
+    "start_index": 45,
+    "scores": {
+      "periodic": 0.4860666213944513,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "OliveOil_OliveOil_TRAIN_idx14_L96_start45",
+      "192": "OliveOil_OliveOil_TRAIN_idx14_L192_start45",
+      "288": "OliveOil_OliveOil_TRAIN_idx14_L288_start45",
+      "384": "OliveOil_OliveOil_TRAIN_idx14_L384_start45",
+      "512": "OliveOil_OliveOil_TRAIN_idx14_L512_start45"
+    }
+  }
+]

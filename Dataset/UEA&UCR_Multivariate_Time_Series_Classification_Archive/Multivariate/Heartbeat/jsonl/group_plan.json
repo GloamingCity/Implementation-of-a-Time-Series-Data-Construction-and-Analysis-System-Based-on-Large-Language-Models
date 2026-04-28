@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 48,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6485446274040854,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "67": "Heartbeat_Heartbeat_TRAIN_idx48_L67_start0",
+      "152": "Heartbeat_Heartbeat_TRAIN_idx48_L152_start0",
+      "236": "Heartbeat_Heartbeat_TRAIN_idx48_L236_start0",
+      "320": "Heartbeat_Heartbeat_TRAIN_idx48_L320_start0",
+      "405": "Heartbeat_Heartbeat_TRAIN_idx48_L405_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 198,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.15000091428478896,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "67": "Heartbeat_Heartbeat_TRAIN_idx198_L67_start0",
+      "152": "Heartbeat_Heartbeat_TRAIN_idx198_L152_start0",
+      "236": "Heartbeat_Heartbeat_TRAIN_idx198_L236_start0",
+      "320": "Heartbeat_Heartbeat_TRAIN_idx198_L320_start0",
+      "405": "Heartbeat_Heartbeat_TRAIN_idx198_L405_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 171,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.0,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "67": "Heartbeat_Heartbeat_TRAIN_idx171_L67_start0",
+      "152": "Heartbeat_Heartbeat_TRAIN_idx171_L152_start0",
+      "236": "Heartbeat_Heartbeat_TRAIN_idx171_L236_start0",
+      "320": "Heartbeat_Heartbeat_TRAIN_idx171_L320_start0",
+      "405": "Heartbeat_Heartbeat_TRAIN_idx171_L405_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 119,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.48651551050322756,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "67": "Heartbeat_Heartbeat_TRAIN_idx119_L67_start0",
+      "152": "Heartbeat_Heartbeat_TRAIN_idx119_L152_start0",
+      "236": "Heartbeat_Heartbeat_TRAIN_idx119_L236_start0",
+      "320": "Heartbeat_Heartbeat_TRAIN_idx119_L320_start0",
+      "405": "Heartbeat_Heartbeat_TRAIN_idx119_L405_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 12,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.24189882436242433,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "67": "Heartbeat_Heartbeat_TRAIN_idx12_L67_start0",
+      "152": "Heartbeat_Heartbeat_TRAIN_idx12_L152_start0",
+      "236": "Heartbeat_Heartbeat_TRAIN_idx12_L236_start0",
+      "320": "Heartbeat_Heartbeat_TRAIN_idx12_L320_start0",
+      "405": "Heartbeat_Heartbeat_TRAIN_idx12_L405_start0"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "GunPointOldVersusYoung",
+    "lengths": [
+      25,
+      56,
+      88,
+      119,
+      150
+    ],
+    "mean_scores": [
+      82.0,
+      83.2,
+      74.0,
+      80.4,
+      84.4
+    ],
+    "rho_len_score": 0.2,
+    "relation": "flat",
+    "overall_score": 80.8
+  }
+]

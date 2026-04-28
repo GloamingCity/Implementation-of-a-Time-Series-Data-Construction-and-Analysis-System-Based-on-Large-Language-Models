@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 136,
+    "start_index": 109,
+    "scores": {
+      "periodic": 1.7546913550504417,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx136_L96_start109",
+      "192": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx136_L192_start109",
+      "288": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx136_L288_start109",
+      "384": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx136_L384_start109",
+      "512": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx136_L512_start109"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 149,
+    "start_index": 54,
+    "scores": {
+      "periodic": 0.3682514807767809,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx149_L96_start54",
+      "192": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx149_L192_start54",
+      "288": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx149_L288_start54",
+      "384": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx149_L384_start54",
+      "512": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx149_L512_start54"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 59,
+    "start_index": 186,
+    "scores": {
+      "periodic": 0.2976773066623115,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx59_L96_start186",
+      "192": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx59_L192_start186",
+      "288": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx59_L288_start186",
+      "384": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx59_L384_start186",
+      "512": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx59_L512_start186"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 363,
+    "start_index": 175,
+    "scores": {
+      "periodic": 0.4099334108758659,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx363_L96_start175",
+      "192": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx363_L192_start175",
+      "288": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx363_L288_start175",
+      "384": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx363_L384_start175",
+      "512": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx363_L512_start175"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 149,
+    "start_index": 175,
+    "scores": {
+      "periodic": 0.34525705608462287,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx149_L96_start175",
+      "192": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx149_L192_start175",
+      "288": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx149_L288_start175",
+      "384": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx149_L384_start175",
+      "512": "LargeKitchenAppliances_LargeKitchenAppliances_TRAIN_idx149_L512_start175"
+    }
+  }
+]

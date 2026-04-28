@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 2,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.5492545219898226,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "57": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx2_L57_start0",
+      "129": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx2_L129_start0",
+      "201": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx2_L201_start0",
+      "273": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx2_L273_start0",
+      "345": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx2_L345_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 7,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.5372478793872203,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "57": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx7_L57_start0",
+      "129": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx7_L129_start0",
+      "201": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx7_L201_start0",
+      "273": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx7_L273_start0",
+      "345": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx7_L345_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 15,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.4856456693880011,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "57": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx15_L57_start0",
+      "129": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx15_L129_start0",
+      "201": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx15_L201_start0",
+      "273": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx15_L273_start0",
+      "345": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx15_L345_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 1,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.535288175401142,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "57": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx1_L57_start0",
+      "129": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx1_L129_start0",
+      "201": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx1_L201_start0",
+      "273": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx1_L273_start0",
+      "345": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx1_L345_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 8,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.5433299692652536,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "57": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx8_L57_start0",
+      "129": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx8_L129_start0",
+      "201": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx8_L201_start0",
+      "273": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx8_L273_start0",
+      "345": "DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx8_L345_start0"
+    }
+  }
+]

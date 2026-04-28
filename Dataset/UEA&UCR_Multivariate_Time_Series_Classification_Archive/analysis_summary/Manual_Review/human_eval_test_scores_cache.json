@@ -1,0 +1,93 @@
+{
+  "train_runs": {
+    "group03_L274_Beef_Beef_TRAIN_idx24_L274_start0.png": [
+      85
+    ],
+    "group03_L288_BeetleFly_BeetleFly_TRAIN_idx11_L288_start0.png": [
+      73
+    ],
+    "group03_L201_DiatomSizeReduction_DiatomSizeReduction_TRAIN_idx15_L201_start0.png": [
+      76
+    ],
+    "group03_L082_ECG5000_ECG5000_TRAIN_idx335_L82_start0.png": [
+      78
+    ],
+    "group03_L288_AbnormalHeartbeat_AbnormalHeartbeat_idx331_L288_start12328.png": [
+      85
+    ],
+    "group03_L146_ArrowHead_ArrowHead_TRAIN_idx27_L146_start0.png": [
+      83
+    ],
+    "group03_L076_BME_BME_TRAIN_idx25_L76_start0.png": [
+      65
+    ],
+    "group03_L175_CricketY_CricketY_TRAIN_idx172_L175_start0.png": [
+      76
+    ],
+    "group03_L288_EOGHorizontalSignal_EOGHorizontalSignal_TRAIN_idx212_L288_start116.png": [
+      65
+    ]
+  },
+  "test_runs": {
+    "group03_L288_BinaryHeartbeat_BinaryHeartbeatEq_idx375_L288_start15173.png": [
+      73,
+      75,
+      73
+    ],
+    "group03_L288_BirdChicken_BirdChicken_TRAIN_idx7_L288_start0.png": [
+      80,
+      68,
+      80
+    ],
+    "group03_L096_ChlorineConcentration_ChlorineConcentration_TRAIN_idx372_L96_start0.png": [
+      78,
+      78,
+      75
+    ],
+    "group03_L288_ACSF1_ACSF1_TRAIN_idx75_L288_start648.png": [
+      74,
+      85,
+      85
+    ],
+    "group03_L084_ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx28_L84_start0.png": [
+      75,
+      73,
+      73
+    ],
+    "group03_L288_AtrialFibrillation_AtrialFibrillation_TRAIN_idx14_L288_start80.png": [
+      82,
+      78,
+      75
+    ],
+    "group03_L062_BasicMotions_BasicMotions_TRAIN_idx7_L62_start0.png": [
+      72,
+      72,
+      75
+    ],
+    "group03_L102_Adiac_Adiac_TRAIN_idx230_L102_start0.png": [
+      81,
+      75,
+      75
+    ],
+    "group03_L288_Car_Car_TRAIN_idx48_L288_start37.png": [
+      80,
+      85,
+      70
+    ],
+    "group03_L166_Coffee_Coffee_TRAIN_idx17_L166_start0.png": [
+      75,
+      75,
+      75
+    ],
+    "group03_L175_CricketZ_CricketZ_TRAIN_idx373_L175_start0.png": [
+      77,
+      70,
+      78
+    ],
+    "group03_L080_ECGFiveDays_ECGFiveDays_TRAIN_idx6_L80_start0.png": [
+      81,
+      65,
+      83
+    ]
+  }
+}

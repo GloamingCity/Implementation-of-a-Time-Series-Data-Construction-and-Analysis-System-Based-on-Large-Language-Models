@@ -1,0 +1,28 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^Set-Location \"d:\\\\Users\\\\Win\\\\Desktop\\\\Study\\\\毕业设计-面向大语言模型的时序推理数据构建及分析系统实现\\\\数据收集\\\\数据集\"; cmd /c \"cleanup_subfolder_png_jsonl\\.bat < nul\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^Set-Location \"d:\\\\Users\\\\Win\\\\Desktop\\\\Study\\\\毕业设计-面向大语言模型的时序推理数据构建及分析系统实现\\\\数据收集\\\\数据集\\\\ETT-small\"; python generate_descriptions_ETT\\.py --csv_path Dataset/ETTm2\\.csv --target_col LULL --window_lengths 336 --max_samples 20$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^Set-Location \"d:\\\\Users\\\\Win\\\\Desktop\\\\Study\\\\毕业设计-面向大语言模型的时序推理数据构建及分析系统实现\\\\数据收集\\\\数据集\"; Get-ChildItem -Recurse -File -Filter \\*_descriptions\\.jsonl \\| Select-String -Pattern \"高频震荡\\|频繁上下波动\" \\| Select-Object -First 5 \\| ForEach-Object \\{ \\$_\\.Path \\+ ':' \\+ \\$_\\.LineNumber \\}$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^python -m py_compile \"ETT-small/viz_ETT_samples_v2\\.py\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^python -m py_compile \"ETT-small/generate_descriptions_ETT\\.py\" \"Weather/generate_descriptions_Weather\\.py\" \"Traffic/generate_descriptions_traffic\\.py\" \"Monash Time Series Forecasting Archive/generate_descriptions_Monash\\.py\" \"Exchange Rate/generate_descriptions_ExchangeRate\\.py\" \"NAB/generate_descriptions_NAB\\.py\" \"UEA&UCR Multivariate Time Series Classification Archive/generate_descriptions_UEA&UCR\\.py\" \"ElectricityECL/generate_descriptions_ElectricityECL\\.py\"; if\\(\\$LASTEXITCODE -eq 0\\)\\{'PY_COMPILE_OK'\\} else \\{'PY_COMPILE_FAIL'\\}$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^if \\(Test-Path \"\\.\\\\clean_files\\.bat\"\\) \\{ \\.\\\\clean_files\\.bat \\} else \\{ 'MISSING clean_files\\.bat' \\}$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

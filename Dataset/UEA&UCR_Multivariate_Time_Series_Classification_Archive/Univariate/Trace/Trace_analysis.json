@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Trace",
+    "lengths": [
+      45,
+      102,
+      160,
+      218,
+      275
+    ],
+    "mean_scores": [
+      79.2,
+      80.8,
+      78.6,
+      83.0,
+      77.2
+    ],
+    "rho_len_score": -0.3,
+    "relation": "negative",
+    "overall_score": 79.76
+  }
+]

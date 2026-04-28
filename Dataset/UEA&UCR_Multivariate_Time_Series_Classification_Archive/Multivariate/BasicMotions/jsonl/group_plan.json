@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 27,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.7022400842953174,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "24": "BasicMotions_BasicMotions_TRAIN_idx27_L24_start0",
+      "43": "BasicMotions_BasicMotions_TRAIN_idx27_L43_start0",
+      "62": "BasicMotions_BasicMotions_TRAIN_idx27_L62_start0",
+      "81": "BasicMotions_BasicMotions_TRAIN_idx27_L81_start0",
+      "100": "BasicMotions_BasicMotions_TRAIN_idx27_L100_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 25,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.563745807184036,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "24": "BasicMotions_BasicMotions_TRAIN_idx25_L24_start0",
+      "43": "BasicMotions_BasicMotions_TRAIN_idx25_L43_start0",
+      "62": "BasicMotions_BasicMotions_TRAIN_idx25_L62_start0",
+      "81": "BasicMotions_BasicMotions_TRAIN_idx25_L81_start0",
+      "100": "BasicMotions_BasicMotions_TRAIN_idx25_L100_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 7,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6348981164279976,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "24": "BasicMotions_BasicMotions_TRAIN_idx7_L24_start0",
+      "43": "BasicMotions_BasicMotions_TRAIN_idx7_L43_start0",
+      "62": "BasicMotions_BasicMotions_TRAIN_idx7_L62_start0",
+      "81": "BasicMotions_BasicMotions_TRAIN_idx7_L81_start0",
+      "100": "BasicMotions_BasicMotions_TRAIN_idx7_L100_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 37,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.15100290415856507,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "BasicMotions_BasicMotions_TRAIN_idx37_L24_start0",
+      "43": "BasicMotions_BasicMotions_TRAIN_idx37_L43_start0",
+      "62": "BasicMotions_BasicMotions_TRAIN_idx37_L62_start0",
+      "81": "BasicMotions_BasicMotions_TRAIN_idx37_L81_start0",
+      "100": "BasicMotions_BasicMotions_TRAIN_idx37_L100_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 20,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.44945535758716504,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "BasicMotions_BasicMotions_TRAIN_idx20_L24_start0",
+      "43": "BasicMotions_BasicMotions_TRAIN_idx20_L43_start0",
+      "62": "BasicMotions_BasicMotions_TRAIN_idx20_L62_start0",
+      "81": "BasicMotions_BasicMotions_TRAIN_idx20_L81_start0",
+      "100": "BasicMotions_BasicMotions_TRAIN_idx20_L100_start0"
+    }
+  }
+]

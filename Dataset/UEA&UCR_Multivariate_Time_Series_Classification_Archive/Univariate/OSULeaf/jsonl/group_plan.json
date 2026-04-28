@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 31,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.5636689994001183,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "71": "OSULeaf_OSULeaf_TRAIN_idx31_L71_start0",
+      "160": "OSULeaf_OSULeaf_TRAIN_idx31_L160_start0",
+      "249": "OSULeaf_OSULeaf_TRAIN_idx31_L249_start0",
+      "338": "OSULeaf_OSULeaf_TRAIN_idx31_L338_start0",
+      "427": "OSULeaf_OSULeaf_TRAIN_idx31_L427_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 64,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.4473751916964093,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "71": "OSULeaf_OSULeaf_TRAIN_idx64_L71_start0",
+      "160": "OSULeaf_OSULeaf_TRAIN_idx64_L160_start0",
+      "249": "OSULeaf_OSULeaf_TRAIN_idx64_L249_start0",
+      "338": "OSULeaf_OSULeaf_TRAIN_idx64_L338_start0",
+      "427": "OSULeaf_OSULeaf_TRAIN_idx64_L427_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 135,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.38512887717085925,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "71": "OSULeaf_OSULeaf_TRAIN_idx135_L71_start0",
+      "160": "OSULeaf_OSULeaf_TRAIN_idx135_L160_start0",
+      "249": "OSULeaf_OSULeaf_TRAIN_idx135_L249_start0",
+      "338": "OSULeaf_OSULeaf_TRAIN_idx135_L338_start0",
+      "427": "OSULeaf_OSULeaf_TRAIN_idx135_L427_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 62,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.11790568972557501,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "71": "OSULeaf_OSULeaf_TRAIN_idx62_L71_start0",
+      "160": "OSULeaf_OSULeaf_TRAIN_idx62_L160_start0",
+      "249": "OSULeaf_OSULeaf_TRAIN_idx62_L249_start0",
+      "338": "OSULeaf_OSULeaf_TRAIN_idx62_L338_start0",
+      "427": "OSULeaf_OSULeaf_TRAIN_idx62_L427_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 30,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.1980197721121343,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "71": "OSULeaf_OSULeaf_TRAIN_idx30_L71_start0",
+      "160": "OSULeaf_OSULeaf_TRAIN_idx30_L160_start0",
+      "249": "OSULeaf_OSULeaf_TRAIN_idx30_L249_start0",
+      "338": "OSULeaf_OSULeaf_TRAIN_idx30_L338_start0",
+      "427": "OSULeaf_OSULeaf_TRAIN_idx30_L427_start0"
+    }
+  }
+]

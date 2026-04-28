@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "InsectSound",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      82.0,
+      84.2,
+      83.4,
+      83.0,
+      86.4
+    ],
+    "rho_len_score": 0.6,
+    "relation": "positive",
+    "overall_score": 83.8
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 90,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.9369189482771239,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "34": "Epilepsy_Epilepsy_TRAIN_idx90_L34_start0",
+      "77": "Epilepsy_Epilepsy_TRAIN_idx90_L77_start0",
+      "120": "Epilepsy_Epilepsy_TRAIN_idx90_L120_start0",
+      "163": "Epilepsy_Epilepsy_TRAIN_idx90_L163_start0",
+      "206": "Epilepsy_Epilepsy_TRAIN_idx90_L206_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 51,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.24469348351177786,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "34": "Epilepsy_Epilepsy_TRAIN_idx51_L34_start0",
+      "77": "Epilepsy_Epilepsy_TRAIN_idx51_L77_start0",
+      "120": "Epilepsy_Epilepsy_TRAIN_idx51_L120_start0",
+      "163": "Epilepsy_Epilepsy_TRAIN_idx51_L163_start0",
+      "206": "Epilepsy_Epilepsy_TRAIN_idx51_L206_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 23,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.2802980710337149,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "34": "Epilepsy_Epilepsy_TRAIN_idx23_L34_start0",
+      "77": "Epilepsy_Epilepsy_TRAIN_idx23_L77_start0",
+      "120": "Epilepsy_Epilepsy_TRAIN_idx23_L120_start0",
+      "163": "Epilepsy_Epilepsy_TRAIN_idx23_L163_start0",
+      "206": "Epilepsy_Epilepsy_TRAIN_idx23_L206_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 68,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6613365663810673,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "34": "Epilepsy_Epilepsy_TRAIN_idx68_L34_start0",
+      "77": "Epilepsy_Epilepsy_TRAIN_idx68_L77_start0",
+      "120": "Epilepsy_Epilepsy_TRAIN_idx68_L120_start0",
+      "163": "Epilepsy_Epilepsy_TRAIN_idx68_L163_start0",
+      "206": "Epilepsy_Epilepsy_TRAIN_idx68_L206_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 5,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.5521401804785916,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "34": "Epilepsy_Epilepsy_TRAIN_idx5_L34_start0",
+      "77": "Epilepsy_Epilepsy_TRAIN_idx5_L77_start0",
+      "120": "Epilepsy_Epilepsy_TRAIN_idx5_L120_start0",
+      "163": "Epilepsy_Epilepsy_TRAIN_idx5_L163_start0",
+      "206": "Epilepsy_Epilepsy_TRAIN_idx5_L206_start0"
+    }
+  }
+]

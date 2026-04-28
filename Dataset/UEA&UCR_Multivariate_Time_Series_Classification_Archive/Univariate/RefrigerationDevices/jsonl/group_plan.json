@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 126,
+    "start_index": 186,
+    "scores": {
+      "periodic": 1.9183869201699908,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx126_L96_start186",
+      "192": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx126_L192_start186",
+      "288": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx126_L288_start186",
+      "384": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx126_L384_start186",
+      "512": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx126_L512_start186"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 90,
+    "start_index": 76,
+    "scores": {
+      "periodic": 0.2933086947114022,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx90_L96_start76",
+      "192": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx90_L192_start76",
+      "288": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx90_L288_start76",
+      "384": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx90_L384_start76",
+      "512": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx90_L512_start76"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 152,
+    "start_index": 164,
+    "scores": {
+      "periodic": 0.4281106635654729,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx152_L96_start164",
+      "192": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx152_L192_start164",
+      "288": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx152_L288_start164",
+      "384": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx152_L384_start164",
+      "512": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx152_L512_start164"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 90,
+    "start_index": 208,
+    "scores": {
+      "periodic": 0.26008631228025164,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx90_L96_start208",
+      "192": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx90_L192_start208",
+      "288": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx90_L288_start208",
+      "384": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx90_L384_start208",
+      "512": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx90_L512_start208"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 152,
+    "start_index": 98,
+    "scores": {
+      "periodic": 0.44478447211586103,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx152_L96_start98",
+      "192": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx152_L192_start98",
+      "288": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx152_L288_start98",
+      "384": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx152_L384_start98",
+      "512": "RefrigerationDevices_RefrigerationDevices_TRAIN_idx152_L512_start98"
+    }
+  }
+]

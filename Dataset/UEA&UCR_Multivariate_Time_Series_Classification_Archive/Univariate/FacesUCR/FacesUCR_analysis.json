@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "FacesUCR",
+    "lengths": [
+      24,
+      51,
+      78,
+      104,
+      131
+    ],
+    "mean_scores": [
+      81.8,
+      81.6,
+      73.8,
+      78.8,
+      77.0
+    ],
+    "rho_len_score": -0.7,
+    "relation": "negative",
+    "overall_score": 78.6
+  }
+]

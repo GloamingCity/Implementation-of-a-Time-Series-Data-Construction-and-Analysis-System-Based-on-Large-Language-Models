@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 51,
+    "start_index": 234,
+    "scores": {
+      "periodic": 1.9158096554239703,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx51_L96_start234",
+      "192": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx51_L192_start234",
+      "288": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx51_L288_start234",
+      "384": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx51_L384_start234",
+      "512": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx51_L512_start234"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 57,
+    "start_index": 313,
+    "scores": {
+      "periodic": 0.6152492217062574,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L96_start313",
+      "192": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L192_start313",
+      "288": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L288_start313",
+      "384": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L384_start313",
+      "512": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L512_start313"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 57,
+    "start_index": 156,
+    "scores": {
+      "periodic": 0.7348042675620166,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L96_start156",
+      "192": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L192_start156",
+      "288": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L288_start156",
+      "384": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L384_start156",
+      "512": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L512_start156"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 57,
+    "start_index": 469,
+    "scores": {
+      "periodic": 1.8938711124346082,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L96_start469",
+      "192": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L192_start469",
+      "288": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L288_start469",
+      "384": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L384_start469",
+      "512": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L512_start469"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 57,
+    "start_index": 1409,
+    "scores": {
+      "periodic": 0.5845525190158418,
+      "volatile_event": 0.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L96_start1409",
+      "192": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L192_start1409",
+      "288": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L288_start1409",
+      "384": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L384_start1409",
+      "512": "PigAirwayPressure_PigAirwayPressure_TRAIN_idx57_L512_start1409"
+    }
+  }
+]

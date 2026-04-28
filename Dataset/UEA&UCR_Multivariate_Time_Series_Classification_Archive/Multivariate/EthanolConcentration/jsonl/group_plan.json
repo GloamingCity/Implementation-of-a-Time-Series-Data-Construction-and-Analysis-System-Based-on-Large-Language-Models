@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 260,
+    "start_index": 391,
+    "scores": {
+      "periodic": 1.9537027603705872,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EthanolConcentration_EthanolConcentration_idx260_L96_start391",
+      "192": "EthanolConcentration_EthanolConcentration_idx260_L192_start391",
+      "288": "EthanolConcentration_EthanolConcentration_idx260_L288_start391",
+      "384": "EthanolConcentration_EthanolConcentration_idx260_L384_start391",
+      "512": "EthanolConcentration_EthanolConcentration_idx260_L512_start391"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 291,
+    "start_index": 195,
+    "scores": {
+      "periodic": 1.8587700605253032,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EthanolConcentration_EthanolConcentration_idx291_L96_start195",
+      "192": "EthanolConcentration_EthanolConcentration_idx291_L192_start195",
+      "288": "EthanolConcentration_EthanolConcentration_idx291_L288_start195",
+      "384": "EthanolConcentration_EthanolConcentration_idx291_L384_start195",
+      "512": "EthanolConcentration_EthanolConcentration_idx291_L512_start195"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 65,
+    "start_index": 717,
+    "scores": {
+      "periodic": 0.15648827146604433,
+      "volatile_event": 0.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EthanolConcentration_EthanolConcentration_idx65_L96_start717",
+      "192": "EthanolConcentration_EthanolConcentration_idx65_L192_start717",
+      "288": "EthanolConcentration_EthanolConcentration_idx65_L288_start717",
+      "384": "EthanolConcentration_EthanolConcentration_idx65_L384_start717",
+      "512": "EthanolConcentration_EthanolConcentration_idx65_L512_start717"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 291,
+    "start_index": 717,
+    "scores": {
+      "periodic": 0.36301788945594704,
+      "volatile_event": 0.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EthanolConcentration_EthanolConcentration_idx291_L96_start717",
+      "192": "EthanolConcentration_EthanolConcentration_idx291_L192_start717",
+      "288": "EthanolConcentration_EthanolConcentration_idx291_L288_start717",
+      "384": "EthanolConcentration_EthanolConcentration_idx291_L384_start717",
+      "512": "EthanolConcentration_EthanolConcentration_idx291_L512_start717"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 291,
+    "start_index": 1173,
+    "scores": {
+      "periodic": 1.8975920034519784,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "EthanolConcentration_EthanolConcentration_idx291_L96_start1173",
+      "192": "EthanolConcentration_EthanolConcentration_idx291_L192_start1173",
+      "288": "EthanolConcentration_EthanolConcentration_idx291_L288_start1173",
+      "384": "EthanolConcentration_EthanolConcentration_idx291_L384_start1173",
+      "512": "EthanolConcentration_EthanolConcentration_idx291_L512_start1173"
+    }
+  }
+]

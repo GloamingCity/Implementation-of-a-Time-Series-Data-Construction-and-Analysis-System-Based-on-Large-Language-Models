@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 206,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.9317803428047702,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "60": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx206_L60_start0",
+      "135": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx206_L135_start0",
+      "210": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx206_L210_start0",
+      "285": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx206_L285_start0",
+      "360": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx206_L360_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 119,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8170522120983876,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "60": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx119_L60_start0",
+      "135": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx119_L135_start0",
+      "210": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx119_L210_start0",
+      "285": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx119_L285_start0",
+      "360": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx119_L360_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 193,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8184587421063643,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "60": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx193_L60_start0",
+      "135": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx193_L135_start0",
+      "210": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx193_L210_start0",
+      "285": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx193_L285_start0",
+      "360": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx193_L360_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 56,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8340080464149113,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "60": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx56_L60_start0",
+      "135": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx56_L135_start0",
+      "210": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx56_L210_start0",
+      "285": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx56_L285_start0",
+      "360": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx56_L360_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 36,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.7234251308372779,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "60": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx36_L60_start0",
+      "135": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx36_L135_start0",
+      "210": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx36_L210_start0",
+      "285": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx36_L285_start0",
+      "360": "GestureMidAirD3_GestureMidAirD3_TRAIN_idx36_L360_start0"
+    }
+  }
+]

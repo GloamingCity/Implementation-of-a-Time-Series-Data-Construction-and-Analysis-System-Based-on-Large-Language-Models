@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "ShapesAll",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      84.8,
+      77.6,
+      77.0,
+      85.0,
+      79.8
+    ],
+    "rho_len_score": 0.1,
+    "relation": "flat",
+    "overall_score": 80.84
+  }
+]

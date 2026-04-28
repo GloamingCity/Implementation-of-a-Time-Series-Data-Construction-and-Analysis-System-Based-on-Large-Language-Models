@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "FreezerRegularTrain",
+    "lengths": [
+      50,
+      113,
+      176,
+      238,
+      301
+    ],
+    "mean_scores": [
+      77.4,
+      67.4,
+      81.6,
+      75.6,
+      73.0
+    ],
+    "rho_len_score": -0.2,
+    "relation": "flat",
+    "overall_score": 75.0
+  }
+]

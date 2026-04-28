@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 50,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6763990909116617,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "39": "Wine_Wine_TRAIN_idx50_L39_start0",
+      "88": "Wine_Wine_TRAIN_idx50_L88_start0",
+      "136": "Wine_Wine_TRAIN_idx50_L136_start0",
+      "185": "Wine_Wine_TRAIN_idx50_L185_start0",
+      "234": "Wine_Wine_TRAIN_idx50_L234_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 16,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6692644430552013,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "39": "Wine_Wine_TRAIN_idx16_L39_start0",
+      "88": "Wine_Wine_TRAIN_idx16_L88_start0",
+      "136": "Wine_Wine_TRAIN_idx16_L136_start0",
+      "185": "Wine_Wine_TRAIN_idx16_L185_start0",
+      "234": "Wine_Wine_TRAIN_idx16_L234_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 3,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6747646489380945,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "39": "Wine_Wine_TRAIN_idx3_L39_start0",
+      "88": "Wine_Wine_TRAIN_idx3_L88_start0",
+      "136": "Wine_Wine_TRAIN_idx3_L136_start0",
+      "185": "Wine_Wine_TRAIN_idx3_L185_start0",
+      "234": "Wine_Wine_TRAIN_idx3_L234_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 14,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6650537769397582,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "39": "Wine_Wine_TRAIN_idx14_L39_start0",
+      "88": "Wine_Wine_TRAIN_idx14_L88_start0",
+      "136": "Wine_Wine_TRAIN_idx14_L136_start0",
+      "185": "Wine_Wine_TRAIN_idx14_L185_start0",
+      "234": "Wine_Wine_TRAIN_idx14_L234_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 35,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6552529734041261,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "39": "Wine_Wine_TRAIN_idx35_L39_start0",
+      "88": "Wine_Wine_TRAIN_idx35_L88_start0",
+      "136": "Wine_Wine_TRAIN_idx35_L136_start0",
+      "185": "Wine_Wine_TRAIN_idx35_L185_start0",
+      "234": "Wine_Wine_TRAIN_idx35_L234_start0"
+    }
+  }
+]

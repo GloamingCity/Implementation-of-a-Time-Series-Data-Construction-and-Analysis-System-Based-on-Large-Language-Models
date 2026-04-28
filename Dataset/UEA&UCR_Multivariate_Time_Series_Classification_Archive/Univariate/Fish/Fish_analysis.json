@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Fish",
+    "lengths": [
+      77,
+      174,
+      270,
+      366,
+      463
+    ],
+    "mean_scores": [
+      84.0,
+      70.0,
+      75.6,
+      81.6,
+      77.6
+    ],
+    "rho_len_score": -0.1,
+    "relation": "flat",
+    "overall_score": 77.76
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "GunPointMaleVersusFemale",
+    "lengths": [
+      25,
+      56,
+      88,
+      119,
+      150
+    ],
+    "mean_scores": [
+      84.0,
+      79.4,
+      79.4,
+      84.8,
+      84.0
+    ],
+    "rho_len_score": 0.3689,
+    "relation": "positive",
+    "overall_score": 82.32
+  }
+]

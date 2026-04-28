@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 90,
+    "start_index": 89,
+    "scores": {
+      "periodic": 1.8999657334972992,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx90_L96_start89",
+      "192": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx90_L192_start89",
+      "288": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx90_L288_start89",
+      "384": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx90_L384_start89",
+      "512": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx90_L512_start89"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 197,
+    "start_index": 51,
+    "scores": {
+      "periodic": 0.5947864194422537,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx197_L96_start51",
+      "192": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx197_L192_start51",
+      "288": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx197_L288_start51",
+      "384": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx197_L384_start51",
+      "512": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx197_L512_start51"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 169,
+    "start_index": 32,
+    "scores": {
+      "periodic": 1.8406653309194894,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx169_L96_start32",
+      "192": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx169_L192_start32",
+      "288": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx169_L288_start32",
+      "384": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx169_L384_start32",
+      "512": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx169_L512_start32"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 115,
+    "start_index": 28,
+    "scores": {
+      "periodic": 0.8037248365840214,
+      "volatile_event": 0.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx115_L96_start28",
+      "192": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx115_L192_start28",
+      "288": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx115_L288_start28",
+      "384": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx115_L384_start28",
+      "512": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx115_L512_start28"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 90,
+    "start_index": 18,
+    "scores": {
+      "periodic": 1.87882824622217,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx90_L96_start18",
+      "192": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx90_L192_start18",
+      "288": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx90_L288_start18",
+      "384": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx90_L384_start18",
+      "512": "InsectEPGSmallTrain_InsectEPGSmallTrain_TEST_idx90_L512_start18"
+    }
+  }
+]

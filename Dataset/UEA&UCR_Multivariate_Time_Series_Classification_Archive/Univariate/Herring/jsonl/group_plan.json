@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 39,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.805276923138458,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "Herring_Herring_TRAIN_idx39_L96_start0",
+      "192": "Herring_Herring_TRAIN_idx39_L192_start0",
+      "288": "Herring_Herring_TRAIN_idx39_L288_start0",
+      "384": "Herring_Herring_TRAIN_idx39_L384_start0",
+      "512": "Herring_Herring_TRAIN_idx39_L512_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 40,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.7964799746219385,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Herring_Herring_TRAIN_idx40_L96_start0",
+      "192": "Herring_Herring_TRAIN_idx40_L192_start0",
+      "288": "Herring_Herring_TRAIN_idx40_L288_start0",
+      "384": "Herring_Herring_TRAIN_idx40_L384_start0",
+      "512": "Herring_Herring_TRAIN_idx40_L512_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 42,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.7766207388323982,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "Herring_Herring_TRAIN_idx42_L96_start0",
+      "192": "Herring_Herring_TRAIN_idx42_L192_start0",
+      "288": "Herring_Herring_TRAIN_idx42_L288_start0",
+      "384": "Herring_Herring_TRAIN_idx42_L384_start0",
+      "512": "Herring_Herring_TRAIN_idx42_L512_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 25,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.10043307223545402,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Herring_Herring_TRAIN_idx25_L96_start0",
+      "192": "Herring_Herring_TRAIN_idx25_L192_start0",
+      "288": "Herring_Herring_TRAIN_idx25_L288_start0",
+      "384": "Herring_Herring_TRAIN_idx25_L384_start0",
+      "512": "Herring_Herring_TRAIN_idx25_L512_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 60,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.7817437424993752,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Herring_Herring_TRAIN_idx60_L96_start0",
+      "192": "Herring_Herring_TRAIN_idx60_L192_start0",
+      "288": "Herring_Herring_TRAIN_idx60_L288_start0",
+      "384": "Herring_Herring_TRAIN_idx60_L384_start0",
+      "512": "Herring_Herring_TRAIN_idx60_L512_start0"
+    }
+  }
+]

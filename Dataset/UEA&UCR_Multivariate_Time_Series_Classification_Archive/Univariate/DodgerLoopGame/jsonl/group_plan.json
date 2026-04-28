@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 0,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.7273143972993327,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "48": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx0_L48_start0",
+      "108": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx0_L108_start0",
+      "168": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx0_L168_start0",
+      "228": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx0_L228_start0",
+      "288": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx0_L288_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 12,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.21733914215117459,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "48": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx12_L48_start0",
+      "108": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx12_L108_start0",
+      "168": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx12_L168_start0",
+      "228": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx12_L228_start0",
+      "288": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx12_L288_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 6,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.33311459869939675,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "48": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx6_L48_start0",
+      "108": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx6_L108_start0",
+      "168": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx6_L168_start0",
+      "228": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx6_L228_start0",
+      "288": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx6_L288_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 1,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.6992943140432564,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "48": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx1_L48_start0",
+      "108": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx1_L108_start0",
+      "168": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx1_L168_start0",
+      "228": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx1_L228_start0",
+      "288": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx1_L288_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 2,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.5873122848626033,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "48": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx2_L48_start0",
+      "108": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx2_L108_start0",
+      "168": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx2_L168_start0",
+      "228": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx2_L228_start0",
+      "288": "DodgerLoopGame_DodgerLoopGame_TRAIN_idx2_L288_start0"
+    }
+  }
+]

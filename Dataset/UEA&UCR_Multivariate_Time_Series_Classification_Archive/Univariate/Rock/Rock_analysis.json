@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Rock",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      82.0,
+      83.0,
+      63.4,
+      81.8,
+      78.8
+    ],
+    "rho_len_score": -0.6,
+    "relation": "negative",
+    "overall_score": 77.8
+  }
+]

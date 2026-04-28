@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "GunPoint",
+    "lengths": [
+      25,
+      56,
+      88,
+      119,
+      150
+    ],
+    "mean_scores": [
+      80.8,
+      82.4,
+      82.0,
+      79.6,
+      81.2
+    ],
+    "rho_len_score": -0.2,
+    "relation": "flat",
+    "overall_score": 81.2
+  }
+]

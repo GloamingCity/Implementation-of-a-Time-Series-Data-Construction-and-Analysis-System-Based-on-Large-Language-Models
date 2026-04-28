@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Epilepsy",
+    "lengths": [
+      34,
+      77,
+      120,
+      163,
+      206
+    ],
+    "mean_scores": [
+      80.8,
+      84.2,
+      81.4,
+      84.0,
+      76.4
+    ],
+    "rho_len_score": -0.3,
+    "relation": "negative",
+    "overall_score": 81.36
+  }
+]

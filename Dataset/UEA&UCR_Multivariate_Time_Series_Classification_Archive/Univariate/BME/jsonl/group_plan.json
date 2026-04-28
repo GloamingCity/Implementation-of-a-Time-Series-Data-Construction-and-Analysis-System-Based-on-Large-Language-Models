@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 14,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.730984399437816,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "BME_BME_TRAIN_idx14_L24_start0",
+      "50": "BME_BME_TRAIN_idx14_L50_start0",
+      "76": "BME_BME_TRAIN_idx14_L76_start0",
+      "102": "BME_BME_TRAIN_idx14_L102_start0",
+      "128": "BME_BME_TRAIN_idx14_L128_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 2,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6613108089795303,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "24": "BME_BME_TRAIN_idx2_L24_start0",
+      "50": "BME_BME_TRAIN_idx2_L50_start0",
+      "76": "BME_BME_TRAIN_idx2_L76_start0",
+      "102": "BME_BME_TRAIN_idx2_L102_start0",
+      "128": "BME_BME_TRAIN_idx2_L128_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 25,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.18751256410976772,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "BME_BME_TRAIN_idx25_L24_start0",
+      "50": "BME_BME_TRAIN_idx25_L50_start0",
+      "76": "BME_BME_TRAIN_idx25_L76_start0",
+      "102": "BME_BME_TRAIN_idx25_L102_start0",
+      "128": "BME_BME_TRAIN_idx25_L128_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 28,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.5740241769397185,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "BME_BME_TRAIN_idx28_L24_start0",
+      "50": "BME_BME_TRAIN_idx28_L50_start0",
+      "76": "BME_BME_TRAIN_idx28_L76_start0",
+      "102": "BME_BME_TRAIN_idx28_L102_start0",
+      "128": "BME_BME_TRAIN_idx28_L128_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 4,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6309113862542808,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "BME_BME_TRAIN_idx4_L24_start0",
+      "50": "BME_BME_TRAIN_idx4_L50_start0",
+      "76": "BME_BME_TRAIN_idx4_L76_start0",
+      "102": "BME_BME_TRAIN_idx4_L102_start0",
+      "128": "BME_BME_TRAIN_idx4_L128_start0"
+    }
+  }
+]

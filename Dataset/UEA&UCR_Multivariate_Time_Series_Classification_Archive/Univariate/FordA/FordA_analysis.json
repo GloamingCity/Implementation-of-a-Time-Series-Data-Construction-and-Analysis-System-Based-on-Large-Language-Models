@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "FordA",
+    "lengths": [
+      83,
+      187,
+      292,
+      396,
+      500
+    ],
+    "mean_scores": [
+      83.0,
+      79.6,
+      78.0,
+      77.4,
+      79.6
+    ],
+    "rho_len_score": -0.5643,
+    "relation": "negative",
+    "overall_score": 79.52
+  }
+]

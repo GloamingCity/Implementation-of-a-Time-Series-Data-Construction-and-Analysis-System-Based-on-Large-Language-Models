@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "GunPointAgeSpan",
+    "lengths": [
+      25,
+      56,
+      88,
+      119,
+      150
+    ],
+    "mean_scores": [
+      82.0,
+      83.0,
+      79.4,
+      78.4,
+      78.6
+    ],
+    "rho_len_score": -0.8,
+    "relation": "negative",
+    "overall_score": 80.28
+  }
+]

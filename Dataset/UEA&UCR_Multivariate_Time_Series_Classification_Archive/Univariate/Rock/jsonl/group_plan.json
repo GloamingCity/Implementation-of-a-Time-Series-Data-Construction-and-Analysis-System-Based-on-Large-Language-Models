@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 14,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.9315948007955455,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Rock_Rock_TRAIN_idx14_L96_start0",
+      "192": "Rock_Rock_TRAIN_idx14_L192_start0",
+      "288": "Rock_Rock_TRAIN_idx14_L288_start0",
+      "384": "Rock_Rock_TRAIN_idx14_L384_start0",
+      "512": "Rock_Rock_TRAIN_idx14_L512_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 10,
+    "start_index": 1227,
+    "scores": {
+      "periodic": 1.852370719470218,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Rock_Rock_TRAIN_idx10_L96_start1227",
+      "192": "Rock_Rock_TRAIN_idx10_L192_start1227",
+      "288": "Rock_Rock_TRAIN_idx10_L288_start1227",
+      "384": "Rock_Rock_TRAIN_idx10_L384_start1227",
+      "512": "Rock_Rock_TRAIN_idx10_L512_start1227"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 7,
+    "start_index": 1841,
+    "scores": {
+      "periodic": 1.8613773486903893,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Rock_Rock_TRAIN_idx7_L96_start1841",
+      "192": "Rock_Rock_TRAIN_idx7_L192_start1841",
+      "288": "Rock_Rock_TRAIN_idx7_L288_start1841",
+      "384": "Rock_Rock_TRAIN_idx7_L384_start1841",
+      "512": "Rock_Rock_TRAIN_idx7_L512_start1841"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 10,
+    "start_index": 122,
+    "scores": {
+      "periodic": 0.6585405256780071,
+      "volatile_event": 0.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Rock_Rock_TRAIN_idx10_L96_start122",
+      "192": "Rock_Rock_TRAIN_idx10_L192_start122",
+      "288": "Rock_Rock_TRAIN_idx10_L288_start122",
+      "384": "Rock_Rock_TRAIN_idx10_L384_start122",
+      "512": "Rock_Rock_TRAIN_idx10_L512_start122"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 10,
+    "start_index": 613,
+    "scores": {
+      "periodic": 0.19565894294285097,
+      "volatile_event": 0.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Rock_Rock_TRAIN_idx10_L96_start613",
+      "192": "Rock_Rock_TRAIN_idx10_L192_start613",
+      "288": "Rock_Rock_TRAIN_idx10_L288_start613",
+      "384": "Rock_Rock_TRAIN_idx10_L384_start613",
+      "512": "Rock_Rock_TRAIN_idx10_L512_start613"
+    }
+  }
+]

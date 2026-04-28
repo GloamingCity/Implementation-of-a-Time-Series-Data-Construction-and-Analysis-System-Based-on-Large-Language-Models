@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "SemgHandGenderCh2",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      81.0,
+      83.0,
+      84.6,
+      82.0,
+      83.2
+    ],
+    "rho_len_score": 0.5,
+    "relation": "positive",
+    "overall_score": 82.76
+  }
+]

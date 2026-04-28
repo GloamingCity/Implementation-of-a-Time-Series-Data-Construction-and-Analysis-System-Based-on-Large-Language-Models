@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "ECG5000",
+    "lengths": [
+      24,
+      53,
+      82,
+      111,
+      140
+    ],
+    "mean_scores": [
+      77.0,
+      78.8,
+      84.8,
+      79.0,
+      79.8
+    ],
+    "rho_len_score": 0.7,
+    "relation": "positive",
+    "overall_score": 79.88
+  }
+]

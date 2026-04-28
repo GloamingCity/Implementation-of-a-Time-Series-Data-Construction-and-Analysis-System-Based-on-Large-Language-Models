@@ -1,0 +1,8 @@
+numpy>=1.24
+pyyaml>=6.0
+tqdm>=4.66
+openai>=1.30
+sacrebleu>=2.4
+rouge-score>=0.1.2
+bert-score>=0.3.13
+python-dotenv>=1.0

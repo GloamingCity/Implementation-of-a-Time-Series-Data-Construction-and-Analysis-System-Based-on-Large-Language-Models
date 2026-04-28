@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 523,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.881750781917898,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "ShapesAll_ShapesAll_TRAIN_idx523_L96_start0",
+      "192": "ShapesAll_ShapesAll_TRAIN_idx523_L192_start0",
+      "288": "ShapesAll_ShapesAll_TRAIN_idx523_L288_start0",
+      "384": "ShapesAll_ShapesAll_TRAIN_idx523_L384_start0",
+      "512": "ShapesAll_ShapesAll_TRAIN_idx523_L512_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 323,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.7777104335120222,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "ShapesAll_ShapesAll_TRAIN_idx323_L96_start0",
+      "192": "ShapesAll_ShapesAll_TRAIN_idx323_L192_start0",
+      "288": "ShapesAll_ShapesAll_TRAIN_idx323_L288_start0",
+      "384": "ShapesAll_ShapesAll_TRAIN_idx323_L384_start0",
+      "512": "ShapesAll_ShapesAll_TRAIN_idx323_L512_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 96,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.10084947214258769,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "ShapesAll_ShapesAll_TRAIN_idx96_L96_start0",
+      "192": "ShapesAll_ShapesAll_TRAIN_idx96_L192_start0",
+      "288": "ShapesAll_ShapesAll_TRAIN_idx96_L288_start0",
+      "384": "ShapesAll_ShapesAll_TRAIN_idx96_L384_start0",
+      "512": "ShapesAll_ShapesAll_TRAIN_idx96_L512_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 537,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.1946391335384498,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "ShapesAll_ShapesAll_TRAIN_idx537_L96_start0",
+      "192": "ShapesAll_ShapesAll_TRAIN_idx537_L192_start0",
+      "288": "ShapesAll_ShapesAll_TRAIN_idx537_L288_start0",
+      "384": "ShapesAll_ShapesAll_TRAIN_idx537_L384_start0",
+      "512": "ShapesAll_ShapesAll_TRAIN_idx537_L512_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 249,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.8045706109416322,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "ShapesAll_ShapesAll_TRAIN_idx249_L96_start0",
+      "192": "ShapesAll_ShapesAll_TRAIN_idx249_L192_start0",
+      "288": "ShapesAll_ShapesAll_TRAIN_idx249_L288_start0",
+      "384": "ShapesAll_ShapesAll_TRAIN_idx249_L384_start0",
+      "512": "ShapesAll_ShapesAll_TRAIN_idx249_L512_start0"
+    }
+  }
+]

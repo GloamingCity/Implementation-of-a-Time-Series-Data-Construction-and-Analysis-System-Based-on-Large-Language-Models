@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 133,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8657204286759181,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "45": "WordSynonyms_WordSynonyms_TRAIN_idx133_L45_start0",
+      "101": "WordSynonyms_WordSynonyms_TRAIN_idx133_L101_start0",
+      "158": "WordSynonyms_WordSynonyms_TRAIN_idx133_L158_start0",
+      "214": "WordSynonyms_WordSynonyms_TRAIN_idx133_L214_start0",
+      "270": "WordSynonyms_WordSynonyms_TRAIN_idx133_L270_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 234,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.179386141863285,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "45": "WordSynonyms_WordSynonyms_TRAIN_idx234_L45_start0",
+      "101": "WordSynonyms_WordSynonyms_TRAIN_idx234_L101_start0",
+      "158": "WordSynonyms_WordSynonyms_TRAIN_idx234_L158_start0",
+      "214": "WordSynonyms_WordSynonyms_TRAIN_idx234_L214_start0",
+      "270": "WordSynonyms_WordSynonyms_TRAIN_idx234_L270_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 179,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.8701551338453636,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "45": "WordSynonyms_WordSynonyms_TRAIN_idx179_L45_start0",
+      "101": "WordSynonyms_WordSynonyms_TRAIN_idx179_L101_start0",
+      "158": "WordSynonyms_WordSynonyms_TRAIN_idx179_L158_start0",
+      "214": "WordSynonyms_WordSynonyms_TRAIN_idx179_L214_start0",
+      "270": "WordSynonyms_WordSynonyms_TRAIN_idx179_L270_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 228,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.11526509233178595,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "45": "WordSynonyms_WordSynonyms_TRAIN_idx228_L45_start0",
+      "101": "WordSynonyms_WordSynonyms_TRAIN_idx228_L101_start0",
+      "158": "WordSynonyms_WordSynonyms_TRAIN_idx228_L158_start0",
+      "214": "WordSynonyms_WordSynonyms_TRAIN_idx228_L214_start0",
+      "270": "WordSynonyms_WordSynonyms_TRAIN_idx228_L270_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 52,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.10891191314828148,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "45": "WordSynonyms_WordSynonyms_TRAIN_idx52_L45_start0",
+      "101": "WordSynonyms_WordSynonyms_TRAIN_idx52_L101_start0",
+      "158": "WordSynonyms_WordSynonyms_TRAIN_idx52_L158_start0",
+      "214": "WordSynonyms_WordSynonyms_TRAIN_idx52_L214_start0",
+      "270": "WordSynonyms_WordSynonyms_TRAIN_idx52_L270_start0"
+    }
+  }
+]

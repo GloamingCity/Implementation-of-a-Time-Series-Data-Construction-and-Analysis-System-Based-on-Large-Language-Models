@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Adiac",
+    "lengths": [
+      29,
+      66,
+      102,
+      139,
+      176
+    ],
+    "mean_scores": [
+      80.4,
+      77.0,
+      82.4,
+      83.2,
+      76.2
+    ],
+    "rho_len_score": -0.1,
+    "relation": "flat",
+    "overall_score": 79.84
+  }
+]

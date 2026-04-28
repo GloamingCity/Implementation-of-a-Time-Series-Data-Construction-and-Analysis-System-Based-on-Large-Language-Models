@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "UMD",
+    "lengths": [
+      25,
+      56,
+      88,
+      119,
+      150
+    ],
+    "mean_scores": [
+      77.6,
+      83.6,
+      84.4,
+      77.0,
+      80.6
+    ],
+    "rho_len_score": -0.1,
+    "relation": "flat",
+    "overall_score": 80.64
+  }
+]

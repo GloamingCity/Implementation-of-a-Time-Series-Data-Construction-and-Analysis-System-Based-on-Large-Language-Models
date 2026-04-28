@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Symbols",
+    "lengths": [
+      66,
+      149,
+      232,
+      315,
+      398
+    ],
+    "mean_scores": [
+      85.6,
+      84.4,
+      83.4,
+      82.6,
+      82.6
+    ],
+    "rho_len_score": -0.9747,
+    "relation": "negative",
+    "overall_score": 83.72
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "StandWalkJump",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      81.6,
+      77.4,
+      78.0,
+      77.0,
+      84.2
+    ],
+    "rho_len_score": 0.1,
+    "relation": "flat",
+    "overall_score": 79.64
+  }
+]

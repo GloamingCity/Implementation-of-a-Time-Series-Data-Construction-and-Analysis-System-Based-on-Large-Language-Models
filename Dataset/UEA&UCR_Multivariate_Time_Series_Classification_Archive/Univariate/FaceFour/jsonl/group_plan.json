@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 2,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.4333834817240804,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "58": "FaceFour_FaceFour_TRAIN_idx2_L58_start0",
+      "131": "FaceFour_FaceFour_TRAIN_idx2_L131_start0",
+      "204": "FaceFour_FaceFour_TRAIN_idx2_L204_start0",
+      "277": "FaceFour_FaceFour_TRAIN_idx2_L277_start0",
+      "350": "FaceFour_FaceFour_TRAIN_idx2_L350_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 21,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.2273608054171563,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "58": "FaceFour_FaceFour_TRAIN_idx21_L58_start0",
+      "131": "FaceFour_FaceFour_TRAIN_idx21_L131_start0",
+      "204": "FaceFour_FaceFour_TRAIN_idx21_L204_start0",
+      "277": "FaceFour_FaceFour_TRAIN_idx21_L277_start0",
+      "350": "FaceFour_FaceFour_TRAIN_idx21_L350_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 9,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.2869978685579054,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "58": "FaceFour_FaceFour_TRAIN_idx9_L58_start0",
+      "131": "FaceFour_FaceFour_TRAIN_idx9_L131_start0",
+      "204": "FaceFour_FaceFour_TRAIN_idx9_L204_start0",
+      "277": "FaceFour_FaceFour_TRAIN_idx9_L277_start0",
+      "350": "FaceFour_FaceFour_TRAIN_idx9_L350_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 16,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.23847543620475953,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "58": "FaceFour_FaceFour_TRAIN_idx16_L58_start0",
+      "131": "FaceFour_FaceFour_TRAIN_idx16_L131_start0",
+      "204": "FaceFour_FaceFour_TRAIN_idx16_L204_start0",
+      "277": "FaceFour_FaceFour_TRAIN_idx16_L277_start0",
+      "350": "FaceFour_FaceFour_TRAIN_idx16_L350_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 11,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.4205437347618585,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "58": "FaceFour_FaceFour_TRAIN_idx11_L58_start0",
+      "131": "FaceFour_FaceFour_TRAIN_idx11_L131_start0",
+      "204": "FaceFour_FaceFour_TRAIN_idx11_L204_start0",
+      "277": "FaceFour_FaceFour_TRAIN_idx11_L277_start0",
+      "350": "FaceFour_FaceFour_TRAIN_idx11_L350_start0"
+    }
+  }
+]

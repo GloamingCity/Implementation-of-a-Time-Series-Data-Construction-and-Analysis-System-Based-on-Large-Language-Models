@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Meat",
+    "lengths": [
+      74,
+      168,
+      261,
+      354,
+      448
+    ],
+    "mean_scores": [
+      81.0,
+      75.6,
+      81.2,
+      84.8,
+      79.0
+    ],
+    "rho_len_score": 0.2,
+    "relation": "flat",
+    "overall_score": 80.32
+  }
+]

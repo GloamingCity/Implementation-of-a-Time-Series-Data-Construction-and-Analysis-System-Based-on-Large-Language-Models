@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 52,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.7768887281476764,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "MotorImagery_MotorImagery_TRAIN_idx52_L96_start0",
+      "192": "MotorImagery_MotorImagery_TRAIN_idx52_L192_start0",
+      "288": "MotorImagery_MotorImagery_TRAIN_idx52_L288_start0",
+      "384": "MotorImagery_MotorImagery_TRAIN_idx52_L384_start0",
+      "512": "MotorImagery_MotorImagery_TRAIN_idx52_L512_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 193,
+    "start_index": 2357,
+    "scores": {
+      "periodic": 0.22702206648922788,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "MotorImagery_MotorImagery_TRAIN_idx193_L96_start2357",
+      "192": "MotorImagery_MotorImagery_TRAIN_idx193_L192_start2357",
+      "288": "MotorImagery_MotorImagery_TRAIN_idx193_L288_start2357",
+      "384": "MotorImagery_MotorImagery_TRAIN_idx193_L384_start2357",
+      "512": "MotorImagery_MotorImagery_TRAIN_idx193_L512_start2357"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 178,
+    "start_index": 392,
+    "scores": {
+      "periodic": 0.6637404378249043,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "MotorImagery_MotorImagery_TRAIN_idx178_L96_start392",
+      "192": "MotorImagery_MotorImagery_TRAIN_idx178_L192_start392",
+      "288": "MotorImagery_MotorImagery_TRAIN_idx178_L288_start392",
+      "384": "MotorImagery_MotorImagery_TRAIN_idx178_L384_start392",
+      "512": "MotorImagery_MotorImagery_TRAIN_idx178_L512_start392"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 193,
+    "start_index": 2095,
+    "scores": {
+      "periodic": 0.18604154476511056,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "MotorImagery_MotorImagery_TRAIN_idx193_L96_start2095",
+      "192": "MotorImagery_MotorImagery_TRAIN_idx193_L192_start2095",
+      "288": "MotorImagery_MotorImagery_TRAIN_idx193_L288_start2095",
+      "384": "MotorImagery_MotorImagery_TRAIN_idx193_L384_start2095",
+      "512": "MotorImagery_MotorImagery_TRAIN_idx193_L512_start2095"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 193,
+    "start_index": 261,
+    "scores": {
+      "periodic": 0.1812518119710147,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "MotorImagery_MotorImagery_TRAIN_idx193_L96_start261",
+      "192": "MotorImagery_MotorImagery_TRAIN_idx193_L192_start261",
+      "288": "MotorImagery_MotorImagery_TRAIN_idx193_L288_start261",
+      "384": "MotorImagery_MotorImagery_TRAIN_idx193_L384_start261",
+      "512": "MotorImagery_MotorImagery_TRAIN_idx193_L512_start261"
+    }
+  }
+]

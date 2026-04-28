@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 5,
+    "start_index": 418,
+    "scores": {
+      "periodic": 0.47627235284200403,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "StandWalkJump_StandWalkJump_TRAIN_idx5_L96_start418",
+      "192": "StandWalkJump_StandWalkJump_TRAIN_idx5_L192_start418",
+      "288": "StandWalkJump_StandWalkJump_TRAIN_idx5_L288_start418",
+      "384": "StandWalkJump_StandWalkJump_TRAIN_idx5_L384_start418",
+      "512": "StandWalkJump_StandWalkJump_TRAIN_idx5_L512_start418"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 11,
+    "start_index": 1150,
+    "scores": {
+      "periodic": 0.0,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "StandWalkJump_StandWalkJump_TRAIN_idx11_L96_start1150",
+      "192": "StandWalkJump_StandWalkJump_TRAIN_idx11_L192_start1150",
+      "288": "StandWalkJump_StandWalkJump_TRAIN_idx11_L288_start1150",
+      "384": "StandWalkJump_StandWalkJump_TRAIN_idx11_L384_start1150",
+      "512": "StandWalkJump_StandWalkJump_TRAIN_idx11_L512_start1150"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 1,
+    "start_index": 1569,
+    "scores": {
+      "periodic": 0.0,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "StandWalkJump_StandWalkJump_TRAIN_idx1_L96_start1569",
+      "192": "StandWalkJump_StandWalkJump_TRAIN_idx1_L192_start1569",
+      "288": "StandWalkJump_StandWalkJump_TRAIN_idx1_L288_start1569",
+      "384": "StandWalkJump_StandWalkJump_TRAIN_idx1_L384_start1569",
+      "512": "StandWalkJump_StandWalkJump_TRAIN_idx1_L512_start1569"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 7,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.1150882370969132,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "StandWalkJump_StandWalkJump_TRAIN_idx7_L96_start0",
+      "192": "StandWalkJump_StandWalkJump_TRAIN_idx7_L192_start0",
+      "288": "StandWalkJump_StandWalkJump_TRAIN_idx7_L288_start0",
+      "384": "StandWalkJump_StandWalkJump_TRAIN_idx7_L384_start0",
+      "512": "StandWalkJump_StandWalkJump_TRAIN_idx7_L512_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 7,
+    "start_index": 209,
+    "scores": {
+      "periodic": 0.0,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "StandWalkJump_StandWalkJump_TRAIN_idx7_L96_start209",
+      "192": "StandWalkJump_StandWalkJump_TRAIN_idx7_L192_start209",
+      "288": "StandWalkJump_StandWalkJump_TRAIN_idx7_L288_start209",
+      "384": "StandWalkJump_StandWalkJump_TRAIN_idx7_L384_start209",
+      "512": "StandWalkJump_StandWalkJump_TRAIN_idx7_L512_start209"
+    }
+  }
+]

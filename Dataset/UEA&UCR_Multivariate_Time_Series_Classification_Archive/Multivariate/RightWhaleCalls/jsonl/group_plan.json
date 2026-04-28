@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 8557,
+    "start_index": 183,
+    "scores": {
+      "periodic": 1.879932039799073,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8557_L96_start183",
+      "192": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8557_L192_start183",
+      "288": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8557_L288_start183",
+      "384": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8557_L384_start183",
+      "512": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8557_L512_start183"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 8235,
+    "start_index": 3488,
+    "scores": {
+      "periodic": 0.14656307704184546,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8235_L96_start3488",
+      "192": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8235_L192_start3488",
+      "288": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8235_L288_start3488",
+      "384": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8235_L384_start3488",
+      "512": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8235_L512_start3488"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 7652,
+    "start_index": 2019,
+    "scores": {
+      "periodic": 0.0,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx7652_L96_start2019",
+      "192": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx7652_L192_start2019",
+      "288": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx7652_L288_start2019",
+      "384": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx7652_L384_start2019",
+      "512": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx7652_L512_start2019"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 8235,
+    "start_index": 1835,
+    "scores": {
+      "periodic": 0.43905518386588904,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8235_L96_start1835",
+      "192": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8235_L192_start1835",
+      "288": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8235_L288_start1835",
+      "384": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8235_L384_start1835",
+      "512": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8235_L512_start1835"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 8235,
+    "start_index": 734,
+    "scores": {
+      "periodic": 0.42893594413394837,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8235_L96_start734",
+      "192": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8235_L192_start734",
+      "288": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8235_L288_start734",
+      "384": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8235_L384_start734",
+      "512": "RightWhaleCalls_RightWhaleCalls_TRAIN_idx8235_L512_start734"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "AbnormalHeartbeat",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      82.2,
+      78.6,
+      83.2,
+      79.0,
+      55.0
+    ],
+    "rho_len_score": -0.5,
+    "relation": "negative",
+    "overall_score": 75.6
+  }
+]

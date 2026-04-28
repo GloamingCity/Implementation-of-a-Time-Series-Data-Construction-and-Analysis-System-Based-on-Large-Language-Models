@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "EOGVerticalSignal",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      81.4,
+      76.4,
+      77.8,
+      80.2,
+      75.2
+    ],
+    "rho_len_score": -0.6,
+    "relation": "negative",
+    "overall_score": 78.2
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Yoga",
+    "lengths": [
+      71,
+      160,
+      248,
+      337,
+      426
+    ],
+    "mean_scores": [
+      70.2,
+      75.0,
+      77.0,
+      79.0,
+      77.6
+    ],
+    "rho_len_score": 0.9,
+    "relation": "positive",
+    "overall_score": 75.76
+  }
+]

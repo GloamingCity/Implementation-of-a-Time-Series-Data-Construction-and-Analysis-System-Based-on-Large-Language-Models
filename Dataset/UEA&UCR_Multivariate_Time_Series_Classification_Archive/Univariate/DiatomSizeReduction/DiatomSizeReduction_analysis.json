@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "DiatomSizeReduction",
+    "lengths": [
+      57,
+      129,
+      201,
+      273,
+      345
+    ],
+    "mean_scores": [
+      78.0,
+      81.8,
+      80.0,
+      81.2,
+      81.0
+    ],
+    "rho_len_score": 0.3,
+    "relation": "positive",
+    "overall_score": 80.4
+  }
+]

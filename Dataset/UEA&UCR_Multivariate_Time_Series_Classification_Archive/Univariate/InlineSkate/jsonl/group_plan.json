@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 28,
+    "start_index": 865,
+    "scores": {
+      "periodic": 1.943906008372704,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "InlineSkate_InlineSkate_TRAIN_idx28_L96_start865",
+      "192": "InlineSkate_InlineSkate_TRAIN_idx28_L192_start865",
+      "288": "InlineSkate_InlineSkate_TRAIN_idx28_L288_start865",
+      "384": "InlineSkate_InlineSkate_TRAIN_idx28_L384_start865",
+      "512": "InlineSkate_InlineSkate_TRAIN_idx28_L512_start865"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 74,
+    "start_index": 576,
+    "scores": {
+      "periodic": 1.8760761517370228,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "InlineSkate_InlineSkate_TRAIN_idx74_L96_start576",
+      "192": "InlineSkate_InlineSkate_TRAIN_idx74_L192_start576",
+      "288": "InlineSkate_InlineSkate_TRAIN_idx74_L288_start576",
+      "384": "InlineSkate_InlineSkate_TRAIN_idx74_L384_start576",
+      "512": "InlineSkate_InlineSkate_TRAIN_idx74_L512_start576"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 28,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.8542314791344012,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "InlineSkate_InlineSkate_TRAIN_idx28_L96_start0",
+      "192": "InlineSkate_InlineSkate_TRAIN_idx28_L192_start0",
+      "288": "InlineSkate_InlineSkate_TRAIN_idx28_L288_start0",
+      "384": "InlineSkate_InlineSkate_TRAIN_idx28_L384_start0",
+      "512": "InlineSkate_InlineSkate_TRAIN_idx28_L512_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 74,
+    "start_index": 793,
+    "scores": {
+      "periodic": 1.9125201346111766,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "InlineSkate_InlineSkate_TRAIN_idx74_L96_start793",
+      "192": "InlineSkate_InlineSkate_TRAIN_idx74_L192_start793",
+      "288": "InlineSkate_InlineSkate_TRAIN_idx74_L288_start793",
+      "384": "InlineSkate_InlineSkate_TRAIN_idx74_L384_start793",
+      "512": "InlineSkate_InlineSkate_TRAIN_idx74_L512_start793"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 74,
+    "start_index": 1370,
+    "scores": {
+      "periodic": 0.9080201193024472,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "InlineSkate_InlineSkate_TRAIN_idx74_L96_start1370",
+      "192": "InlineSkate_InlineSkate_TRAIN_idx74_L192_start1370",
+      "288": "InlineSkate_InlineSkate_TRAIN_idx74_L288_start1370",
+      "384": "InlineSkate_InlineSkate_TRAIN_idx74_L384_start1370",
+      "512": "InlineSkate_InlineSkate_TRAIN_idx74_L512_start1370"
+    }
+  }
+]

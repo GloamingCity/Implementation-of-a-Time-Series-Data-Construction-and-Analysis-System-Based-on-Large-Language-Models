@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Car",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      74.8,
+      77.2,
+      79.8,
+      74.2,
+      77.0
+    ],
+    "rho_len_score": -0.1,
+    "relation": "flat",
+    "overall_score": 76.6
+  }
+]

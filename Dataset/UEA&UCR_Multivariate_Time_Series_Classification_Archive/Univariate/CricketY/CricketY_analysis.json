@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "CricketY",
+    "lengths": [
+      50,
+      112,
+      175,
+      238,
+      300
+    ],
+    "mean_scores": [
+      79.4,
+      82.6,
+      70.6,
+      78.4,
+      80.4
+    ],
+    "rho_len_score": -0.1,
+    "relation": "flat",
+    "overall_score": 78.28
+  }
+]

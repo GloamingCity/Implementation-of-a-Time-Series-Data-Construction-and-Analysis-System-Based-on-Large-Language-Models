@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "ChlorineConcentration",
+    "lengths": [
+      27,
+      62,
+      96,
+      131,
+      166
+    ],
+    "mean_scores": [
+      73.0,
+      77.8,
+      81.8,
+      83.0,
+      82.6
+    ],
+    "rho_len_score": 0.9,
+    "relation": "positive",
+    "overall_score": 79.64
+  }
+]

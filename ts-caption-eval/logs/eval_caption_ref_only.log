@@ -1,0 +1,23 @@
+[
+  {
+    "model": "student_cnn",
+    "n_caption_preds": 400,
+    "n_total_preds": 400,
+    "bleu4": 0.0014314239421128261,
+    "rouge_l": 0.018456761148832122
+  },
+  {
+    "model": "student_mlp",
+    "n_caption_preds": 400,
+    "n_total_preds": 400,
+    "bleu4": 0.0006397929091102495,
+    "rouge_l": 0.019375432545177235
+  },
+  {
+    "model": "student_patchtst",
+    "n_caption_preds": 400,
+    "n_total_preds": 400,
+    "bleu4": 8.230370416997319e-05,
+    "rouge_l": 0.008468099132034109
+  }
+]

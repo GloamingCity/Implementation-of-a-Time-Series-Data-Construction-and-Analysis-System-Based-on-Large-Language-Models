@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Colposcopy",
+    "lengths": [
+      30,
+      68,
+      105,
+      142,
+      180
+    ],
+    "mean_scores": [
+      84.2,
+      82.8,
+      80.6,
+      77.6,
+      82.8
+    ],
+    "rho_len_score": -0.5643,
+    "relation": "negative",
+    "overall_score": 81.6
+  }
+]

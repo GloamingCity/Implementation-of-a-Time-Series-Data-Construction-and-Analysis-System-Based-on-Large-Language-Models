@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Lightning7",
+    "lengths": [
+      53,
+      120,
+      186,
+      252,
+      319
+    ],
+    "mean_scores": [
+      88.0,
+      78.0,
+      75.6,
+      78.4,
+      80.2
+    ],
+    "rho_len_score": -0.1,
+    "relation": "flat",
+    "overall_score": 80.04
+  }
+]

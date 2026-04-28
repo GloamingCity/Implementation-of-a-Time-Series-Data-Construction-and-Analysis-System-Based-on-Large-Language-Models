@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "UWaveGestureLibraryZ",
+    "lengths": [
+      52,
+      118,
+      184,
+      249,
+      315
+    ],
+    "mean_scores": [
+      82.4,
+      81.0,
+      82.6,
+      75.4,
+      70.6
+    ],
+    "rho_len_score": -0.7,
+    "relation": "negative",
+    "overall_score": 78.4
+  }
+]

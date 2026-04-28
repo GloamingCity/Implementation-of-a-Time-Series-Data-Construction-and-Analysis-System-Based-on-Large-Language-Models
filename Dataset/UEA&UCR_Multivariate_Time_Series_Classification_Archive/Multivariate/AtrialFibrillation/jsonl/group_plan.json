@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 4,
+    "start_index": 20,
+    "scores": {
+      "periodic": 1.6061098436633539,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx4_L96_start20",
+      "192": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx4_L192_start20",
+      "288": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx4_L288_start20",
+      "384": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx4_L384_start20",
+      "512": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx4_L512_start20"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 10,
+    "start_index": 26,
+    "scores": {
+      "periodic": 0.3348116324520066,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx10_L96_start26",
+      "192": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx10_L192_start26",
+      "288": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx10_L288_start26",
+      "384": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx10_L384_start26",
+      "512": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx10_L512_start26"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 14,
+    "start_index": 80,
+    "scores": {
+      "periodic": 0.4138853203496776,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx14_L96_start80",
+      "192": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx14_L192_start80",
+      "288": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx14_L288_start80",
+      "384": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx14_L384_start80",
+      "512": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx14_L512_start80"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 14,
+    "start_index": 128,
+    "scores": {
+      "periodic": 0.40460151949229245,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx14_L96_start128",
+      "192": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx14_L192_start128",
+      "288": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx14_L288_start128",
+      "384": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx14_L384_start128",
+      "512": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx14_L512_start128"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 10,
+    "start_index": 53,
+    "scores": {
+      "periodic": 0.34820847416807377,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx10_L96_start53",
+      "192": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx10_L192_start53",
+      "288": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx10_L288_start53",
+      "384": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx10_L384_start53",
+      "512": "AtrialFibrillation_AtrialFibrillation_TRAIN_idx10_L512_start53"
+    }
+  }
+]

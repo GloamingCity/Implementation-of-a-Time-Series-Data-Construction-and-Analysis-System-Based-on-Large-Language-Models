@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 55,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.3969176110526607,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "66": "HandMovementDirection_HandMovementDirection_TRAIN_idx55_L66_start0",
+      "150": "HandMovementDirection_HandMovementDirection_TRAIN_idx55_L150_start0",
+      "233": "HandMovementDirection_HandMovementDirection_TRAIN_idx55_L233_start0",
+      "316": "HandMovementDirection_HandMovementDirection_TRAIN_idx55_L316_start0",
+      "400": "HandMovementDirection_HandMovementDirection_TRAIN_idx55_L400_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 82,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.17679331324431866,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "66": "HandMovementDirection_HandMovementDirection_TRAIN_idx82_L66_start0",
+      "150": "HandMovementDirection_HandMovementDirection_TRAIN_idx82_L150_start0",
+      "233": "HandMovementDirection_HandMovementDirection_TRAIN_idx82_L233_start0",
+      "316": "HandMovementDirection_HandMovementDirection_TRAIN_idx82_L316_start0",
+      "400": "HandMovementDirection_HandMovementDirection_TRAIN_idx82_L400_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 147,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.3561737527237589,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "66": "HandMovementDirection_HandMovementDirection_TRAIN_idx147_L66_start0",
+      "150": "HandMovementDirection_HandMovementDirection_TRAIN_idx147_L150_start0",
+      "233": "HandMovementDirection_HandMovementDirection_TRAIN_idx147_L233_start0",
+      "316": "HandMovementDirection_HandMovementDirection_TRAIN_idx147_L316_start0",
+      "400": "HandMovementDirection_HandMovementDirection_TRAIN_idx147_L400_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 71,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.20034062182704407,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "66": "HandMovementDirection_HandMovementDirection_TRAIN_idx71_L66_start0",
+      "150": "HandMovementDirection_HandMovementDirection_TRAIN_idx71_L150_start0",
+      "233": "HandMovementDirection_HandMovementDirection_TRAIN_idx71_L233_start0",
+      "316": "HandMovementDirection_HandMovementDirection_TRAIN_idx71_L316_start0",
+      "400": "HandMovementDirection_HandMovementDirection_TRAIN_idx71_L400_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 37,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.31895465988672356,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "66": "HandMovementDirection_HandMovementDirection_TRAIN_idx37_L66_start0",
+      "150": "HandMovementDirection_HandMovementDirection_TRAIN_idx37_L150_start0",
+      "233": "HandMovementDirection_HandMovementDirection_TRAIN_idx37_L233_start0",
+      "316": "HandMovementDirection_HandMovementDirection_TRAIN_idx37_L316_start0",
+      "400": "HandMovementDirection_HandMovementDirection_TRAIN_idx37_L400_start0"
+    }
+  }
+]

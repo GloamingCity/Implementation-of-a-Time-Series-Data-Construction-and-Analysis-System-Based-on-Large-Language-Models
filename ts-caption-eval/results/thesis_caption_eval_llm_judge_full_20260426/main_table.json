@@ -1,0 +1,23 @@
+[
+  {
+    "model": "cnn",
+    "n_caption_preds": 400,
+    "n_total_preds": 400,
+    "faithfulness": 2.9975,
+    "completeness": 4.0775
+  },
+  {
+    "model": "mlp",
+    "n_caption_preds": 400,
+    "n_total_preds": 400,
+    "faithfulness": 2.9350,
+    "completeness": 4.0350
+  },
+  {
+    "model": "patchtst",
+    "n_caption_preds": 400,
+    "n_total_preds": 400,
+    "faithfulness": 3.3125,
+    "completeness": 4.6975
+  }
+]

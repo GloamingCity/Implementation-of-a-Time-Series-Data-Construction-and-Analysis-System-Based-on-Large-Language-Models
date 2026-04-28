@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "PigArtPressure",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      83.8,
+      77.4,
+      77.4,
+      79.0,
+      76.8
+    ],
+    "rho_len_score": -0.6669,
+    "relation": "negative",
+    "overall_score": 78.88
+  }
+]

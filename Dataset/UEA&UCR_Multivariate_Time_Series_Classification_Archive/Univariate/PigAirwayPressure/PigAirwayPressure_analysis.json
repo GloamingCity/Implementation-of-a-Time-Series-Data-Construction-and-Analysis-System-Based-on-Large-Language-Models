@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "PigAirwayPressure",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      79.0,
+      79.8,
+      77.6,
+      81.0,
+      79.2
+    ],
+    "rho_len_score": 0.3,
+    "relation": "positive",
+    "overall_score": 79.32
+  }
+]

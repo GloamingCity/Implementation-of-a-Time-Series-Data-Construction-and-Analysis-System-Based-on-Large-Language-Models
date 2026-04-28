@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "BasicMotions",
+    "lengths": [
+      24,
+      43,
+      62,
+      81,
+      100
+    ],
+    "mean_scores": [
+      82.6,
+      79.4,
+      72.6,
+      74.8,
+      78.4
+    ],
+    "rho_len_score": -0.6,
+    "relation": "negative",
+    "overall_score": 77.56
+  }
+]

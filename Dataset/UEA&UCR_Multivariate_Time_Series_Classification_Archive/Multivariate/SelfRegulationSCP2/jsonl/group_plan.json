@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 189,
+    "start_index": 134,
+    "scores": {
+      "periodic": 1.5208952489503134,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx189_L96_start134",
+      "192": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx189_L192_start134",
+      "288": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx189_L288_start134",
+      "384": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx189_L384_start134",
+      "512": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx189_L512_start134"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 141,
+    "start_index": 538,
+    "scores": {
+      "periodic": 0.2109812096341628,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx141_L96_start538",
+      "192": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx141_L192_start538",
+      "288": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx141_L288_start538",
+      "384": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx141_L384_start538",
+      "512": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx141_L512_start538"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 57,
+    "start_index": 336,
+    "scores": {
+      "periodic": 0.3081927652139768,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx57_L96_start336",
+      "192": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx57_L192_start336",
+      "288": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx57_L288_start336",
+      "384": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx57_L384_start336",
+      "512": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx57_L512_start336"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 141,
+    "start_index": 33,
+    "scores": {
+      "periodic": 0.3294273353698142,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx141_L96_start33",
+      "192": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx141_L192_start33",
+      "288": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx141_L288_start33",
+      "384": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx141_L384_start33",
+      "512": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx141_L512_start33"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 141,
+    "start_index": 336,
+    "scores": {
+      "periodic": 0.4417633832317001,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx141_L96_start336",
+      "192": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx141_L192_start336",
+      "288": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx141_L288_start336",
+      "384": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx141_L384_start336",
+      "512": "SelfRegulationSCP2_SelfRegulationSCP2_TRAIN_idx141_L512_start336"
+    }
+  }
+]

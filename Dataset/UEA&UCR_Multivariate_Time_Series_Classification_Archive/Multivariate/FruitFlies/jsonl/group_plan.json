@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 29453,
+    "start_index": 1417,
+    "scores": {
+      "periodic": 1.9349364511009133,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "FruitFlies_FruitFlies_idx29453_L96_start1417",
+      "192": "FruitFlies_FruitFlies_idx29453_L192_start1417",
+      "288": "FruitFlies_FruitFlies_idx29453_L288_start1417",
+      "384": "FruitFlies_FruitFlies_idx29453_L384_start1417",
+      "512": "FruitFlies_FruitFlies_idx29453_L512_start1417"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 9654,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8221461054163712,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "FruitFlies_FruitFlies_idx9654_L96_start0",
+      "192": "FruitFlies_FruitFlies_idx9654_L192_start0",
+      "288": "FruitFlies_FruitFlies_idx9654_L288_start0",
+      "384": "FruitFlies_FruitFlies_idx9654_L384_start0",
+      "512": "FruitFlies_FruitFlies_idx9654_L512_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 10046,
+    "start_index": 944,
+    "scores": {
+      "periodic": 0.6719261579074357,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "FruitFlies_FruitFlies_idx10046_L96_start944",
+      "192": "FruitFlies_FruitFlies_idx10046_L192_start944",
+      "288": "FruitFlies_FruitFlies_idx10046_L288_start944",
+      "384": "FruitFlies_FruitFlies_idx10046_L384_start944",
+      "512": "FruitFlies_FruitFlies_idx10046_L512_start944"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 9654,
+    "start_index": 1417,
+    "scores": {
+      "periodic": 1.9203727522951521,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "FruitFlies_FruitFlies_idx9654_L96_start1417",
+      "192": "FruitFlies_FruitFlies_idx9654_L192_start1417",
+      "288": "FruitFlies_FruitFlies_idx9654_L288_start1417",
+      "384": "FruitFlies_FruitFlies_idx9654_L384_start1417",
+      "512": "FruitFlies_FruitFlies_idx9654_L512_start1417"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 9654,
+    "start_index": 1889,
+    "scores": {
+      "periodic": 1.8113690469089472,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "FruitFlies_FruitFlies_idx9654_L96_start1889",
+      "192": "FruitFlies_FruitFlies_idx9654_L192_start1889",
+      "288": "FruitFlies_FruitFlies_idx9654_L288_start1889",
+      "384": "FruitFlies_FruitFlies_idx9654_L384_start1889",
+      "512": "FruitFlies_FruitFlies_idx9654_L512_start1889"
+    }
+  }
+]

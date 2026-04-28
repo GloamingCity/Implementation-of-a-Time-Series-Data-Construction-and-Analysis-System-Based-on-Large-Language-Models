@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Mallat",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      82.0,
+      78.6,
+      77.0,
+      73.6,
+      82.8
+    ],
+    "rho_len_score": 0.0,
+    "relation": "flat",
+    "overall_score": 78.8
+  }
+]

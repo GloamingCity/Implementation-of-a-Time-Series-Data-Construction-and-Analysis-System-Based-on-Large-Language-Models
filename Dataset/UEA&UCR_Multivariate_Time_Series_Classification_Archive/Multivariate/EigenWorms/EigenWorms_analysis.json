@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "EigenWorms",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      62.4,
+      67.4,
+      59.4,
+      79.75,
+      65.8
+    ],
+    "rho_len_score": 0.3,
+    "relation": "positive",
+    "overall_score": 66.42
+  }
+]

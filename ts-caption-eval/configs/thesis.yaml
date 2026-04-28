@@ -1,0 +1,49 @@
+# Undergrad thesis caption-eval configuration.
+# Everything is declarative: toggle evaluators, swap models, add parsers.
+
+experiment_name: thesis_caption_eval_llm_judge_full_20260426
+
+datasets:
+  - name: fred
+    path: data/captions/fred.jsonl
+  - name: ett
+    path: data/captions/ett.jsonl
+  - name: nab
+    path: data/captions/nab.jsonl
+  - name: ucr
+    path: data/captions/ucr.jsonl
+
+reference:
+  path: references/gt_captions.jsonl
+  # Used only if the path above is missing; set REFERENCE_MODEL env var to
+  # override the generator model (default gpt-5.5).
+  generator: gpt-5.5
+
+models:
+  - name: patchtst
+    predictions_path: predictions/patchtst_predictions.jsonl
+    parser: default
+
+evaluators:
+  reference_based:
+    enabled: false
+    metrics: [bleu4, rouge_l, bertscore_f1]
+
+  llm_judge:
+    enabled: true
+    # Set JUDGE_MODEL env var to override.
+    model: glm-4.6v-flash
+    dimensions: [faithfulness, completeness]
+    # Keep it cheap: judge the first N samples per model. Set to null for all.
+    max_samples: 400
+
+  downstream_qa:
+    enabled: false
+    qa_path: data/qa/tsshapeqa_400.jsonl
+    answerer_model: glm-4.6v-flash
+    conditions: [meta_only, caption, wrong_caption]
+    max_samples: 80
+
+output:
+  dir: results/thesis_caption_eval_llm_judge_full_20260426
+  format: [md, csv, json]

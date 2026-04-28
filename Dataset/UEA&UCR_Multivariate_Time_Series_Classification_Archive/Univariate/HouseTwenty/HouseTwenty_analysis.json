@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "HouseTwenty",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      82.6,
+      77.8,
+      79.0,
+      75.0,
+      82.8
+    ],
+    "rho_len_score": 0.1,
+    "relation": "flat",
+    "overall_score": 79.44
+  }
+]

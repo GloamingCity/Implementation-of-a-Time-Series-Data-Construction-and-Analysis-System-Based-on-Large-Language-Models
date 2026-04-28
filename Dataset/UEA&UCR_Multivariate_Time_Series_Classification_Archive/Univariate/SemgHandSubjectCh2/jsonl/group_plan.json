@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 181,
+    "start_index": 52,
+    "scores": {
+      "periodic": 0.27134279890059276,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx181_L96_start52",
+      "192": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx181_L192_start52",
+      "288": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx181_L288_start52",
+      "384": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx181_L384_start52",
+      "512": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx181_L512_start52"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 204,
+    "start_index": 312,
+    "scores": {
+      "periodic": 0.10005247126517114,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx204_L96_start312",
+      "192": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx204_L192_start312",
+      "288": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx204_L288_start312",
+      "384": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx204_L384_start312",
+      "512": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx204_L512_start312"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 79,
+    "start_index": 624,
+    "scores": {
+      "periodic": 0.0,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx79_L96_start624",
+      "192": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx79_L192_start624",
+      "288": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx79_L288_start624",
+      "384": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx79_L384_start624",
+      "512": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx79_L512_start624"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 112,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.21866935488229916,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx112_L96_start0",
+      "192": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx112_L192_start0",
+      "288": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx112_L288_start0",
+      "384": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx112_L384_start0",
+      "512": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx112_L512_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 204,
+    "start_index": 936,
+    "scores": {
+      "periodic": 0.1037710539121239,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx204_L96_start936",
+      "192": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx204_L192_start936",
+      "288": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx204_L288_start936",
+      "384": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx204_L384_start936",
+      "512": "SemgHandSubjectCh2_SemgHandSubjectCh2_TRAIN_idx204_L512_start936"
+    }
+  }
+]

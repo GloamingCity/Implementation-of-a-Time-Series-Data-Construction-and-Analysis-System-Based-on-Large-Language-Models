@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 112,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.21627192239324164,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "Earthquakes_Earthquakes_TRAIN_idx112_L96_start0",
+      "192": "Earthquakes_Earthquakes_TRAIN_idx112_L192_start0",
+      "288": "Earthquakes_Earthquakes_TRAIN_idx112_L288_start0",
+      "384": "Earthquakes_Earthquakes_TRAIN_idx112_L384_start0",
+      "512": "Earthquakes_Earthquakes_TRAIN_idx112_L512_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 284,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.12855749526128457,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "Earthquakes_Earthquakes_TRAIN_idx284_L96_start0",
+      "192": "Earthquakes_Earthquakes_TRAIN_idx284_L192_start0",
+      "288": "Earthquakes_Earthquakes_TRAIN_idx284_L288_start0",
+      "384": "Earthquakes_Earthquakes_TRAIN_idx284_L384_start0",
+      "512": "Earthquakes_Earthquakes_TRAIN_idx284_L512_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 178,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.10374370687178802,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "Earthquakes_Earthquakes_TRAIN_idx178_L96_start0",
+      "192": "Earthquakes_Earthquakes_TRAIN_idx178_L192_start0",
+      "288": "Earthquakes_Earthquakes_TRAIN_idx178_L288_start0",
+      "384": "Earthquakes_Earthquakes_TRAIN_idx178_L384_start0",
+      "512": "Earthquakes_Earthquakes_TRAIN_idx178_L512_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 199,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.10589312857558761,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Earthquakes_Earthquakes_TRAIN_idx199_L96_start0",
+      "192": "Earthquakes_Earthquakes_TRAIN_idx199_L192_start0",
+      "288": "Earthquakes_Earthquakes_TRAIN_idx199_L288_start0",
+      "384": "Earthquakes_Earthquakes_TRAIN_idx199_L384_start0",
+      "512": "Earthquakes_Earthquakes_TRAIN_idx199_L512_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 190,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.10932793230981723,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Earthquakes_Earthquakes_TRAIN_idx190_L96_start0",
+      "192": "Earthquakes_Earthquakes_TRAIN_idx190_L192_start0",
+      "288": "Earthquakes_Earthquakes_TRAIN_idx190_L288_start0",
+      "384": "Earthquakes_Earthquakes_TRAIN_idx190_L384_start0",
+      "512": "Earthquakes_Earthquakes_TRAIN_idx190_L512_start0"
+    }
+  }
+]

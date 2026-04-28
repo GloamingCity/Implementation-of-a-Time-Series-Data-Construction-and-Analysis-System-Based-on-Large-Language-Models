@@ -1,0 +1,17 @@
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/.env
+**/.env.*
+!**/.env.example
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+
+# GitHub LFS refuses individual objects larger than 2 GiB.
+Dataset/UEA&UCR_Multivariate_Time_Series_Classification_Archive/Multivariate/FruitFlies/FruitFlies.arff
+Dataset/UEA&UCR_Multivariate_Time_Series_Classification_Archive/Multivariate/UrbanSound/UrbanSound.arff
+Models/Qwen2.5-3B-Instruct/model-00001-of-00002.safetensors
+Models/Qwen2.5-3B-Instruct/model-00002-of-00002.safetensors
+Models/Qwen3-4B-Instruct-2507/model-00001-of-00003.safetensors
+Models/Qwen3-4B-Instruct-2507/model-00002-of-00003.safetensors

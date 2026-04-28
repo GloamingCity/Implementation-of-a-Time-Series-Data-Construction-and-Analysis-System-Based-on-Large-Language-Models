@@ -1,0 +1,26 @@
+[
+  {
+    "model": "cnn",
+    "n_caption_preds": 400,
+    "n_total_preds": 400,
+    "bleu4": 0.002765946079578322,
+    "rouge_l": 0.02541980583072616,
+    "bertscore_f1": 0.7262106588482857
+  },
+  {
+    "model": "mlp",
+    "n_caption_preds": 400,
+    "n_total_preds": 400,
+    "bleu4": 0.0015537662832258241,
+    "rouge_l": 0.028179706872227202,
+    "bertscore_f1": 0.7177636756002903
+  },
+  {
+    "model": "patchtst",
+    "n_caption_preds": 400,
+    "n_total_preds": 400,
+    "bleu4": 0.0014905741486963514,
+    "rouge_l": 0.029346463674104175,
+    "bertscore_f1": 0.7218360388278962
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 18,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.5669330207856351,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "29": "Adiac_Adiac_TRAIN_idx18_L29_start0",
+      "66": "Adiac_Adiac_TRAIN_idx18_L66_start0",
+      "102": "Adiac_Adiac_TRAIN_idx18_L102_start0",
+      "139": "Adiac_Adiac_TRAIN_idx18_L139_start0",
+      "176": "Adiac_Adiac_TRAIN_idx18_L176_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 250,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.5386756676857598,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "29": "Adiac_Adiac_TRAIN_idx250_L29_start0",
+      "66": "Adiac_Adiac_TRAIN_idx250_L66_start0",
+      "102": "Adiac_Adiac_TRAIN_idx250_L102_start0",
+      "139": "Adiac_Adiac_TRAIN_idx250_L139_start0",
+      "176": "Adiac_Adiac_TRAIN_idx250_L176_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 230,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.545741193183547,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "29": "Adiac_Adiac_TRAIN_idx230_L29_start0",
+      "66": "Adiac_Adiac_TRAIN_idx230_L66_start0",
+      "102": "Adiac_Adiac_TRAIN_idx230_L102_start0",
+      "139": "Adiac_Adiac_TRAIN_idx230_L139_start0",
+      "176": "Adiac_Adiac_TRAIN_idx230_L176_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 249,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.4570633138919833,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "29": "Adiac_Adiac_TRAIN_idx249_L29_start0",
+      "66": "Adiac_Adiac_TRAIN_idx249_L66_start0",
+      "102": "Adiac_Adiac_TRAIN_idx249_L102_start0",
+      "139": "Adiac_Adiac_TRAIN_idx249_L139_start0",
+      "176": "Adiac_Adiac_TRAIN_idx249_L176_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 160,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.49690951151264884,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "29": "Adiac_Adiac_TRAIN_idx160_L29_start0",
+      "66": "Adiac_Adiac_TRAIN_idx160_L66_start0",
+      "102": "Adiac_Adiac_TRAIN_idx160_L102_start0",
+      "139": "Adiac_Adiac_TRAIN_idx160_L139_start0",
+      "176": "Adiac_Adiac_TRAIN_idx160_L176_start0"
+    }
+  }
+]

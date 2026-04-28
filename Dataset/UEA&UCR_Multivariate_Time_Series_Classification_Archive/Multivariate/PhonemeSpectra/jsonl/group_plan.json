@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 1559,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.7792259820151837,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "36": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx1559_L36_start0",
+      "81": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx1559_L81_start0",
+      "126": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx1559_L126_start0",
+      "172": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx1559_L172_start0",
+      "217": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx1559_L217_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 433,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.6097179937976889,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "36": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx433_L36_start0",
+      "81": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx433_L81_start0",
+      "126": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx433_L126_start0",
+      "172": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx433_L172_start0",
+      "217": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx433_L217_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 543,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.24374325892953533,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "36": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx543_L36_start0",
+      "81": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx543_L81_start0",
+      "126": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx543_L126_start0",
+      "172": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx543_L172_start0",
+      "217": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx543_L217_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 521,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6489019208837707,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "36": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx521_L36_start0",
+      "81": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx521_L81_start0",
+      "126": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx521_L126_start0",
+      "172": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx521_L172_start0",
+      "217": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx521_L217_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 3234,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.32504761304186114,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "36": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx3234_L36_start0",
+      "81": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx3234_L81_start0",
+      "126": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx3234_L126_start0",
+      "172": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx3234_L172_start0",
+      "217": "PhonemeSpectra_PhonemeSpectra_TRAIN_idx3234_L217_start0"
+    }
+  }
+]

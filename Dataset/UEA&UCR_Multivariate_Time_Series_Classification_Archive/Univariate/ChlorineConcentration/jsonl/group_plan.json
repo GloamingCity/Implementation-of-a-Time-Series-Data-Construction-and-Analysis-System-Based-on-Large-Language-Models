@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 229,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.38022983066788674,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "27": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx229_L27_start0",
+      "62": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx229_L62_start0",
+      "96": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx229_L96_start0",
+      "131": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx229_L131_start0",
+      "166": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx229_L166_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 289,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.14517866274508767,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "27": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx289_L27_start0",
+      "62": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx289_L62_start0",
+      "96": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx289_L96_start0",
+      "131": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx289_L131_start0",
+      "166": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx289_L166_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 372,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.14502995847368533,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "27": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx372_L27_start0",
+      "62": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx372_L62_start0",
+      "96": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx372_L96_start0",
+      "131": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx372_L131_start0",
+      "166": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx372_L166_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 298,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.3239474165686176,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "27": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx298_L27_start0",
+      "62": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx298_L62_start0",
+      "96": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx298_L96_start0",
+      "131": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx298_L131_start0",
+      "166": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx298_L166_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 305,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.10431939589544978,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "27": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx305_L27_start0",
+      "62": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx305_L62_start0",
+      "96": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx305_L96_start0",
+      "131": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx305_L131_start0",
+      "166": "ChlorineConcentration_ChlorineConcentration_TRAIN_idx305_L166_start0"
+    }
+  }
+]

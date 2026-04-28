@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 146,
+    "start_index": 197,
+    "scores": {
+      "periodic": 1.9225098145543087,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "ScreenType_ScreenType_TRAIN_idx146_L96_start197",
+      "192": "ScreenType_ScreenType_TRAIN_idx146_L192_start197",
+      "288": "ScreenType_ScreenType_TRAIN_idx146_L288_start197",
+      "384": "ScreenType_ScreenType_TRAIN_idx146_L384_start197",
+      "512": "ScreenType_ScreenType_TRAIN_idx146_L512_start197"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 21,
+    "start_index": 197,
+    "scores": {
+      "periodic": 0.0,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "ScreenType_ScreenType_TRAIN_idx21_L96_start197",
+      "192": "ScreenType_ScreenType_TRAIN_idx21_L192_start197",
+      "288": "ScreenType_ScreenType_TRAIN_idx21_L288_start197",
+      "384": "ScreenType_ScreenType_TRAIN_idx21_L384_start197",
+      "512": "ScreenType_ScreenType_TRAIN_idx21_L512_start197"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 250,
+    "start_index": 197,
+    "scores": {
+      "periodic": 0.11414214380266179,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "ScreenType_ScreenType_TRAIN_idx250_L96_start197",
+      "192": "ScreenType_ScreenType_TRAIN_idx250_L192_start197",
+      "288": "ScreenType_ScreenType_TRAIN_idx250_L288_start197",
+      "384": "ScreenType_ScreenType_TRAIN_idx250_L384_start197",
+      "512": "ScreenType_ScreenType_TRAIN_idx250_L512_start197"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 21,
+    "start_index": 65,
+    "scores": {
+      "periodic": 0.0,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "ScreenType_ScreenType_TRAIN_idx21_L96_start65",
+      "192": "ScreenType_ScreenType_TRAIN_idx21_L192_start65",
+      "288": "ScreenType_ScreenType_TRAIN_idx21_L288_start65",
+      "384": "ScreenType_ScreenType_TRAIN_idx21_L384_start65",
+      "512": "ScreenType_ScreenType_TRAIN_idx21_L512_start65"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 91,
+    "start_index": 197,
+    "scores": {
+      "periodic": 0.2699979252715319,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "ScreenType_ScreenType_TRAIN_idx91_L96_start197",
+      "192": "ScreenType_ScreenType_TRAIN_idx91_L192_start197",
+      "288": "ScreenType_ScreenType_TRAIN_idx91_L288_start197",
+      "384": "ScreenType_ScreenType_TRAIN_idx91_L384_start197",
+      "512": "ScreenType_ScreenType_TRAIN_idx91_L512_start197"
+    }
+  }
+]

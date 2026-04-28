@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Earthquakes",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      81.4,
+      83.6,
+      83.2,
+      81.0,
+      78.2
+    ],
+    "rho_len_score": -0.7,
+    "relation": "negative",
+    "overall_score": 81.48
+  }
+]

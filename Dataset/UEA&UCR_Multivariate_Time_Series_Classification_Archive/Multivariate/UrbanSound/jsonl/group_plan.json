@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 1776,
+    "start_index": 4588,
+    "scores": {
+      "periodic": 1.9309570652390078,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "UrbanSound_UrbanSound_idx1776_L96_start4588",
+      "192": "UrbanSound_UrbanSound_idx1776_L192_start4588",
+      "288": "UrbanSound_UrbanSound_idx1776_L288_start4588",
+      "384": "UrbanSound_UrbanSound_idx1776_L384_start4588",
+      "512": "UrbanSound_UrbanSound_idx1776_L512_start4588"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 1533,
+    "start_index": 32117,
+    "scores": {
+      "periodic": 0.5555543731350909,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "UrbanSound_UrbanSound_idx1533_L96_start32117",
+      "192": "UrbanSound_UrbanSound_idx1533_L192_start32117",
+      "288": "UrbanSound_UrbanSound_idx1533_L288_start32117",
+      "384": "UrbanSound_UrbanSound_idx1533_L384_start32117",
+      "512": "UrbanSound_UrbanSound_idx1533_L512_start32117"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 1533,
+    "start_index": 18352,
+    "scores": {
+      "periodic": 0.6264978945963767,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "UrbanSound_UrbanSound_idx1533_L96_start18352",
+      "192": "UrbanSound_UrbanSound_idx1533_L192_start18352",
+      "288": "UrbanSound_UrbanSound_idx1533_L288_start18352",
+      "384": "UrbanSound_UrbanSound_idx1533_L384_start18352",
+      "512": "UrbanSound_UrbanSound_idx1533_L512_start18352"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 1533,
+    "start_index": 36705,
+    "scores": {
+      "periodic": 0.7444714311941741,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "UrbanSound_UrbanSound_idx1533_L96_start36705",
+      "192": "UrbanSound_UrbanSound_idx1533_L192_start36705",
+      "288": "UrbanSound_UrbanSound_idx1533_L288_start36705",
+      "384": "UrbanSound_UrbanSound_idx1533_L384_start36705",
+      "512": "UrbanSound_UrbanSound_idx1533_L512_start36705"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 1533,
+    "start_index": 29823,
+    "scores": {
+      "periodic": 0.765690891594049,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "UrbanSound_UrbanSound_idx1533_L96_start29823",
+      "192": "UrbanSound_UrbanSound_idx1533_L192_start29823",
+      "288": "UrbanSound_UrbanSound_idx1533_L288_start29823",
+      "384": "UrbanSound_UrbanSound_idx1533_L384_start29823",
+      "512": "UrbanSound_UrbanSound_idx1533_L512_start29823"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "DodgerLoopWeekend",
+    "lengths": [
+      48,
+      108,
+      168,
+      228,
+      288
+    ],
+    "mean_scores": [
+      84.4,
+      80.2,
+      79.0,
+      81.6,
+      76.0
+    ],
+    "rho_len_score": -0.7,
+    "relation": "negative",
+    "overall_score": 80.24
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 91,
+    "start_index": 153,
+    "scores": {
+      "periodic": 1.8838972505049099,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Computers_Computers_TRAIN_idx91_L96_start153",
+      "192": "Computers_Computers_TRAIN_idx91_L192_start153",
+      "288": "Computers_Computers_TRAIN_idx91_L288_start153",
+      "384": "Computers_Computers_TRAIN_idx91_L384_start153",
+      "512": "Computers_Computers_TRAIN_idx91_L512_start153"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 189,
+    "start_index": 32,
+    "scores": {
+      "periodic": 0.18732794055143334,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "Computers_Computers_TRAIN_idx189_L96_start32",
+      "192": "Computers_Computers_TRAIN_idx189_L192_start32",
+      "288": "Computers_Computers_TRAIN_idx189_L288_start32",
+      "384": "Computers_Computers_TRAIN_idx189_L384_start32",
+      "512": "Computers_Computers_TRAIN_idx189_L512_start32"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 217,
+    "start_index": 208,
+    "scores": {
+      "periodic": 0.7830225741065221,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "Computers_Computers_TRAIN_idx217_L96_start208",
+      "192": "Computers_Computers_TRAIN_idx217_L192_start208",
+      "288": "Computers_Computers_TRAIN_idx217_L288_start208",
+      "384": "Computers_Computers_TRAIN_idx217_L384_start208",
+      "512": "Computers_Computers_TRAIN_idx217_L512_start208"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 189,
+    "start_index": 197,
+    "scores": {
+      "periodic": 0.0,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Computers_Computers_TRAIN_idx189_L96_start197",
+      "192": "Computers_Computers_TRAIN_idx189_L192_start197",
+      "288": "Computers_Computers_TRAIN_idx189_L288_start197",
+      "384": "Computers_Computers_TRAIN_idx189_L384_start197",
+      "512": "Computers_Computers_TRAIN_idx189_L512_start197"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 133,
+    "start_index": 208,
+    "scores": {
+      "periodic": 0.47990200228822105,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "Computers_Computers_TRAIN_idx133_L96_start208",
+      "192": "Computers_Computers_TRAIN_idx133_L192_start208",
+      "288": "Computers_Computers_TRAIN_idx133_L288_start208",
+      "384": "Computers_Computers_TRAIN_idx133_L384_start208",
+      "512": "Computers_Computers_TRAIN_idx133_L512_start208"
+    }
+  }
+]

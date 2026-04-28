@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 296,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.46224126882664407,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "24": "FaceAll_FaceAll_TRAIN_idx296_L24_start0",
+      "51": "FaceAll_FaceAll_TRAIN_idx296_L51_start0",
+      "78": "FaceAll_FaceAll_TRAIN_idx296_L78_start0",
+      "104": "FaceAll_FaceAll_TRAIN_idx296_L104_start0",
+      "131": "FaceAll_FaceAll_TRAIN_idx296_L131_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 29,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.23943988640813454,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "24": "FaceAll_FaceAll_TRAIN_idx29_L24_start0",
+      "51": "FaceAll_FaceAll_TRAIN_idx29_L51_start0",
+      "78": "FaceAll_FaceAll_TRAIN_idx29_L78_start0",
+      "104": "FaceAll_FaceAll_TRAIN_idx29_L104_start0",
+      "131": "FaceAll_FaceAll_TRAIN_idx29_L131_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 332,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.27027820267095937,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "24": "FaceAll_FaceAll_TRAIN_idx332_L24_start0",
+      "51": "FaceAll_FaceAll_TRAIN_idx332_L51_start0",
+      "78": "FaceAll_FaceAll_TRAIN_idx332_L78_start0",
+      "104": "FaceAll_FaceAll_TRAIN_idx332_L104_start0",
+      "131": "FaceAll_FaceAll_TRAIN_idx332_L131_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 553,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.2882071455363072,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "FaceAll_FaceAll_TRAIN_idx553_L24_start0",
+      "51": "FaceAll_FaceAll_TRAIN_idx553_L51_start0",
+      "78": "FaceAll_FaceAll_TRAIN_idx553_L78_start0",
+      "104": "FaceAll_FaceAll_TRAIN_idx553_L104_start0",
+      "131": "FaceAll_FaceAll_TRAIN_idx553_L131_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 421,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.2881080370752849,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "FaceAll_FaceAll_TRAIN_idx421_L24_start0",
+      "51": "FaceAll_FaceAll_TRAIN_idx421_L51_start0",
+      "78": "FaceAll_FaceAll_TRAIN_idx421_L78_start0",
+      "104": "FaceAll_FaceAll_TRAIN_idx421_L104_start0",
+      "131": "FaceAll_FaceAll_TRAIN_idx421_L131_start0"
+    }
+  }
+]

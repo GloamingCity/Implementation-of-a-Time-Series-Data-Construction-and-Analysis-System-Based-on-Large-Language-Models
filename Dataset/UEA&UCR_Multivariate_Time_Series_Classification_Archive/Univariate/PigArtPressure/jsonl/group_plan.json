@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 65,
+    "start_index": 704,
+    "scores": {
+      "periodic": 1.804826690989327,
+      "volatile_event": 0.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "PigArtPressure_PigArtPressure_TRAIN_idx65_L96_start704",
+      "192": "PigArtPressure_PigArtPressure_TRAIN_idx65_L192_start704",
+      "288": "PigArtPressure_PigArtPressure_TRAIN_idx65_L288_start704",
+      "384": "PigArtPressure_PigArtPressure_TRAIN_idx65_L384_start704",
+      "512": "PigArtPressure_PigArtPressure_TRAIN_idx65_L512_start704"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 31,
+    "start_index": 939,
+    "scores": {
+      "periodic": 0.5495066791026433,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "PigArtPressure_PigArtPressure_TRAIN_idx31_L96_start939",
+      "192": "PigArtPressure_PigArtPressure_TRAIN_idx31_L192_start939",
+      "288": "PigArtPressure_PigArtPressure_TRAIN_idx31_L288_start939",
+      "384": "PigArtPressure_PigArtPressure_TRAIN_idx31_L384_start939",
+      "512": "PigArtPressure_PigArtPressure_TRAIN_idx31_L512_start939"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 45,
+    "start_index": 548,
+    "scores": {
+      "periodic": 0.3943160610966962,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "PigArtPressure_PigArtPressure_TRAIN_idx45_L96_start548",
+      "192": "PigArtPressure_PigArtPressure_TRAIN_idx45_L192_start548",
+      "288": "PigArtPressure_PigArtPressure_TRAIN_idx45_L288_start548",
+      "384": "PigArtPressure_PigArtPressure_TRAIN_idx45_L384_start548",
+      "512": "PigArtPressure_PigArtPressure_TRAIN_idx45_L512_start548"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 80,
+    "start_index": 234,
+    "scores": {
+      "periodic": 0.6815231328841593,
+      "volatile_event": 0.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "PigArtPressure_PigArtPressure_TRAIN_idx80_L96_start234",
+      "192": "PigArtPressure_PigArtPressure_TRAIN_idx80_L192_start234",
+      "288": "PigArtPressure_PigArtPressure_TRAIN_idx80_L288_start234",
+      "384": "PigArtPressure_PigArtPressure_TRAIN_idx80_L384_start234",
+      "512": "PigArtPressure_PigArtPressure_TRAIN_idx80_L512_start234"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 80,
+    "start_index": 1174,
+    "scores": {
+      "periodic": 0.6741022246781525,
+      "volatile_event": 0.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "PigArtPressure_PigArtPressure_TRAIN_idx80_L96_start1174",
+      "192": "PigArtPressure_PigArtPressure_TRAIN_idx80_L192_start1174",
+      "288": "PigArtPressure_PigArtPressure_TRAIN_idx80_L288_start1174",
+      "384": "PigArtPressure_PigArtPressure_TRAIN_idx80_L384_start1174",
+      "512": "PigArtPressure_PigArtPressure_TRAIN_idx80_L512_start1174"
+    }
+  }
+]

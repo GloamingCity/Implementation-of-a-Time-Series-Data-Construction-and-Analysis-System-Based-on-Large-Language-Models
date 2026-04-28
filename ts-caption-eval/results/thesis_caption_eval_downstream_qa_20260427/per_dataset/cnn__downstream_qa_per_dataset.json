@@ -1,0 +1,14 @@
+{
+  "tsshapeqa_v1": {
+    "acc_meta_only": 0.27,
+    "meta_only_correct": 108,
+    "meta_only_total": 400,
+    "acc_caption": 0.3725,
+    "caption_correct": 149,
+    "caption_total": 400,
+    "acc_wrong_caption": 0.3425,
+    "wrong_caption_correct": 137,
+    "wrong_caption_total": 400,
+    "delta_vs_meta_only": 0.10249999999999998
+  }
+}

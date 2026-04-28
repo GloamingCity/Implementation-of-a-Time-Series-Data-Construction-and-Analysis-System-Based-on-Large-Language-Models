@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 212,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8081964399961175,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx212_L24_start0",
+      "54": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx212_L54_start0",
+      "84": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx212_L84_start0",
+      "114": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx212_L114_start0",
+      "144": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx212_L144_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 225,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.4485399626831102,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx225_L24_start0",
+      "54": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx225_L54_start0",
+      "84": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx225_L84_start0",
+      "114": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx225_L114_start0",
+      "144": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx225_L144_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 28,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.1098839018922108,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx28_L24_start0",
+      "54": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx28_L54_start0",
+      "84": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx28_L84_start0",
+      "114": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx28_L114_start0",
+      "144": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx28_L144_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 74,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.7474951250440175,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx74_L24_start0",
+      "54": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx74_L54_start0",
+      "84": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx74_L84_start0",
+      "114": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx74_L114_start0",
+      "144": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx74_L144_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 82,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.1764776686190707,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx82_L24_start0",
+      "54": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx82_L54_start0",
+      "84": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx82_L84_start0",
+      "114": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx82_L114_start0",
+      "144": "ArticularyWordRecognition_ArticularyWordRecognition_TRAIN_idx82_L144_start0"
+    }
+  }
+]

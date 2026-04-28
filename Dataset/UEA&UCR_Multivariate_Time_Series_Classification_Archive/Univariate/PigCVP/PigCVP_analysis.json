@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "PigCVP",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      79.8,
+      82.2,
+      83.0,
+      76.6,
+      81.0
+    ],
+    "rho_len_score": -0.1,
+    "relation": "flat",
+    "overall_score": 80.52
+  }
+]

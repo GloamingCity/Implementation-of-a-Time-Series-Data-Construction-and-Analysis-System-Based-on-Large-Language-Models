@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "PhonemeSpectra",
+    "lengths": [
+      36,
+      81,
+      126,
+      172,
+      217
+    ],
+    "mean_scores": [
+      80.0,
+      81.4,
+      77.0,
+      80.6,
+      84.2
+    ],
+    "rho_len_score": 0.5,
+    "relation": "positive",
+    "overall_score": 80.64
+  }
+]

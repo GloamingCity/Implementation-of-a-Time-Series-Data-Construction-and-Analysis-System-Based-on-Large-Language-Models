@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "NonInvasiveFetalECGThorax1",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      82.8,
+      83.6,
+      77.0,
+      73.6,
+      80.0
+    ],
+    "rho_len_score": -0.6,
+    "relation": "negative",
+    "overall_score": 79.4
+  }
+]

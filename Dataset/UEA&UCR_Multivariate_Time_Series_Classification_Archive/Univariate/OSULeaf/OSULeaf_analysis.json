@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "OSULeaf",
+    "lengths": [
+      71,
+      160,
+      249,
+      338,
+      427
+    ],
+    "mean_scores": [
+      80.4,
+      76.4,
+      79.8,
+      83.0,
+      78.8
+    ],
+    "rho_len_score": 0.0,
+    "relation": "flat",
+    "overall_score": 79.68
+  }
+]

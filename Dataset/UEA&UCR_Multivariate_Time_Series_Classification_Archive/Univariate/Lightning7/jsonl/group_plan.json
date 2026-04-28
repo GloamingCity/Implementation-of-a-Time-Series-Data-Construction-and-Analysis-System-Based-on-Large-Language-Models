@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 14,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.7769516769989773,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "53": "Lightning7_Lightning7_TRAIN_idx14_L53_start0",
+      "120": "Lightning7_Lightning7_TRAIN_idx14_L120_start0",
+      "186": "Lightning7_Lightning7_TRAIN_idx14_L186_start0",
+      "252": "Lightning7_Lightning7_TRAIN_idx14_L252_start0",
+      "319": "Lightning7_Lightning7_TRAIN_idx14_L319_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 47,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.3221352374711859,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "53": "Lightning7_Lightning7_TRAIN_idx47_L53_start0",
+      "120": "Lightning7_Lightning7_TRAIN_idx47_L120_start0",
+      "186": "Lightning7_Lightning7_TRAIN_idx47_L186_start0",
+      "252": "Lightning7_Lightning7_TRAIN_idx47_L252_start0",
+      "319": "Lightning7_Lightning7_TRAIN_idx47_L319_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 55,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.1387083821395315,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "53": "Lightning7_Lightning7_TRAIN_idx55_L53_start0",
+      "120": "Lightning7_Lightning7_TRAIN_idx55_L120_start0",
+      "186": "Lightning7_Lightning7_TRAIN_idx55_L186_start0",
+      "252": "Lightning7_Lightning7_TRAIN_idx55_L252_start0",
+      "319": "Lightning7_Lightning7_TRAIN_idx55_L319_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 66,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.7141861800690263,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "53": "Lightning7_Lightning7_TRAIN_idx66_L53_start0",
+      "120": "Lightning7_Lightning7_TRAIN_idx66_L120_start0",
+      "186": "Lightning7_Lightning7_TRAIN_idx66_L186_start0",
+      "252": "Lightning7_Lightning7_TRAIN_idx66_L252_start0",
+      "319": "Lightning7_Lightning7_TRAIN_idx66_L319_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 23,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.0,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "53": "Lightning7_Lightning7_TRAIN_idx23_L53_start0",
+      "120": "Lightning7_Lightning7_TRAIN_idx23_L120_start0",
+      "186": "Lightning7_Lightning7_TRAIN_idx23_L186_start0",
+      "252": "Lightning7_Lightning7_TRAIN_idx23_L252_start0",
+      "319": "Lightning7_Lightning7_TRAIN_idx23_L319_start0"
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 25,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8246455890740245,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "74": "Meat_Meat_TRAIN_idx25_L74_start0",
+      "168": "Meat_Meat_TRAIN_idx25_L168_start0",
+      "261": "Meat_Meat_TRAIN_idx25_L261_start0",
+      "354": "Meat_Meat_TRAIN_idx25_L354_start0",
+      "448": "Meat_Meat_TRAIN_idx25_L448_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 14,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.8154303310466068,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "74": "Meat_Meat_TRAIN_idx14_L74_start0",
+      "168": "Meat_Meat_TRAIN_idx14_L168_start0",
+      "261": "Meat_Meat_TRAIN_idx14_L261_start0",
+      "354": "Meat_Meat_TRAIN_idx14_L354_start0",
+      "448": "Meat_Meat_TRAIN_idx14_L448_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 31,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8235976640670466,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "74": "Meat_Meat_TRAIN_idx31_L74_start0",
+      "168": "Meat_Meat_TRAIN_idx31_L168_start0",
+      "261": "Meat_Meat_TRAIN_idx31_L261_start0",
+      "354": "Meat_Meat_TRAIN_idx31_L354_start0",
+      "448": "Meat_Meat_TRAIN_idx31_L448_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 47,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.814413494352396,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "74": "Meat_Meat_TRAIN_idx47_L74_start0",
+      "168": "Meat_Meat_TRAIN_idx47_L168_start0",
+      "261": "Meat_Meat_TRAIN_idx47_L261_start0",
+      "354": "Meat_Meat_TRAIN_idx47_L354_start0",
+      "448": "Meat_Meat_TRAIN_idx47_L448_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 56,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.8177191452284225,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "74": "Meat_Meat_TRAIN_idx56_L74_start0",
+      "168": "Meat_Meat_TRAIN_idx56_L168_start0",
+      "261": "Meat_Meat_TRAIN_idx56_L261_start0",
+      "354": "Meat_Meat_TRAIN_idx56_L354_start0",
+      "448": "Meat_Meat_TRAIN_idx56_L448_start0"
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 79,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.9418374403604428,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "StarLightCurves_StarLightCurves_TRAIN_idx79_L96_start0",
+      "192": "StarLightCurves_StarLightCurves_TRAIN_idx79_L192_start0",
+      "288": "StarLightCurves_StarLightCurves_TRAIN_idx79_L288_start0",
+      "384": "StarLightCurves_StarLightCurves_TRAIN_idx79_L384_start0",
+      "512": "StarLightCurves_StarLightCurves_TRAIN_idx79_L512_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 207,
+    "start_index": 350,
+    "scores": {
+      "periodic": 0.764005968119227,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "StarLightCurves_StarLightCurves_TRAIN_idx207_L96_start350",
+      "192": "StarLightCurves_StarLightCurves_TRAIN_idx207_L192_start350",
+      "288": "StarLightCurves_StarLightCurves_TRAIN_idx207_L288_start350",
+      "384": "StarLightCurves_StarLightCurves_TRAIN_idx207_L384_start350",
+      "512": "StarLightCurves_StarLightCurves_TRAIN_idx207_L512_start350"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 209,
+    "start_index": 485,
+    "scores": {
+      "periodic": 1.8270392362284085,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "StarLightCurves_StarLightCurves_TRAIN_idx209_L96_start485",
+      "192": "StarLightCurves_StarLightCurves_TRAIN_idx209_L192_start485",
+      "288": "StarLightCurves_StarLightCurves_TRAIN_idx209_L288_start485",
+      "384": "StarLightCurves_StarLightCurves_TRAIN_idx209_L384_start485",
+      "512": "StarLightCurves_StarLightCurves_TRAIN_idx209_L512_start485"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 207,
+    "start_index": 512,
+    "scores": {
+      "periodic": 0.1508738694069853,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "StarLightCurves_StarLightCurves_TRAIN_idx207_L96_start512",
+      "192": "StarLightCurves_StarLightCurves_TRAIN_idx207_L192_start512",
+      "288": "StarLightCurves_StarLightCurves_TRAIN_idx207_L288_start512",
+      "384": "StarLightCurves_StarLightCurves_TRAIN_idx207_L384_start512",
+      "512": "StarLightCurves_StarLightCurves_TRAIN_idx207_L512_start512"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 207,
+    "start_index": 215,
+    "scores": {
+      "periodic": 1.9225693527604748,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "StarLightCurves_StarLightCurves_TRAIN_idx207_L96_start215",
+      "192": "StarLightCurves_StarLightCurves_TRAIN_idx207_L192_start215",
+      "288": "StarLightCurves_StarLightCurves_TRAIN_idx207_L288_start215",
+      "384": "StarLightCurves_StarLightCurves_TRAIN_idx207_L384_start215",
+      "512": "StarLightCurves_StarLightCurves_TRAIN_idx207_L512_start215"
+    }
+  }
+]

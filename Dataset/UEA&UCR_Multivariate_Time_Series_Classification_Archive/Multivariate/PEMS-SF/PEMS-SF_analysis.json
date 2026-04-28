@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "PEMS-SF",
+    "lengths": [
+      24,
+      54,
+      84,
+      114,
+      144
+    ],
+    "mean_scores": [
+      84.2,
+      84.0,
+      76.4,
+      70.4,
+      78.2
+    ],
+    "rho_len_score": -0.7,
+    "relation": "negative",
+    "overall_score": 78.64
+  }
+]

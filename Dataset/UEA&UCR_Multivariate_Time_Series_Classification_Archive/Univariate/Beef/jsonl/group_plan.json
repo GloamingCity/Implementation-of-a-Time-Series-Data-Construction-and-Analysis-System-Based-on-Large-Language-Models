@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 17,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8339999510145673,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "78": "Beef_Beef_TRAIN_idx17_L78_start0",
+      "176": "Beef_Beef_TRAIN_idx17_L176_start0",
+      "274": "Beef_Beef_TRAIN_idx17_L274_start0",
+      "372": "Beef_Beef_TRAIN_idx17_L372_start0",
+      "470": "Beef_Beef_TRAIN_idx17_L470_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 7,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.824018751025734,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "78": "Beef_Beef_TRAIN_idx7_L78_start0",
+      "176": "Beef_Beef_TRAIN_idx7_L176_start0",
+      "274": "Beef_Beef_TRAIN_idx7_L274_start0",
+      "372": "Beef_Beef_TRAIN_idx7_L372_start0",
+      "470": "Beef_Beef_TRAIN_idx7_L470_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 24,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6728251364133904,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "78": "Beef_Beef_TRAIN_idx24_L78_start0",
+      "176": "Beef_Beef_TRAIN_idx24_L176_start0",
+      "274": "Beef_Beef_TRAIN_idx24_L274_start0",
+      "372": "Beef_Beef_TRAIN_idx24_L372_start0",
+      "470": "Beef_Beef_TRAIN_idx24_L470_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 29,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.8325749416665121,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "78": "Beef_Beef_TRAIN_idx29_L78_start0",
+      "176": "Beef_Beef_TRAIN_idx29_L176_start0",
+      "274": "Beef_Beef_TRAIN_idx29_L274_start0",
+      "372": "Beef_Beef_TRAIN_idx29_L372_start0",
+      "470": "Beef_Beef_TRAIN_idx29_L470_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 26,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6098230897412749,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "78": "Beef_Beef_TRAIN_idx26_L78_start0",
+      "176": "Beef_Beef_TRAIN_idx26_L176_start0",
+      "274": "Beef_Beef_TRAIN_idx26_L274_start0",
+      "372": "Beef_Beef_TRAIN_idx26_L372_start0",
+      "470": "Beef_Beef_TRAIN_idx26_L470_start0"
+    }
+  }
+]

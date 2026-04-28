@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "BeetleFly",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      78.8,
+      81.2,
+      79.0,
+      80.6,
+      79.8
+    ],
+    "rho_len_score": 0.3,
+    "relation": "positive",
+    "overall_score": 79.88
+  }
+]

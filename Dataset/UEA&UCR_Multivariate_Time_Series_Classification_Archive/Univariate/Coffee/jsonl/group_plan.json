@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 5,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.839047306693145,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "47": "Coffee_Coffee_TRAIN_idx5_L47_start0",
+      "107": "Coffee_Coffee_TRAIN_idx5_L107_start0",
+      "166": "Coffee_Coffee_TRAIN_idx5_L166_start0",
+      "226": "Coffee_Coffee_TRAIN_idx5_L226_start0",
+      "286": "Coffee_Coffee_TRAIN_idx5_L286_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 1,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.8309268475164642,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "47": "Coffee_Coffee_TRAIN_idx1_L47_start0",
+      "107": "Coffee_Coffee_TRAIN_idx1_L107_start0",
+      "166": "Coffee_Coffee_TRAIN_idx1_L166_start0",
+      "226": "Coffee_Coffee_TRAIN_idx1_L226_start0",
+      "286": "Coffee_Coffee_TRAIN_idx1_L286_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 17,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.806015850561327,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "47": "Coffee_Coffee_TRAIN_idx17_L47_start0",
+      "107": "Coffee_Coffee_TRAIN_idx17_L107_start0",
+      "166": "Coffee_Coffee_TRAIN_idx17_L166_start0",
+      "226": "Coffee_Coffee_TRAIN_idx17_L226_start0",
+      "286": "Coffee_Coffee_TRAIN_idx17_L286_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 18,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8218311793182358,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "47": "Coffee_Coffee_TRAIN_idx18_L47_start0",
+      "107": "Coffee_Coffee_TRAIN_idx18_L107_start0",
+      "166": "Coffee_Coffee_TRAIN_idx18_L166_start0",
+      "226": "Coffee_Coffee_TRAIN_idx18_L226_start0",
+      "286": "Coffee_Coffee_TRAIN_idx18_L286_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 8,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8163547023141793,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "47": "Coffee_Coffee_TRAIN_idx8_L47_start0",
+      "107": "Coffee_Coffee_TRAIN_idx8_L107_start0",
+      "166": "Coffee_Coffee_TRAIN_idx8_L166_start0",
+      "226": "Coffee_Coffee_TRAIN_idx8_L226_start0",
+      "286": "Coffee_Coffee_TRAIN_idx8_L286_start0"
+    }
+  }
+]

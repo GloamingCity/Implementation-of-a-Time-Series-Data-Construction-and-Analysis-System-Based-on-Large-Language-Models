@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 183,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.42616432970027346,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "24": "FacesUCR_FacesUCR_TRAIN_idx183_L24_start0",
+      "51": "FacesUCR_FacesUCR_TRAIN_idx183_L51_start0",
+      "78": "FacesUCR_FacesUCR_TRAIN_idx183_L78_start0",
+      "104": "FacesUCR_FacesUCR_TRAIN_idx183_L104_start0",
+      "131": "FacesUCR_FacesUCR_TRAIN_idx183_L131_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 95,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.2058858388597325,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "24": "FacesUCR_FacesUCR_TRAIN_idx95_L24_start0",
+      "51": "FacesUCR_FacesUCR_TRAIN_idx95_L51_start0",
+      "78": "FacesUCR_FacesUCR_TRAIN_idx95_L78_start0",
+      "104": "FacesUCR_FacesUCR_TRAIN_idx95_L104_start0",
+      "131": "FacesUCR_FacesUCR_TRAIN_idx95_L131_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 118,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.18964345733884172,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "24": "FacesUCR_FacesUCR_TRAIN_idx118_L24_start0",
+      "51": "FacesUCR_FacesUCR_TRAIN_idx118_L51_start0",
+      "78": "FacesUCR_FacesUCR_TRAIN_idx118_L78_start0",
+      "104": "FacesUCR_FacesUCR_TRAIN_idx118_L104_start0",
+      "131": "FacesUCR_FacesUCR_TRAIN_idx118_L131_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 44,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.3029873395110007,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "24": "FacesUCR_FacesUCR_TRAIN_idx44_L24_start0",
+      "51": "FacesUCR_FacesUCR_TRAIN_idx44_L51_start0",
+      "78": "FacesUCR_FacesUCR_TRAIN_idx44_L78_start0",
+      "104": "FacesUCR_FacesUCR_TRAIN_idx44_L104_start0",
+      "131": "FacesUCR_FacesUCR_TRAIN_idx44_L131_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 112,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.2838924080544089,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "24": "FacesUCR_FacesUCR_TRAIN_idx112_L24_start0",
+      "51": "FacesUCR_FacesUCR_TRAIN_idx112_L51_start0",
+      "78": "FacesUCR_FacesUCR_TRAIN_idx112_L78_start0",
+      "104": "FacesUCR_FacesUCR_TRAIN_idx112_L104_start0",
+      "131": "FacesUCR_FacesUCR_TRAIN_idx112_L131_start0"
+    }
+  }
+]

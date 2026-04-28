@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Beef",
+    "lengths": [
+      78,
+      176,
+      274,
+      372,
+      470
+    ],
+    "mean_scores": [
+      79.8,
+      80.2,
+      81.0,
+      81.6,
+      81.4
+    ],
+    "rho_len_score": 0.9,
+    "relation": "positive",
+    "overall_score": 80.8
+  }
+]

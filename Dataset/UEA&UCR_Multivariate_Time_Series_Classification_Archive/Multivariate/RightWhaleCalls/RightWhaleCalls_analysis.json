@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "RightWhaleCalls",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      81.6,
+      80.4,
+      79.0,
+      81.0,
+      77.2
+    ],
+    "rho_len_score": -0.7,
+    "relation": "negative",
+    "overall_score": 79.84
+  }
+]

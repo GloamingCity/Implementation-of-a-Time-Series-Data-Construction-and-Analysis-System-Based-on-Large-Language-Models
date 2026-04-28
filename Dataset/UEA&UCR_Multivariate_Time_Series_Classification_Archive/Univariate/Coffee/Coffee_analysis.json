@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Coffee",
+    "lengths": [
+      47,
+      107,
+      166,
+      226,
+      286
+    ],
+    "mean_scores": [
+      82.8,
+      69.0,
+      74.6,
+      77.4,
+      78.6
+    ],
+    "rho_len_score": 0.0,
+    "relation": "flat",
+    "overall_score": 76.48
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 50,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8419696444357132,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "25": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx50_L25_start0",
+      "56": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx50_L56_start0",
+      "88": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx50_L88_start0",
+      "119": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx50_L119_start0",
+      "150": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx50_L150_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 17,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.837154788868522,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "25": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx17_L25_start0",
+      "56": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx17_L56_start0",
+      "88": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx17_L88_start0",
+      "119": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx17_L119_start0",
+      "150": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx17_L150_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 108,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8336545276884264,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "25": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx108_L25_start0",
+      "56": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx108_L56_start0",
+      "88": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx108_L88_start0",
+      "119": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx108_L119_start0",
+      "150": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx108_L150_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 96,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.8054938482396188,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "25": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx96_L25_start0",
+      "56": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx96_L56_start0",
+      "88": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx96_L88_start0",
+      "119": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx96_L119_start0",
+      "150": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx96_L150_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 93,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.7816795513498942,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "25": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx93_L25_start0",
+      "56": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx93_L56_start0",
+      "88": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx93_L88_start0",
+      "119": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx93_L119_start0",
+      "150": "GunPointAgeSpan_GunPointAgeSpan_TRAIN_idx93_L150_start0"
+    }
+  }
+]

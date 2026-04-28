@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "SmallKitchenAppliances",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      86.0,
+      85.0,
+      79.4,
+      78.2,
+      83.0
+    ],
+    "rho_len_score": -0.7,
+    "relation": "negative",
+    "overall_score": 82.32
+  }
+]

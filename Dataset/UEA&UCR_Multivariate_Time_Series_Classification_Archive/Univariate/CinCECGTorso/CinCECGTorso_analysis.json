@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "CinCECGTorso",
+    "lengths": [
+      96,
+      192,
+      288,
+      384,
+      512
+    ],
+    "mean_scores": [
+      82.2,
+      80.6,
+      75.0,
+      76.8,
+      79.6
+    ],
+    "rho_len_score": -0.6,
+    "relation": "negative",
+    "overall_score": 78.84
+  }
+]

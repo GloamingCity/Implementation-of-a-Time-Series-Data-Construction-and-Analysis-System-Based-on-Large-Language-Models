@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "PowerCons",
+    "lengths": [
+      24,
+      54,
+      84,
+      114,
+      144
+    ],
+    "mean_scores": [
+      79.4,
+      84.0,
+      84.8,
+      83.0,
+      78.6
+    ],
+    "rho_len_score": -0.3,
+    "relation": "negative",
+    "overall_score": 81.96
+  }
+]

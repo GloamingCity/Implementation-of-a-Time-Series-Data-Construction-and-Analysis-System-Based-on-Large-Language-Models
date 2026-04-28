@@ -1,0 +1,45 @@
+# Compressed end-to-end config: all 3 evaluators, tiny subsets, to verify
+# wiring. Not a real experiment — the thesis config is `thesis.yaml`.
+
+experiment_name: smoke_full
+
+n_per_dataset: 10
+
+datasets:
+  - name: fred
+    path: data/captions/fred.jsonl
+  - name: ett
+    path: data/captions/ett.jsonl
+
+reference:
+  path: references/gt_captions.jsonl
+
+models:
+  - name: student_qwen3_4b_tsenc
+    predictions_path: predictions/student_qwen3_4b_tsenc.jsonl
+    parser: default
+  - name: pure_qwen3_4b_prompt
+    predictions_path: predictions/pure_qwen3_4b_prompt.jsonl
+    parser: default
+
+evaluators:
+  reference_based:
+    enabled: true
+    metrics: [bleu4, rouge_l]
+
+  llm_judge:
+    enabled: true
+    model: gpt-5.4-mini
+    dimensions: [faithfulness, completeness]
+    max_samples: 5
+
+  downstream_qa:
+    enabled: true
+    qa_path: data/qa/tsshapeqa_400.jsonl
+    answerer_model: gpt-5.4-mini
+    conditions: [meta_only, caption, wrong_caption]
+    max_samples: 5
+
+output:
+  dir: results/smoke_full
+  format: [md, csv, json]

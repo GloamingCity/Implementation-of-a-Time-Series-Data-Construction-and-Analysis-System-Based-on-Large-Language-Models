@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 2094,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8181244444756743,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "50": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx2094_L50_start0",
+      "113": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx2094_L113_start0",
+      "176": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx2094_L176_start0",
+      "238": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx2094_L238_start0",
+      "301": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx2094_L301_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 1907,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.7948860552158267,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "50": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx1907_L50_start0",
+      "113": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx1907_L113_start0",
+      "176": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx1907_L176_start0",
+      "238": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx1907_L238_start0",
+      "301": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx1907_L301_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 12,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8086920231207997,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "50": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx12_L50_start0",
+      "113": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx12_L113_start0",
+      "176": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx12_L176_start0",
+      "238": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx12_L238_start0",
+      "301": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx12_L301_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 2059,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.7119459088563556,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "50": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx2059_L50_start0",
+      "113": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx2059_L113_start0",
+      "176": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx2059_L176_start0",
+      "238": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx2059_L238_start0",
+      "301": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx2059_L301_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 1550,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.791557254804066,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "50": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx1550_L50_start0",
+      "113": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx1550_L113_start0",
+      "176": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx1550_L176_start0",
+      "238": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx1550_L238_start0",
+      "301": "FreezerSmallTrain_FreezerSmallTrain_TEST_idx1550_L301_start0"
+    }
+  }
+]

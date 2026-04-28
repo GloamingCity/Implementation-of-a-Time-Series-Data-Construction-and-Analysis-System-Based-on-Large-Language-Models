@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "Ham",
+    "lengths": [
+      71,
+      161,
+      251,
+      341,
+      431
+    ],
+    "mean_scores": [
+      79.0,
+      80.4,
+      82.8,
+      80.6,
+      78.4
+    ],
+    "rho_len_score": -0.1,
+    "relation": "flat",
+    "overall_score": 80.24
+  }
+]

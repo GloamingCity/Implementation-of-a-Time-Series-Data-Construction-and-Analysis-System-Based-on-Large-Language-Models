@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 115,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.84365554084405,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "25": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx115_L25_start0",
+      "56": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx115_L56_start0",
+      "88": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx115_L88_start0",
+      "119": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx115_L119_start0",
+      "150": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx115_L150_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 103,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.7451627381358858,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "25": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx103_L25_start0",
+      "56": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx103_L56_start0",
+      "88": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx103_L88_start0",
+      "119": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx103_L119_start0",
+      "150": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx103_L150_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 82,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.7873280237692857,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "25": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx82_L25_start0",
+      "56": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx82_L56_start0",
+      "88": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx82_L88_start0",
+      "119": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx82_L119_start0",
+      "150": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx82_L150_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 48,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.7825777928617978,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "25": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx48_L25_start0",
+      "56": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx48_L56_start0",
+      "88": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx48_L88_start0",
+      "119": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx48_L119_start0",
+      "150": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx48_L150_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 96,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.6647293352712422,
+      "volatile_event": 1.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "25": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx96_L25_start0",
+      "56": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx96_L56_start0",
+      "88": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx96_L88_start0",
+      "119": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx96_L119_start0",
+      "150": "GunPointOldVersusYoung_GunPointOldVersusYoung_TRAIN_idx96_L150_start0"
+    }
+  }
+]

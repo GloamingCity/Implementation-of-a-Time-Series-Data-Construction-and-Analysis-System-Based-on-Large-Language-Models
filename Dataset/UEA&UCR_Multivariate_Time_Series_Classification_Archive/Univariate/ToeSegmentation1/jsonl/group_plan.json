@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 14,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.592133343781049,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "46": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx14_L46_start0",
+      "104": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx14_L104_start0",
+      "162": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx14_L162_start0",
+      "219": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx14_L219_start0",
+      "277": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx14_L277_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 1,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.5917156204482273,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "46": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx1_L46_start0",
+      "104": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx1_L104_start0",
+      "162": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx1_L162_start0",
+      "219": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx1_L219_start0",
+      "277": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx1_L277_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 3,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.46720252502355175,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "46": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx3_L46_start0",
+      "104": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx3_L104_start0",
+      "162": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx3_L162_start0",
+      "219": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx3_L219_start0",
+      "277": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx3_L277_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 29,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.44895369294080967,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "46": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx29_L46_start0",
+      "104": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx29_L104_start0",
+      "162": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx29_L162_start0",
+      "219": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx29_L219_start0",
+      "277": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx29_L277_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 16,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.6103063992551915,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "46": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx16_L46_start0",
+      "104": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx16_L104_start0",
+      "162": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx16_L162_start0",
+      "219": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx16_L219_start0",
+      "277": "ToeSegmentation1_ToeSegmentation1_TRAIN_idx16_L277_start0"
+    }
+  }
+]

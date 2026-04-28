@@ -1,0 +1,22 @@
+[
+  {
+    "dataset": "ArrowHead",
+    "lengths": [
+      41,
+      94,
+      146,
+      198,
+      251
+    ],
+    "mean_scores": [
+      83.4,
+      80.6,
+      81.4,
+      82.8,
+      75.2
+    ],
+    "rho_len_score": -0.6,
+    "relation": "negative",
+    "overall_score": 80.68
+  }
+]

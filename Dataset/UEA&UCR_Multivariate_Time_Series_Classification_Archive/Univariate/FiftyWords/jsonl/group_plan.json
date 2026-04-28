@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 25,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8387646122730983,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "45": "FiftyWords_FiftyWords_TRAIN_idx25_L45_start0",
+      "101": "FiftyWords_FiftyWords_TRAIN_idx25_L101_start0",
+      "158": "FiftyWords_FiftyWords_TRAIN_idx25_L158_start0",
+      "214": "FiftyWords_FiftyWords_TRAIN_idx25_L214_start0",
+      "270": "FiftyWords_FiftyWords_TRAIN_idx25_L270_start0"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 203,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.17246248196530944,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "45": "FiftyWords_FiftyWords_TRAIN_idx203_L45_start0",
+      "101": "FiftyWords_FiftyWords_TRAIN_idx203_L101_start0",
+      "158": "FiftyWords_FiftyWords_TRAIN_idx203_L158_start0",
+      "214": "FiftyWords_FiftyWords_TRAIN_idx203_L214_start0",
+      "270": "FiftyWords_FiftyWords_TRAIN_idx203_L270_start0"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 11,
+    "start_index": 0,
+    "scores": {
+      "periodic": 1.8312631021146029,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "45": "FiftyWords_FiftyWords_TRAIN_idx11_L45_start0",
+      "101": "FiftyWords_FiftyWords_TRAIN_idx11_L101_start0",
+      "158": "FiftyWords_FiftyWords_TRAIN_idx11_L158_start0",
+      "214": "FiftyWords_FiftyWords_TRAIN_idx11_L214_start0",
+      "270": "FiftyWords_FiftyWords_TRAIN_idx11_L270_start0"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 356,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.38540823504238725,
+      "volatile_event": 2.0,
+      "transition": 0.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "45": "FiftyWords_FiftyWords_TRAIN_idx356_L45_start0",
+      "101": "FiftyWords_FiftyWords_TRAIN_idx356_L101_start0",
+      "158": "FiftyWords_FiftyWords_TRAIN_idx356_L158_start0",
+      "214": "FiftyWords_FiftyWords_TRAIN_idx356_L214_start0",
+      "270": "FiftyWords_FiftyWords_TRAIN_idx356_L270_start0"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 255,
+    "start_index": 0,
+    "scores": {
+      "periodic": 0.7169265754617927,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "45": "FiftyWords_FiftyWords_TRAIN_idx255_L45_start0",
+      "101": "FiftyWords_FiftyWords_TRAIN_idx255_L101_start0",
+      "158": "FiftyWords_FiftyWords_TRAIN_idx255_L158_start0",
+      "214": "FiftyWords_FiftyWords_TRAIN_idx255_L214_start0",
+      "270": "FiftyWords_FiftyWords_TRAIN_idx255_L270_start0"
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 89,
+    "start_index": 161659,
+    "scores": {
+      "periodic": 1.9645550509628298,
+      "volatile_event": 1.0,
+      "transition": 0.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "DucksAndGeese_DucksAndGeese_idx89_L96_start161659",
+      "192": "DucksAndGeese_DucksAndGeese_idx89_L192_start161659",
+      "288": "DucksAndGeese_DucksAndGeese_idx89_L288_start161659",
+      "384": "DucksAndGeese_DucksAndGeese_idx89_L384_start161659",
+      "512": "DucksAndGeese_DucksAndGeese_idx89_L512_start161659"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 29,
+    "start_index": 12435,
+    "scores": {
+      "periodic": 0.29253471049108576,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 0.0,
+      "stable": 1.0
+    },
+    "samples": {
+      "96": "DucksAndGeese_DucksAndGeese_idx29_L96_start12435",
+      "192": "DucksAndGeese_DucksAndGeese_idx29_L192_start12435",
+      "288": "DucksAndGeese_DucksAndGeese_idx29_L288_start12435",
+      "384": "DucksAndGeese_DucksAndGeese_idx29_L384_start12435",
+      "512": "DucksAndGeese_DucksAndGeese_idx29_L512_start12435"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 42,
+    "start_index": 149224,
+    "scores": {
+      "periodic": 0.11179953869522222,
+      "volatile_event": 2.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "DucksAndGeese_DucksAndGeese_idx42_L96_start149224",
+      "192": "DucksAndGeese_DucksAndGeese_idx42_L192_start149224",
+      "288": "DucksAndGeese_DucksAndGeese_idx42_L288_start149224",
+      "384": "DucksAndGeese_DucksAndGeese_idx42_L384_start149224",
+      "512": "DucksAndGeese_DucksAndGeese_idx42_L512_start149224"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 42,
+    "start_index": 111918,
+    "scores": {
+      "periodic": 0.2627294739707891,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 1.0,
+      "downward": 0.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "DucksAndGeese_DucksAndGeese_idx42_L96_start111918",
+      "192": "DucksAndGeese_DucksAndGeese_idx42_L192_start111918",
+      "288": "DucksAndGeese_DucksAndGeese_idx42_L288_start111918",
+      "384": "DucksAndGeese_DucksAndGeese_idx42_L384_start111918",
+      "512": "DucksAndGeese_DucksAndGeese_idx42_L512_start111918"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 42,
+    "start_index": 211401,
+    "scores": {
+      "periodic": 1.655653223914018,
+      "volatile_event": 2.0,
+      "transition": 1.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "DucksAndGeese_DucksAndGeese_idx42_L96_start211401",
+      "192": "DucksAndGeese_DucksAndGeese_idx42_L192_start211401",
+      "288": "DucksAndGeese_DucksAndGeese_idx42_L288_start211401",
+      "384": "DucksAndGeese_DucksAndGeese_idx42_L384_start211401",
+      "512": "DucksAndGeese_DucksAndGeese_idx42_L512_start211401"
+    }
+  }
+]

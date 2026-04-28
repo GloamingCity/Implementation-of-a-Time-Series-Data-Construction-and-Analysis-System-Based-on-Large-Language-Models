@@ -1,0 +1,102 @@
+[
+  {
+    "group": 1,
+    "instance_index": 824,
+    "start_index": 175,
+    "scores": {
+      "periodic": 1.9252403117087349,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx824_L96_start175",
+      "192": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx824_L192_start175",
+      "288": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx824_L288_start175",
+      "384": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx824_L384_start175",
+      "512": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx824_L512_start175"
+    }
+  },
+  {
+    "group": 2,
+    "instance_index": 800,
+    "start_index": 25,
+    "scores": {
+      "periodic": 1.713425769731463,
+      "volatile_event": 2.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L96_start25",
+      "192": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L192_start25",
+      "288": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L288_start25",
+      "384": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L384_start25",
+      "512": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L512_start25"
+    }
+  },
+  {
+    "group": 3,
+    "instance_index": 800,
+    "start_index": 162,
+    "scores": {
+      "periodic": 1.9073174545338447,
+      "volatile_event": 1.0,
+      "transition": 3.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L96_start162",
+      "192": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L192_start162",
+      "288": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L288_start162",
+      "384": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L384_start162",
+      "512": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L512_start162"
+    }
+  },
+  {
+    "group": 4,
+    "instance_index": 800,
+    "start_index": 100,
+    "scores": {
+      "periodic": 1.8655260292806555,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L96_start100",
+      "192": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L192_start100",
+      "288": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L288_start100",
+      "384": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L384_start100",
+      "512": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L512_start100"
+    }
+  },
+  {
+    "group": 5,
+    "instance_index": 800,
+    "start_index": 212,
+    "scores": {
+      "periodic": 1.8888630332188274,
+      "volatile_event": 1.0,
+      "transition": 2.0,
+      "upward": 0.0,
+      "downward": 1.0,
+      "stable": 0.0
+    },
+    "samples": {
+      "96": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L96_start212",
+      "192": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L192_start212",
+      "288": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L288_start212",
+      "384": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L384_start212",
+      "512": "NonInvasiveFetalECGThorax1_NonInvasiveFetalECGThorax1_TRAIN_idx800_L512_start212"
+    }
+  }
+]
