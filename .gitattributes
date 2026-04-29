@@ -6,6 +6,7 @@ Dataset/**/*.png filter=lfs diff=lfs merge=lfs -text
 Dataset/**/*.txt filter=lfs diff=lfs merge=lfs -text
 Dataset/**/*.csv filter=lfs diff=lfs merge=lfs -text
 Dataset/**/*.tsf filter=lfs diff=lfs merge=lfs -text
+SplitLargeFiles/** filter=lfs diff=lfs merge=lfs -text
 Sample/**/*.png filter=lfs diff=lfs merge=lfs -text
 Sample/**/*.jsonl filter=lfs diff=lfs merge=lfs -text
 Train/Checkpoints/** filter=lfs diff=lfs merge=lfs -text

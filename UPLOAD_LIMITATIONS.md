@@ -1,4 +1,6 @@
-The following source files were not committed to this GitHub repository because GitHub LFS rejects any single object larger than 2 GiB.
+GitHub LFS rejects any single object larger than 2 GiB.
+
+The following source files therefore cannot be stored at their original paths in this repository:
 
 - Dataset/UEA&UCR_Multivariate_Time_Series_Classification_Archive/Multivariate/FruitFlies/FruitFlies.arff
 - Dataset/UEA&UCR_Multivariate_Time_Series_Classification_Archive/Multivariate/UrbanSound/UrbanSound.arff
@@ -7,10 +9,6 @@ The following source files were not committed to this GitHub repository because 
 - Models/Qwen3-4B-Instruct-2507/model-00001-of-00003.safetensors
 - Models/Qwen3-4B-Instruct-2507/model-00002-of-00003.safetensors
 
-All other requested folders and files remain part of the upload set.
+Their complete contents are preserved under SplitLargeFiles/ as sub-2-GiB parts tracked by Git LFS.
 
-If these files must be shared online, use one of the following instead:
-
-1. Re-shard or split the files into parts smaller than 2 GiB.
-2. Publish them through GitHub Releases or another artifact/object storage service.
-3. Keep them outside GitHub and document a local retrieval path.
+Use SplitLargeFiles/reassemble.ps1 to reconstruct the original files from those parts.
